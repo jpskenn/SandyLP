@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.55,
-          "width": 0.6
+          "drill": 2.2,
+          "height": 4.4,
+          "width": 4.4
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -49,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.0
+          "min_clearance": 0.3556
         }
       },
       "diff_pair_dimensions": [
@@ -187,10 +187,7 @@
         0.0,
         0.2,
         0.25,
-        0.254,
-        0.3,
-        0.381,
-        0.5
+        0.381
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -457,7 +454,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Sandy_Base.kicad_pro",
+    "filename": "SandyLP_Top.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -505,51 +502,15 @@
     "netclass_patterns": [
       {
         "netclass": "Power",
-        "pattern": "+5V"
-      },
-      {
-        "netclass": "Default",
         "pattern": "GND"
       },
       {
-        "netclass": "Default",
+        "netclass": "Power",
         "pattern": "Mid_GND"
       },
       {
-        "netclass": "Default",
+        "netclass": "Power",
         "pattern": "Top_GND"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "VCC"
-      },
-      {
-        "netclass": "Default",
-        "pattern": "LED"
-      },
-      {
-        "netclass": "Default",
-        "pattern": "Net-*DOUT)"
-      },
-      {
-        "netclass": "Default",
-        "pattern": "Net-*DIN)"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "VBUS"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "+3V3"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "+1V1"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "VDD"
       }
     ]
   },
@@ -561,9 +522,9 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../../tmp/DN0040_Sandy_Base.step",
+      "step": "../../../../../tmp/DN0040_Sandy_Top_with_plate_Mid.step",
       "svg": "",
-      "vrml": "../../../../../tmp/Sandy_Base.wrl"
+      "vrml": ""
     },
     "page_layout_descr_file": ""
   },
@@ -619,55 +580,13 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "LCSC",
-          "name": "LCSC",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "MFR.Part #",
-          "name": "MFR.Part #",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Sim.Device",
-          "name": "Sim.Device",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Sim.Pins",
-          "name": "Sim.Pins",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Text",
-          "name": "Text",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "説明",
-          "name": "Description",
-          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "",
+      "name": "Grouped By Value",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "リファレンス"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -703,7 +622,7 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 0,
+      "model_mode": 4,
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
