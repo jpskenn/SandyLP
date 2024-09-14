@@ -4866,7 +4866,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
 			(at 302.26 172.72 0)
 			(effects
 				(font
@@ -5151,7 +5151,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
 			(at 302.26 182.88 0)
 			(effects
 				(font
@@ -5648,7 +5648,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
 			(at 274.32 172.72 0)
 			(effects
 				(font
@@ -7340,7 +7340,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
 			(at 274.32 182.88 0)
 			(effects
 				(font
