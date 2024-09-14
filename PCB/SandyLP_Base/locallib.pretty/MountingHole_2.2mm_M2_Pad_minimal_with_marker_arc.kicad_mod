@@ -1,4 +1,4 @@
-(footprint "MountingHole_2.2mm_M2_Pad_minimal"
+(footprint "MountingHole_2.2mm_M2_Pad_minimal_with_marker_arc"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0d810fe8-6d4c-47fe-88f3-962489b7a9fa")
+		(uuid "46191d8b-00a1-4ff0-9794-eddf5597a416")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "b93d57f9-a9f4-4332-bc69-5f3f2fb76807")
+		(uuid "9d316ecb-7627-4215-afc7-191fbf4c970c")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -56,7 +56,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "355421da-a72f-49bf-a33e-0fb6d2b9bd47")
+		(uuid "9ab5f10c-20fc-463a-8e5b-7e3f4aa15a1f")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -65,6 +65,17 @@
 		)
 	)
 	(attr exclude_from_pos_files)
+	(fp_arc
+		(start -2.286 -1.428606)
+		(mid 0 -2.6924)
+		(end 2.286 -1.428606)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f76b18a9-406f-4d35-869a-b4727978d145")
+	)
 	(fp_circle
 		(center 0 0)
 		(end 2.2 0)
