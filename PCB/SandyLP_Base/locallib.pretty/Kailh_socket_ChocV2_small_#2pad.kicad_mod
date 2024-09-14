@@ -7,7 +7,7 @@
 	(tags "kailh,choc")
 	(property "Reference" "REF**"
 		(at -5 -2 0)
-		(layer "B.SilkS")
+		(layer "Dwgs.User")
 		(uuid "1b25eaae-b615-407e-ab49-0034ab422436")
 		(effects
 			(font
@@ -67,7 +67,7 @@
 	(attr through_hole)
 	(fp_line
 		(start -7 1.5)
-		(end -7 2)
+		(end -7 1.9)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -76,7 +76,7 @@
 		(uuid "7c96c0b0-d582-4c77-ad76-6f7c72f92ce4")
 	)
 	(fp_line
-		(start -7 5.6)
+		(start -7 5.7)
 		(end -7 6.2)
 		(stroke
 			(width 0.15)
@@ -448,7 +448,7 @@
 		(uuid "d4cae1e0-7324-42a5-90f6-2e2833f246a5")
 	)
 	(fp_line
-		(start -9.375 2.5)
+		(start -8.6 2.5)
 		(end -7 2.5)
 		(stroke
 			(width 0.12)
@@ -458,8 +458,8 @@
 		(uuid "e557f064-e103-4218-97b4-17a35289fd24")
 	)
 	(fp_line
-		(start -9.375 5)
-		(end -9.375 2.5)
+		(start -8.6 5)
+		(end -8.6 2.5)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -479,7 +479,7 @@
 	)
 	(fp_line
 		(start -7 5)
-		(end -9.375 5)
+		(end -8.6 5)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -744,13 +744,6 @@
 		)
 	)
 	(pad "" np_thru_hole circle
-		(at -5.5 0)
-		(size 1.7 1.7)
-		(drill 1.7)
-		(layers "*.Cu" "*.Mask")
-		(uuid "6b5aa5b3-6415-4954-8fe9-f9cdc4502ad6")
-	)
-	(pad "" np_thru_hole circle
 		(at -5 3.75)
 		(size 3 3)
 		(drill 3)
@@ -772,11 +765,11 @@
 		(uuid "300f5e3e-6d04-401f-955a-09e35194f512")
 	)
 	(pad "" np_thru_hole circle
-		(at 5.5 0)
-		(size 1.7 1.7)
-		(drill 1.7)
-		(layers "*.Cu" "*.Mask")
-		(uuid "16907671-fe98-4e92-813b-e6c96311c702")
+		(at 5 -5.15)
+		(size 1.6 1.6)
+		(drill 1.6)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "7afde853-6f65-4215-8c46-d5f4384e7589")
 	)
 	(pad "1" smd rect
 		(at 3.275 5.95)
@@ -784,27 +777,29 @@
 		(layers "B.Cu" "B.Paste" "B.Mask")
 		(uuid "bb81280c-17de-4b92-bf4a-fb4fb09efb1f")
 	)
+	(pad "2" thru_hole circle
+		(at -8.2 2.4)
+		(size 0.8 0.8)
+		(drill 0.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "3255ae5f-7a32-4f9f-bbf9-f1a1cafa1e3f")
+	)
+	(pad "2" thru_hole circle
+		(at -8.2 5.2)
+		(size 0.8 0.8)
+		(drill 0.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "acfc2d5c-7d33-413d-87b4-abe0f92ef5d8")
+	)
 	(pad "2" smd rect
-		(at -8.175 3.75)
-		(size 2.4 2.6)
+		(at -7.7875 3.8)
+		(size 1.625 3.6)
 		(layers "B.Cu" "B.Paste" "B.Mask")
 		(uuid "5cf12c59-9ac7-4436-b58b-7395eda592ff")
-	)
-	(pad "MP" thru_hole oval
-		(at 5 -5.5)
-		(size 1.6 1.2)
-		(drill oval 1.2 0.8)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "7afde853-6f65-4215-8c46-d5f4384e7589")
-	)
-	(pad "MP" thru_hole oval
-		(at 5.22 -4.2)
-		(size 1.6 1.2)
-		(drill oval 1.2 0.8)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "233819d9-0ae5-4e69-b475-f985808a8206")
 	)
 	(model "${KIPRJMOD}/locallib.pretty/kailh-socket-choc.stp"
 		(offset
