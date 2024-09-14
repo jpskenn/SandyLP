@@ -13929,7 +13929,7 @@
 	)
 	(global_label "row4"
 		(shape input)
-		(at 180.34 243.84 180)
+		(at 157.48 243.84 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13939,7 +13939,7 @@
 		)
 		(uuid "7113ce15-29a0-44ef-bfae-4f82a306fb4f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 173.5338 243.84 0)
+			(at 150.6738 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13949,7 +13949,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 180.34 245.6752 0)
+			(at 157.48 245.6752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14996,7 +14996,7 @@
 	)
 	(global_label "row4"
 		(shape input)
-		(at 281.94 243.84 180)
+		(at 304.8 243.84 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15006,7 +15006,7 @@
 		)
 		(uuid "b638f861-55f9-4a64-8914-825f653c65d5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 275.1338 243.84 0)
+			(at 297.9938 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15016,7 +15016,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 281.94 245.6752 0)
+			(at 304.8 245.6752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21985,7 +21985,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Jones.local:Sandy_logo_w60_new"
+		(property "Footprint" "locallib:SandyLP_logo_w60"
 			(at 251.46 27.305 0)
 			(effects
 				(font
@@ -23556,7 +23556,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 304.8 243.84 0)
+		(at 281.94 243.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23565,7 +23565,7 @@
 		(fields_autoplaced yes)
 		(uuid "1c855b07-c32b-4fc9-bb23-354ba555f1a7")
 		(property "Reference" "#PWR067"
-			(at 304.8 250.19 0)
+			(at 281.94 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23574,7 +23574,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 304.8 247.9731 0)
+			(at 281.94 247.9731 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23582,7 +23582,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 304.8 243.84 0)
+			(at 281.94 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23591,7 +23591,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 304.8 243.84 0)
+			(at 281.94 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23600,7 +23600,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 304.8 243.84 0)
+			(at 281.94 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29378,7 +29378,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 157.48 243.84 0)
+		(at 180.34 243.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29387,7 +29387,7 @@
 		(fields_autoplaced yes)
 		(uuid "978f2fad-9115-44f9-8b1d-4c0860215640")
 		(property "Reference" "#PWR066"
-			(at 157.48 250.19 0)
+			(at 180.34 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29396,7 +29396,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 157.48 247.9731 0)
+			(at 180.34 247.9731 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29404,7 +29404,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 157.48 243.84 0)
+			(at 180.34 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29413,7 +29413,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 157.48 243.84 0)
+			(at 180.34 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29422,7 +29422,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 157.48 243.84 0)
+			(at 180.34 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
