@@ -1264,7 +1264,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MX-Switch-Hole"
+		(property "Footprint" "locallib:MX-Switch-Hole-with-narrow-frame"
 			(at 158.75 71.755 0)
 			(effects
 				(font
@@ -1331,7 +1331,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MX-Switch-Hole"
+		(property "Footprint" "locallib:MX-Switch-Hole-with-narrow-frame"
 			(at 109.22 40.005 0)
 			(effects
 				(font
@@ -1398,7 +1398,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MX-Switch-Hole"
+		(property "Footprint" "locallib:MX-Switch-Hole-with-narrow-frame"
 			(at 175.26 103.505 0)
 			(effects
 				(font
@@ -1531,7 +1531,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MX-Switch-Hole"
+		(property "Footprint" "locallib:MX-Switch-Hole-with-narrow-frame"
 			(at 125.73 40.64 0)
 			(effects
 				(font
@@ -1598,7 +1598,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MX-Switch-Hole"
+		(property "Footprint" "locallib:MX-Switch-Hole-with-narrow-frame"
 			(at 125.73 71.755 0)
 			(effects
 				(font
@@ -1731,7 +1731,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MX-Switch-Hole"
+		(property "Footprint" "locallib:MX-Switch-Hole-with-narrow-frame"
 			(at 125.73 103.505 0)
 			(effects
 				(font
@@ -1798,7 +1798,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MX-Switch-Hole"
+		(property "Footprint" "locallib:MX-Switch-Hole-with-narrow-frame"
 			(at 142.24 103.505 0)
 			(effects
 				(font
