@@ -765,7 +765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MX-Switch-Hole"
+		(property "Footprint" "locallib:MXOnly-1U-Hotswap-guide-dummy"
 			(at 257.81 40.005 0)
 			(effects
 				(font
@@ -832,7 +832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MX-Switch-Hole"
+		(property "Footprint" "locallib:MXOnly-1U-Hotswap-guide-dummy"
 			(at 241.3 40.005 0)
 			(effects
 				(font
@@ -899,7 +899,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MX-Switch-Hole"
+		(property "Footprint" "locallib:MX-Switch-Hole-with-narrow-frame"
 			(at 59.69 40.005 0)
 			(effects
 				(font
@@ -1032,7 +1032,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MX-Switch-Hole"
+		(property "Footprint" "locallib:MX-Switch-Hole-with-narrow-frame"
 			(at 43.18 40.005 0)
 			(effects
 				(font
