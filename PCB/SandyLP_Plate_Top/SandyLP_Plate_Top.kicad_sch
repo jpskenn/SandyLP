@@ -389,22 +389,10 @@
 		(uuid "158bb089-cd1c-4bde-bab1-e90d133c08cf")
 	)
 	(junction
-		(at 105.41 48.895)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "15de8030-60e1-46ef-8b3f-8cf6034964ba")
-	)
-	(junction
 		(at 49.53 57.785)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23ef669c-f864-44b4-ac5b-ec7814f0f4ba")
-	)
-	(junction
-		(at 39.37 37.465)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "25f46921-50f0-4201-9fe2-cc880f10f490")
 	)
 	(junction
 		(at 214.63 57.785)
@@ -437,12 +425,6 @@
 		(uuid "5109959d-ea14-4f7d-8d57-61d9206b7463")
 	)
 	(junction
-		(at 204.47 37.465)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "58f39389-8e46-4dae-a5a6-e87be6e4ab8b")
-	)
-	(junction
 		(at 181.61 57.785)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -453,12 +435,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "608e4ce8-7f82-4e8a-9508-aa6442aa8160")
-	)
-	(junction
-		(at 72.39 48.895)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6b10a654-a466-4b28-a70d-89e602ce90d8")
 	)
 	(junction
 		(at 105.41 37.465)
@@ -491,12 +467,6 @@
 		(uuid "8ed36f0a-da38-4356-a4ba-5ca0ad339315")
 	)
 	(junction
-		(at 39.37 48.895)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a0a70fb6-1def-4744-9930-181eb1f0ee8f")
-	)
-	(junction
 		(at 247.65 57.785)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -513,18 +483,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c28d5547-af46-40ec-a2e8-67347c468b2f")
-	)
-	(junction
-		(at 237.49 37.465)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d1941e77-948b-4b3d-a476-36fd4b7d2aac")
-	)
-	(junction
-		(at 72.39 37.465)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d7350c77-6319-42ec-ae75-41d009fe1e95")
 	)
 	(junction
 		(at 171.45 37.465)
@@ -550,12 +508,6 @@
 		(color 0 0 0 0)
 		(uuid "fc1f6989-e9ec-44bc-9608-9e75216a66dc")
 	)
-	(junction
-		(at 171.45 80.645)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fc73c5bd-69ba-465b-932a-3237d5c9a518")
-	)
 	(wire
 		(pts
 			(xy 132.08 92.075) (xy 165.1 92.075)
@@ -575,16 +527,6 @@
 			(type default)
 		)
 		(uuid "0bb1b644-3cb1-4d18-a596-fab3f258593d")
-	)
-	(wire
-		(pts
-			(xy 237.49 37.465) (xy 237.49 48.895)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0bdace65-cc50-45e2-acb7-0ca6153ced86")
 	)
 	(wire
 		(pts
@@ -668,16 +610,6 @@
 	)
 	(wire
 		(pts
-			(xy 254 37.465) (xy 237.49 37.465)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a8693de-c25d-4d63-8b3a-d29fa5e63d48")
-	)
-	(wire
-		(pts
 			(xy 148.59 88.265) (xy 148.59 89.535)
 		)
 		(stroke
@@ -685,56 +617,6 @@
 			(type default)
 		)
 		(uuid "3cd198a4-3fed-409c-a31d-a570fe6f1b1e")
-	)
-	(wire
-		(pts
-			(xy 171.45 48.895) (xy 171.45 80.645)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e109853-fbab-4b65-aadf-dcd59bb54315")
-	)
-	(wire
-		(pts
-			(xy 55.88 37.465) (xy 55.88 48.895)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "405c1275-217d-4f7d-a8a6-dd16783a4435")
-	)
-	(wire
-		(pts
-			(xy 220.98 37.465) (xy 220.98 48.895)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4449d02b-6c54-49ea-923f-0bddd33648b0")
-	)
-	(wire
-		(pts
-			(xy 204.47 37.465) (xy 204.47 48.895)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47206aa8-99b1-48ef-b821-beb3a25c9e41")
-	)
-	(wire
-		(pts
-			(xy 72.39 33.655) (xy 72.39 37.465)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "477641bc-f04d-452b-9d1a-269c8a63d731")
 	)
 	(wire
 		(pts
@@ -828,16 +710,6 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 33.655) (xy 237.49 37.465)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c5071a9-84c8-40c4-9e00-5aa88987ddbd")
-	)
-	(wire
-		(pts
 			(xy 36.195 92.075) (xy 132.08 92.075)
 		)
 		(stroke
@@ -845,16 +717,6 @@
 			(type default)
 		)
 		(uuid "5eeb034f-0b54-4a75-88ff-fcf3538c9f6e")
-	)
-	(wire
-		(pts
-			(xy 39.37 37.465) (xy 55.88 37.465)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "600d2e83-fc05-46ab-8455-de8cdd845e86")
 	)
 	(wire
 		(pts
@@ -918,16 +780,6 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 48.895) (xy 72.39 95.885)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e0d0f68-73f0-41a8-b723-028b2cedb6b3")
-	)
-	(wire
-		(pts
 			(xy 66.04 60.325) (xy 99.06 60.325)
 		)
 		(stroke
@@ -948,26 +800,6 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 37.465) (xy 72.39 48.895)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "852321cc-2024-4fdd-9cc6-667f8a19b549")
-	)
-	(wire
-		(pts
-			(xy 254 37.465) (xy 254 48.895)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "89afa60b-129c-4efd-809e-02075662df68")
-	)
-	(wire
-		(pts
 			(xy 181.61 57.785) (xy 181.61 56.515)
 		)
 		(stroke
@@ -975,16 +807,6 @@
 			(type default)
 		)
 		(uuid "8a046565-ea28-45a2-8020-665f15fbf256")
-	)
-	(wire
-		(pts
-			(xy 39.37 48.895) (xy 39.37 95.885)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a1392d4-e39b-442f-b316-eb006853354e")
 	)
 	(wire
 		(pts
@@ -1028,23 +850,13 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 80.645) (xy 171.45 106.045)
+			(xy 171.45 48.895) (xy 171.45 106.045)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a6ddd136-fd3a-4e9d-bf1c-f359c1181948")
-	)
-	(wire
-		(pts
-			(xy 204.47 33.655) (xy 204.47 37.465)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a7207ab9-3d48-48d6-8043-cf5b27b0e8b6")
 	)
 	(wire
 		(pts
@@ -1138,16 +950,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 33.655) (xy 39.37 37.465)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b54de14c-d176-4c6c-a3a3-702060012d3d")
-	)
-	(wire
-		(pts
 			(xy 115.57 57.785) (xy 148.59 57.785)
 		)
 		(stroke
@@ -1168,27 +970,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 37.465) (xy 204.47 37.465)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb1beffd-7677-4d11-93ab-de6e01da0b2c")
-	)
-	(wire
-		(pts
-			(xy 88.9 37.465) (xy 88.9 48.895)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cda7e14b-45a2-4a14-920a-5ead59d47266")
-	)
-	(wire
-		(pts
-			(xy 105.41 37.465) (xy 105.41 48.895)
+			(xy 105.41 37.465) (xy 105.41 95.885)
 		)
 		(stroke
 			(width 0)
@@ -1278,16 +1060,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 37.465) (xy 39.37 48.895)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4a076b2-75ee-4f70-bf5e-fcc75fd9948a")
-	)
-	(wire
-		(pts
 			(xy 82.55 56.515) (xy 82.55 57.785)
 		)
 		(stroke
@@ -1295,16 +1067,6 @@
 			(type default)
 		)
 		(uuid "e62746a4-3632-4f0c-a92d-67fc8433a5cc")
-	)
-	(wire
-		(pts
-			(xy 105.41 48.895) (xy 105.41 95.885)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7e11af1-e23b-4229-a7bc-b5375f7e7645")
 	)
 	(wire
 		(pts
@@ -1335,16 +1097,6 @@
 			(type default)
 		)
 		(uuid "f0f61d17-16d2-4602-bbea-0786ee63ae14")
-	)
-	(wire
-		(pts
-			(xy 88.9 37.465) (xy 72.39 37.465)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f69cb887-4b44-48b3-a842-b312a2e726fa")
 	)
 	(text "Key Matrix"
 		(exclude_from_sim no)
@@ -1421,68 +1173,6 @@
 			)
 		)
 	)
-	(global_label "Top_col1"
-		(shape input)
-		(at 72.39 33.655 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6eb01bf5-cb38-43a2-a756-586b11333918")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 72.3106 22.9851 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Top_col0"
-		(shape input)
-		(at 39.37 33.655 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7d1a6f3d-e40b-4117-b6db-54f1a410300a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 39.2906 22.9851 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "Top_row0"
 		(shape input)
 		(at 36.195 57.785 180)
@@ -1545,37 +1235,6 @@
 			)
 		)
 	)
-	(global_label "Top_col6"
-		(shape input)
-		(at 237.49 33.655 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a7b4308b-e2c7-414a-ae35-20603225e726")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 237.4106 22.9851 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "Top_row6"
 		(shape input)
 		(at 36.195 92.075 180)
@@ -1603,37 +1262,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Top_col5"
-		(shape input)
-		(at 204.47 33.655 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b5f97d23-b353-4e4d-abb6-8d05f0e57b5d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 204.3906 22.9851 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -1697,207 +1325,6 @@
 				)
 				(justify left)
 				(hide yes)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 44.45 48.895 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0c381374-cce7-4e88-b741-25469d94e21a")
-		(property "Reference" "SW_ESC1"
-			(at 44.45 41.656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 44.45 43.9674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
-			(at 44.45 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 44.45 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 44.45 48.895 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c9a59539-4e10-4fad-913c-5c8a83a9a0fb")
-		)
-		(pin "2"
-			(uuid "fa3aac56-fb86-4dab-965e-41da7f9ec364")
-		)
-		(instances
-			(project "Sandy_Plate_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW_ESC1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 193.04 48.895 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1d5c488d-730a-4104-8101-953423415f61")
-		(property "Reference" "SW_7"
-			(at 193.04 41.656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 193.04 43.9674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
-			(at 193.04 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 193.04 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 193.04 48.895 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "afa1eacd-911d-4ce9-a945-4684df6c3336")
-		)
-		(pin "2"
-			(uuid "e9cadd17-1034-4d23-b5c5-53f73756f33a")
-		)
-		(instances
-			(project "Sandy_Plate_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW_7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 77.47 48.895 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "231004c2-2d33-4d8c-8e6d-ff6aca446311")
-		(property "Reference" "SW_2"
-			(at 77.47 41.656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 77.47 43.9674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
-			(at 77.47 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 77.47 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 77.47 48.895 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b2ed507a-97e0-4295-b64e-c8e5bb983c2b")
-		)
-		(pin "2"
-			(uuid "4959427f-22e1-4153-bfbf-1eb97443318e")
-		)
-		(instances
-			(project "Sandy_Plate_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW_2")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -1969,73 +1396,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 143.51 106.045 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "36547ede-670d-4306-a374-1c8d6f9e11d5")
-		(property "Reference" "SW_;1"
-			(at 143.51 98.806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 143.51 101.1174 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
-			(at 143.51 100.965 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 143.51 100.965 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 143.51 106.045 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "727fde2d-7d5c-44e7-a834-df96b6b306a7")
-		)
-		(pin "2"
-			(uuid "53594d1a-1197-4809-8077-065872377162")
-		)
-		(instances
-			(project "Sandy_Plate_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW_;1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 143.51 48.895 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2059,7 +1419,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
+		(property "Footprint" "locallib:MX-Switch-Hole"
 			(at 143.51 43.815 0)
 			(effects
 				(font
@@ -2096,73 +1456,6 @@
 			(project "Sandy_Plate_Top"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "SW_-1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 127 80.645 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4898316d-0594-42a8-85da-df45098306a0")
-		(property "Reference" "SW_T1"
-			(at 127 73.406 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 127 75.7174 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
-			(at 127 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 127 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 127 80.645 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "844f714c-ed0a-4977-99e5-17ac5e3614f4")
-		)
-		(pin "2"
-			(uuid "e3c595a4-b891-44f6-abd5-b8b44267123c")
-		)
-		(instances
-			(project "Sandy_Plate_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW_T1")
 					(unit 1)
 				)
 			)
@@ -2259,7 +1552,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
+		(property "Footprint" "locallib:MX-Switch-Hole"
 			(at 160.02 43.815 0)
 			(effects
 				(font
@@ -2303,207 +1596,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 259.08 48.895 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4eb2b645-574f-4bc9-a7fa-226790f45f99")
-		(property "Reference" "SW_INS1"
-			(at 259.08 41.656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 259.08 43.9674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
-			(at 259.08 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 259.08 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 259.08 48.895 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "087db32d-1180-4021-adac-021061895be0")
-		)
-		(pin "2"
-			(uuid "14fc2d63-2a75-4840-9b58-eabbb194d0e8")
-		)
-		(instances
-			(project "Sandy_Plate_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW_INS1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 209.55 48.895 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5106f202-3c8e-4b93-8086-3c47ed2a066e")
-		(property "Reference" "SW_8"
-			(at 209.55 41.656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 209.55 43.9674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
-			(at 209.55 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 209.55 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 209.55 48.895 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f4520a89-1076-400a-8775-a599e52102f9")
-		)
-		(pin "2"
-			(uuid "1acdf11e-d2ea-432c-a80b-cf470d74f4e1")
-		)
-		(instances
-			(project "Sandy_Plate_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW_8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 60.96 48.895 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "511dc68c-0e25-4534-b09f-812ed688de71")
-		(property "Reference" "SW_1"
-			(at 60.96 41.656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 60.96 43.9674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
-			(at 60.96 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 60.96 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 60.96 48.895 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5a3b4a1c-ae50-4107-958f-0c669e9abd0f")
-		)
-		(pin "2"
-			(uuid "668a33b7-fe6d-4489-b551-a2a621f66d8b")
-		)
-		(instances
-			(project "Sandy_Plate_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW_1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 127 48.895 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2527,7 +1619,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
+		(property "Footprint" "locallib:MX-Switch-Hole"
 			(at 127 43.815 0)
 			(effects
 				(font
@@ -2571,140 +1663,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 226.06 48.895 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "648cbe96-3ce2-4d15-a160-67a09b964c98")
-		(property "Reference" "SW_9"
-			(at 226.06 41.656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 226.06 43.9674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
-			(at 226.06 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 226.06 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 226.06 48.895 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a6569ca1-1a4d-4687-9452-af7a9cb90aa9")
-		)
-		(pin "2"
-			(uuid "9132e3d7-881a-4067-9116-741c5ffb74a2")
-		)
-		(instances
-			(project "Sandy_Plate_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW_9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 176.53 80.645 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7e259b49-e395-4573-aaae-a9fe85057c42")
-		(property "Reference" "SW_Y1"
-			(at 176.53 73.406 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 176.53 75.7174 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
-			(at 176.53 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 176.53 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 176.53 80.645 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9b91a902-334f-4e6c-9d31-69e17b912156")
-		)
-		(pin "2"
-			(uuid "2b51313a-4d85-4e39-aa5f-10c16eb11166")
-		)
-		(instances
-			(project "Sandy_Plate_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW_Y1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 143.51 80.645 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2728,7 +1686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
+		(property "Footprint" "locallib:MX-Switch-Hole"
 			(at 143.51 75.565 0)
 			(effects
 				(font
@@ -2772,208 +1730,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 242.57 48.895 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a6942b14-9ccb-4f36-8574-ef3b116a09b2")
-		(property "Reference" "SW_10"
-			(at 242.57 41.656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 242.57 43.9674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
-			(at 242.57 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 242.57 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 242.57 48.895 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "63af9c80-dafa-4ef8-8dd8-1d214bf50ef1")
-		)
-		(pin "2"
-			(uuid "2aaf4abe-01ac-4f3c-adec-07e8c1637d61")
-		)
-		(instances
-			(project "Sandy_Plate_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW_10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 160.02 106.045 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bf27feac-2dbf-43e9-a001-fcfae92c2e7a")
-		(property "Reference" "SW_'1"
-			(at 160.02 98.806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 160.02 101.1174 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
-			(at 160.02 100.965 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 160.02 100.965 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 160.02 106.045 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f890cc76-9495-443d-8762-21ee6d0e8fee")
-		)
-		(pin "2"
-			(uuid "80a28f32-47f7-49e5-8ae8-6caf0bd08bec")
-		)
-		(instances
-			(project "Sandy_Plate_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW_'1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 93.98 48.895 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d5843d3c-6455-47e0-9b64-51ea447c3f86")
-		(property "Reference" "SW_3"
-			(at 93.98 41.656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 93.98 43.9674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
-			(at 93.98 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 93.98 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 93.98 48.895 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1ab7a4b6-1a9e-414b-bb19-28400aef9592")
-		)
-		(pin "2"
-			(uuid "272f0b9d-8332-4ebc-8c12-c441967f67ba")
-		)
-		(instances
-			(project "Sandy_Plate_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW_3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 160.02 80.645 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2997,7 +1753,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
+		(property "Footprint" "locallib:MX-Switch-Hole"
 			(at 160.02 75.565 0)
 			(effects
 				(font
@@ -3041,73 +1797,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 110.49 48.895 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "eb9be19d-018a-4a9e-9388-5476cea6f22b")
-		(property "Reference" "SW_4"
-			(at 110.49 41.656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 110.49 43.9674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
-			(at 110.49 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 110.49 43.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 110.49 48.895 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bb9b09c5-1ffd-4d14-83f8-deaf629f45e8")
-		)
-		(pin "2"
-			(uuid "3af72d4e-5c27-4040-99fd-d75c8994cf01")
-		)
-		(instances
-			(project "Sandy_Plate_Top"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW_4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 176.53 48.895 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3131,7 +1820,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jones.local:MXOnly-1U-Hotswap-guide-dummy"
+		(property "Footprint" "locallib:MX-Switch-Hole"
 			(at 176.53 43.815 0)
 			(effects
 				(font
