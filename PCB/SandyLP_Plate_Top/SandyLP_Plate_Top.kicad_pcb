@@ -334,7 +334,7 @@
 				)
 			)
 		)
-		(attr through_hole)
+		(attr through_hole board_only exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -142.875 -38.1)
 			(end -123.825 -38.1)
@@ -1583,7 +1583,7 @@
 		)
 		(fp_arc
 			(start 18.425 1.164174)
-			(mid 19.01077 -0.250057)
+			(mid 19.010771 -0.250053)
 			(end 20.425 -0.835826)
 			(stroke
 				(width 0.3)
@@ -1594,7 +1594,7 @@
 		)
 		(fp_arc
 			(start 18.44991 16.295746)
-			(mid 17.864148 17.709982)
+			(mid 17.864148 17.709986)
 			(end 16.44991 18.295746)
 			(stroke
 				(width 0.3)
@@ -1605,7 +1605,7 @@
 		)
 		(fp_arc
 			(start 35.4625 -21.13133)
-			(mid 36.876724 -20.545545)
+			(mid 36.876689 -20.545539)
 			(end 37.4625 -19.13133)
 			(stroke
 				(width 0.3)
@@ -2381,33 +2381,44 @@
 			)
 		)
 	)
-	(gr_text "Back Side"
-		(at 157.98031 36.528405 0)
-		(layer "B.SilkS" knockout)
-		(uuid "641f66ae-98a4-4d19-86d7-019e9df77e3f")
-		(effects
-			(font
-				(size 2.2 2.2)
-				(thickness 0.225)
-				(italic yes)
-			)
-			(justify mirror)
-		)
-	)
-	(gr_text "JLCJLCJLCJLC"
-		(at 129.40531 18.278405 0)
+	(gr_text "DN0010"
+		(at 167.50531 18.497155 0)
 		(layer "B.SilkS")
-		(uuid "ab3203c9-fc11-4a8b-bd84-4877785d90b8")
+		(uuid "4675d5cd-a4c4-46cb-8fb6-867e253dda65")
 		(effects
 			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
+				(size 1.2 1.2)
+				(thickness 0.15)
 			)
 			(justify mirror)
 		)
 	)
-	(gr_text "#SandyLP_kbd DN0010\nPlate for Top by @jpskenn"
-		(at 157.98031 17.478405 0)
+	(gr_text "by @jpskenn"
+		(at 129.40531 18.497155 0)
+		(layer "B.SilkS")
+		(uuid "866e4663-44a3-4995-8778-daf9e727a8e4")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "Plate for Top"
+		(at 148.45531 18.497155 0)
+		(layer "B.SilkS")
+		(uuid "e0de6a07-6e34-42e2-887c-25c0d765655d")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "#SandyLP_kbd"
+		(at 186.55531 18.497155 0)
 		(layer "B.SilkS")
 		(uuid "e2d82ce1-3ec9-4706-b049-567767fb3ce6")
 		(effects

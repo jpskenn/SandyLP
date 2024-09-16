@@ -1830,7 +1830,7 @@
 		)
 		(fp_arc
 			(start -1.308116 0.190917)
-			(mid 0.05 -0.05)
+			(mid 0.050001 -0.05)
 			(end 0.743353 1.142386)
 			(stroke
 				(width 0.2)
@@ -3881,7 +3881,7 @@
 		)
 		(fp_arc
 			(start 18.425 1.164174)
-			(mid 19.010771 -0.250053)
+			(mid 19.01077 -0.250057)
 			(end 20.425 -0.835826)
 			(stroke
 				(width 0.3)
@@ -3892,7 +3892,7 @@
 		)
 		(fp_arc
 			(start 18.44991 16.295746)
-			(mid 17.864148 17.709986)
+			(mid 17.864148 17.709982)
 			(end 16.44991 18.295746)
 			(stroke
 				(width 0.3)
@@ -3903,7 +3903,7 @@
 		)
 		(fp_arc
 			(start 35.4625 -21.13133)
-			(mid 36.876689 -20.545539)
+			(mid 36.876724 -20.545545)
 			(end 37.4625 -19.13133)
 			(stroke
 				(width 0.3)
@@ -4011,7 +4011,7 @@
 		)
 		(fp_arc
 			(start -1.308116 0.190917)
-			(mid 0.05 -0.05)
+			(mid 0.050001 -0.05)
 			(end 0.743353 1.142386)
 			(stroke
 				(width 0.2)
@@ -4108,7 +4108,7 @@
 		)
 		(fp_arc
 			(start -1.308116 0.190917)
-			(mid 0.05 -0.05)
+			(mid 0.050001 -0.05)
 			(end 0.743353 1.142386)
 			(stroke
 				(width 0.2)
@@ -4762,7 +4762,7 @@
 		)
 		(fp_arc
 			(start -1.308116 0.190917)
-			(mid 0.05 -0.05)
+			(mid 0.050001 -0.05)
 			(end 0.743353 1.142386)
 			(stroke
 				(width 0.2)
@@ -6437,7 +6437,7 @@
 		)
 		(fp_arc
 			(start -1.308116 0.190917)
-			(mid 0.05 -0.05)
+			(mid 0.050001 -0.05)
 			(end 0.743353 1.142386)
 			(stroke
 				(width 0.2)
@@ -8545,7 +8545,7 @@
 		)
 		(fp_arc
 			(start -1.308116 0.190917)
-			(mid 0.050001 -0.05)
+			(mid 0.05 -0.05)
 			(end 0.743353 1.142386)
 			(stroke
 				(width 0.2)
@@ -11258,33 +11258,21 @@
 			)
 		)
 	)
-	(gr_text "JLCJLCJLCJLC"
-		(at 193.69906 46.053405 90)
-		(layer "B.SilkS")
-		(uuid "ab3203c9-fc11-4a8b-bd84-4877785d90b8")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-			)
-			(justify mirror)
-		)
-	)
 	(gr_text "Back Side"
-		(at 187.80531 36.528405 0)
+		(at 157.98031 55.578405 0)
 		(layer "B.SilkS" knockout)
 		(uuid "d4d16630-f0ac-42c6-95bb-b5bb10b0ffb4")
 		(effects
 			(font
-				(size 1.6 1.6)
+				(size 1.8 1.8)
 				(thickness 0.2)
 				(italic yes)
 			)
 			(justify mirror)
 		)
 	)
-	(gr_text "#SandyLP_kbd DN0010\nTop by @jpskenn"
-		(at 162.30531 37.478405 0)
+	(gr_text "#SandyLP_kbd DN0010 Top by @jpskenn"
+		(at 193.69906 36.528405 0)
 		(layer "B.SilkS")
 		(uuid "e2d82ce1-3ec9-4706-b049-567767fb3ce6")
 		(effects

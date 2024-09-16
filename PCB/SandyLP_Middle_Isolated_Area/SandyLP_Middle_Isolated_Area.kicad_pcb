@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(general
-		(thickness 1.2)
+		(thickness 1.6)
 		(legacy_teardrops no)
 	)
 	(paper "A4")
@@ -53,7 +53,7 @@
 			)
 			(layer "dielectric 1"
 				(type "core")
-				(thickness 1.11)
+				(thickness 1.51)
 				(material "FR4")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02)
@@ -1080,7 +1080,7 @@
 		)
 		(fp_arc
 			(start 2.475824 -5.107131)
-			(mid 1.399999 -5.299999)
+			(mid 1.4 -5.3)
 			(end 0.555319 -5.993622)
 			(stroke
 				(width 0.12)
@@ -3163,7 +3163,7 @@
 		)
 		(fp_arc
 			(start 0.671822 -3.333526)
-			(mid 0.262252 -3.449499)
+			(mid 0.262246 -3.449501)
 			(end 0.25 -3.875)
 			(stroke
 				(width 0.12)
@@ -6208,18 +6208,6 @@
 				(size 1.4 1.4)
 				(thickness 0.2)
 				(italic yes)
-			)
-			(justify mirror)
-		)
-	)
-	(gr_text "JLCJLCJLCJLC"
-		(at 51.083435 57.31903 0)
-		(layer "B.SilkS")
-		(uuid "aa4711a4-d528-465c-8a9b-3f3adec66a92")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
 			)
 			(justify mirror)
 		)

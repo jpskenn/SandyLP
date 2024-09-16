@@ -522,7 +522,7 @@
       "plot": "Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../../tmp/SandyLP_Middle_plate.step",
+      "step": "../../../../../tmp/SandyLP_Plate_Middle.step",
       "svg": "",
       "vrml": ""
     },
