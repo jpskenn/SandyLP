@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(general
-		(thickness 1.6)
+		(thickness 1.2)
 		(legacy_teardrops no)
 	)
 	(paper "A4")
@@ -53,7 +53,7 @@
 			)
 			(layer "dielectric 1"
 				(type "core")
-				(thickness 1.51)
+				(thickness 1.11)
 				(material "FR4")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02)
@@ -77,8 +77,8 @@
 		)
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
-		(aux_axis_origin 15.10531 17.478405)
-		(grid_origin 15.10531 17.478405)
+		(aux_axis_origin 19.86781 15.097155)
+		(grid_origin 19.86781 15.097155)
 		(pcbplotparams
 			(layerselection 0x00310fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
@@ -1583,7 +1583,7 @@
 		)
 		(fp_arc
 			(start 18.425 1.164174)
-			(mid 19.010771 -0.250053)
+			(mid 19.01077 -0.250057)
 			(end 20.425 -0.835826)
 			(stroke
 				(width 0.3)
@@ -1594,7 +1594,7 @@
 		)
 		(fp_arc
 			(start 18.44991 16.295746)
-			(mid 17.864148 17.709986)
+			(mid 17.864148 17.709982)
 			(end 16.44991 18.295746)
 			(stroke
 				(width 0.3)
@@ -1605,7 +1605,7 @@
 		)
 		(fp_arc
 			(start 35.4625 -21.13133)
-			(mid 36.876689 -20.545539)
+			(mid 36.876724 -20.545545)
 			(end 37.4625 -19.13133)
 			(stroke
 				(width 0.3)
