@@ -5652,7 +5652,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "locallib:MX-Switch-Hole-with-narrow-frame"
+		(property "Footprint" "locallib:MX-Switch-Hole-for-RE(higher hole)-with-narrow-frame"
 			(at 137.541 109.22 0)
 			(effects
 				(font
