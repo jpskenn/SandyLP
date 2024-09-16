@@ -28107,7 +28107,7 @@
 		)
 		(fp_arc
 			(start -0.378178 -1.358526)
-			(mid -0.787708 -1.474533)
+			(mid -0.787709 -1.474533)
 			(end -0.8 -1.9)
 			(stroke
 				(width 0.12)
@@ -30168,7 +30168,7 @@
 		)
 		(fp_arc
 			(start -0.378178 -1.358526)
-			(mid -0.787708 -1.474533)
+			(mid -0.787709 -1.474533)
 			(end -0.8 -1.9)
 			(stroke
 				(width 0.12)
@@ -32235,7 +32235,7 @@
 		(descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
 		(tags "test point THT pad")
 		(property "Reference" "T_C3"
-			(at 0 1.998 360)
+			(at 0 1.998 0)
 			(layer "B.SilkS")
 			(uuid "f3c20c89-26b5-4534-828b-b5f3b9a34734")
 			(effects
@@ -32247,7 +32247,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 0 -2.05 360)
+			(at 0 -2.05 0)
 			(layer "B.Fab")
 			(uuid "4db53335-7c17-4e59-9ebc-a20646ae8e3f")
 			(effects
@@ -32328,7 +32328,7 @@
 			(uuid "09139d41-54be-423b-beac-f36db175f9e5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "B.Fab")
 			(uuid "2b2e5b28-3f5e-4a5f-bf98-6dc95bc73e27")
 			(effects
@@ -71681,17 +71681,6 @@
 				(xyz 0 0 0)
 			)
 		)
-	)
-	(gr_rect
-		(start 2.339685 65.434655)
-		(end 4.389685 69.534655)
-		(stroke
-			(width 0.1)
-			(type dash)
-		)
-		(fill none)
-		(layer "F.SilkS")
-		(uuid "f2246a00-d025-4862-a3d4-152b647ddacb")
 	)
 	(gr_text "#SandyLP_kbd DN0010, Base by @jpskenn\ngithub.com/jpskenn/SandyLP"
 		(locked yes)
