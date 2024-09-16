@@ -110,14 +110,14 @@
 	)
 	(pad "" np_thru_hole roundrect
 		(at -6.5 0 90)
-		(size 16.3 1.8)
-		(drill oval 15.5 1)
+		(size 17.3 1.8)
+		(drill oval 16.5 1)
 		(layers "F&B.Cu" "*.Mask")
 		(roundrect_rratio 0.5)
 		(uuid "3cdf5775-eeb5-4055-95b8-c6caf66cdee1")
 	)
 	(pad "" np_thru_hole roundrect
-		(at 0 -7.25)
+		(at 0 -7.75)
 		(size 14.8 1.8)
 		(drill oval 14 1)
 		(layers "F&B.Cu" "*.Mask")
@@ -125,7 +125,7 @@
 		(uuid "bd77e47f-0396-4b22-b84b-dc3031cafa75")
 	)
 	(pad "" np_thru_hole roundrect
-		(at 0 7.25)
+		(at 0 7.75)
 		(size 14.8 1.8)
 		(drill oval 14 1)
 		(layers "F&B.Cu" "*.Mask")
@@ -134,8 +134,8 @@
 	)
 	(pad "" np_thru_hole roundrect
 		(at 6.5 0 90)
-		(size 16.3 1.8)
-		(drill oval 15.5 1)
+		(size 17.3 1.8)
+		(drill oval 16.5 1)
 		(layers "F&B.Cu" "*.Mask")
 		(roundrect_rratio 0.5)
 		(uuid "56e6f2d0-09c9-4ab0-94de-2413e5231fb9")
