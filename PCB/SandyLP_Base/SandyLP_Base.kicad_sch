@@ -16057,6 +16057,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 242.57 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b4a21858-dd91-4c27-9661-f64a0b154c7a")
 		)
@@ -16116,6 +16125,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 77.47 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 77.47 125.73 0)
 			(effects
 				(font
@@ -16193,7 +16211,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 214.63 129.54 0)
 			(effects
 				(font
@@ -16212,6 +16230,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 214.63 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 214.63 129.54 0)
 			(effects
 				(font
@@ -16279,6 +16306,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 209.55 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 209.55 125.73 0)
 			(effects
 				(font
@@ -16356,7 +16392,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 181.61 129.54 0)
 			(effects
 				(font
@@ -16375,6 +16411,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 181.61 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 181.61 129.54 0)
 			(effects
 				(font
@@ -16442,6 +16487,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 60.96 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 60.96 125.73 0)
 			(effects
 				(font
@@ -16519,7 +16573,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 66.04 129.54 0)
 			(effects
 				(font
@@ -16538,6 +16592,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 66.04 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 66.04 129.54 0)
 			(effects
 				(font
@@ -16605,6 +16668,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 60.96 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 60.96 46.355 0)
 			(effects
 				(font
@@ -16682,7 +16754,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 66.04 50.165 0)
 			(effects
 				(font
@@ -16701,6 +16773,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 66.04 50.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 66.04 50.165 0)
 			(effects
 				(font
@@ -16768,6 +16849,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 77.47 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 77.47 46.355 0)
 			(effects
 				(font
@@ -16845,7 +16935,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 82.55 50.165 0)
 			(effects
 				(font
@@ -16864,6 +16954,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 82.55 50.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 82.55 50.165 0)
 			(effects
 				(font
@@ -16931,6 +17030,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 209.55 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 209.55 46.355 0)
 			(effects
 				(font
@@ -17008,7 +17116,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 214.63 50.165 0)
 			(effects
 				(font
@@ -17027,6 +17135,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 214.63 50.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 214.63 50.165 0)
 			(effects
 				(font
@@ -17094,6 +17211,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 193.04 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 193.04 46.355 0)
 			(effects
 				(font
@@ -17171,7 +17297,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 198.12 50.165 0)
 			(effects
 				(font
@@ -17190,6 +17316,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 198.12 50.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 198.12 50.165 0)
 			(effects
 				(font
@@ -17267,7 +17402,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 33.02 73.66 0)
 			(effects
 				(font
@@ -17286,6 +17421,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 33.02 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 33.02 73.66 0)
 			(effects
 				(font
@@ -17353,6 +17497,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 44.45 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 44.45 69.85 0)
 			(effects
 				(font
@@ -17430,7 +17583,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 49.53 73.66 0)
 			(effects
 				(font
@@ -17449,6 +17602,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 49.53 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 49.53 73.66 0)
 			(effects
 				(font
@@ -17516,6 +17678,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 60.96 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 60.96 69.85 0)
 			(effects
 				(font
@@ -17593,7 +17764,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 66.04 73.66 0)
 			(effects
 				(font
@@ -17612,6 +17783,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 66.04 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 66.04 73.66 0)
 			(effects
 				(font
@@ -17679,6 +17859,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 77.47 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 77.47 69.85 0)
 			(effects
 				(font
@@ -17756,7 +17945,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 82.55 73.66 0)
 			(effects
 				(font
@@ -17775,6 +17964,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 82.55 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 82.55 73.66 0)
 			(effects
 				(font
@@ -17842,6 +18040,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 93.98 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 93.98 69.85 0)
 			(effects
 				(font
@@ -17919,7 +18126,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 99.06 73.66 0)
 			(effects
 				(font
@@ -17938,6 +18145,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 99.06 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 99.06 73.66 0)
 			(effects
 				(font
@@ -18005,6 +18221,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 209.55 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 209.55 69.85 0)
 			(effects
 				(font
@@ -18082,7 +18307,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 214.63 73.66 0)
 			(effects
 				(font
@@ -18101,6 +18326,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 214.63 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 214.63 73.66 0)
 			(effects
 				(font
@@ -18168,6 +18402,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 176.53 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 176.53 69.85 0)
 			(effects
 				(font
@@ -18245,7 +18488,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 181.61 73.66 0)
 			(effects
 				(font
@@ -18264,6 +18507,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 181.61 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 181.61 73.66 0)
 			(effects
 				(font
@@ -18331,6 +18583,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 193.04 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 193.04 69.85 0)
 			(effects
 				(font
@@ -18408,7 +18669,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 198.12 73.66 0)
 			(effects
 				(font
@@ -18427,6 +18688,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 198.12 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 198.12 73.66 0)
 			(effects
 				(font
@@ -18504,7 +18774,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 247.65 73.66 0)
 			(effects
 				(font
@@ -18523,6 +18793,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 247.65 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 247.65 73.66 0)
 			(effects
 				(font
@@ -18590,6 +18869,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 27.94 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 27.94 93.98 0)
 			(effects
 				(font
@@ -18667,7 +18955,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 49.53 97.79 0)
 			(effects
 				(font
@@ -18686,6 +18974,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 49.53 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 49.53 97.79 0)
 			(effects
 				(font
@@ -18753,6 +19050,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 44.45 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 44.45 93.98 0)
 			(effects
 				(font
@@ -18830,7 +19136,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 66.04 97.79 0)
 			(effects
 				(font
@@ -18849,6 +19155,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 66.04 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 66.04 97.79 0)
 			(effects
 				(font
@@ -18916,6 +19231,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 60.96 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 60.96 93.98 0)
 			(effects
 				(font
@@ -18993,7 +19317,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 82.55 97.79 0)
 			(effects
 				(font
@@ -19012,6 +19336,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 82.55 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 82.55 97.79 0)
 			(effects
 				(font
@@ -19079,6 +19412,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 77.47 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 77.47 93.98 0)
 			(effects
 				(font
@@ -19156,7 +19498,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 99.06 97.79 0)
 			(effects
 				(font
@@ -19175,6 +19517,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 99.06 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 99.06 97.79 0)
 			(effects
 				(font
@@ -19242,6 +19593,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 226.06 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 226.06 93.98 0)
 			(effects
 				(font
@@ -19319,7 +19679,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 231.14 97.79 0)
 			(effects
 				(font
@@ -19338,6 +19698,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 231.14 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 231.14 97.79 0)
 			(effects
 				(font
@@ -19405,6 +19774,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 176.53 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 176.53 93.98 0)
 			(effects
 				(font
@@ -19482,7 +19860,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 181.61 97.79 0)
 			(effects
 				(font
@@ -19501,6 +19879,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 181.61 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 181.61 97.79 0)
 			(effects
 				(font
@@ -19568,6 +19955,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 193.04 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 193.04 93.98 0)
 			(effects
 				(font
@@ -19645,7 +20041,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 198.12 97.79 0)
 			(effects
 				(font
@@ -19664,6 +20060,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 198.12 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 198.12 97.79 0)
 			(effects
 				(font
@@ -19741,7 +20146,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 214.63 97.79 0)
 			(effects
 				(font
@@ -19760,6 +20165,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 214.63 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 214.63 97.79 0)
 			(effects
 				(font
@@ -19827,6 +20241,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 209.55 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 209.55 93.98 0)
 			(effects
 				(font
@@ -19904,7 +20327,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 247.65 97.79 0)
 			(effects
 				(font
@@ -19923,6 +20346,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 247.65 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 247.65 97.79 0)
 			(effects
 				(font
@@ -20000,7 +20432,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 82.55 129.54 0)
 			(effects
 				(font
@@ -20019,6 +20451,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 82.55 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 82.55 129.54 0)
 			(effects
 				(font
@@ -20096,7 +20537,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 99.06 129.54 0)
 			(effects
 				(font
@@ -20115,6 +20556,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 99.06 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 99.06 129.54 0)
 			(effects
 				(font
@@ -20182,6 +20632,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 193.04 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 193.04 125.73 0)
 			(effects
 				(font
@@ -20259,7 +20718,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 198.12 129.54 0)
 			(effects
 				(font
@@ -20278,6 +20737,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 198.12 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 198.12 129.54 0)
 			(effects
 				(font
@@ -20345,6 +20813,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 93.98 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 93.98 125.73 0)
 			(effects
 				(font
@@ -20431,6 +20908,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 391.16 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "01768df8-016a-4e42-908b-c5692b738fb0")
 		)
@@ -20496,6 +20982,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 27.94 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 27.94 69.85 0)
 			(effects
 				(font
@@ -20573,6 +21068,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 255.905 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7e1f2158-f734-4276-813c-aec6c20e6cae")
 		)
@@ -20631,6 +21135,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 255.905 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 255.905 78.74 0)
 			(effects
 				(font
@@ -20705,6 +21218,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 255.905 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6c226271-43ae-426b-b3f2-97fbb7ecf89b")
 		)
@@ -20763,6 +21285,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 15.24 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 15.24 259.08 0)
 			(effects
 				(font
@@ -20834,6 +21365,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 33.02 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
@@ -20897,6 +21437,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 50.8 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
@@ -20952,6 +21501,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 255.905 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 255.905 102.87 0)
 			(effects
 				(font
@@ -21026,6 +21584,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 255.905 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0438553f-26f5-4525-bd92-f1415665fc12")
 		)
@@ -21084,6 +21651,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 255.905 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 255.905 134.62 0)
 			(effects
 				(font
@@ -21158,6 +21734,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 255.905 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fcda30f0-7ead-49d5-bed9-d5eee829af2b")
 		)
@@ -21216,6 +21801,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 22.86 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 22.86 144.78 0)
 			(effects
 				(font
@@ -21290,6 +21884,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 55.88 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3966294d-dd1d-4607-8c02-dbfe1f178030")
 		)
@@ -21348,6 +21951,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 88.9 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 88.9 144.78 0)
 			(effects
 				(font
@@ -21422,6 +22034,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 121.92 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a2f9c90-a0db-4366-8d2d-4e0cb0aaa67b")
 		)
@@ -21480,6 +22101,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 154.94 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 154.94 144.78 0)
 			(effects
 				(font
@@ -21554,6 +22184,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 68.58 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
@@ -21609,6 +22248,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 187.96 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 187.96 144.78 0)
 			(effects
 				(font
@@ -21683,6 +22331,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 220.98 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f9f823e5-b157-4d9c-aee3-3e0152ec084b")
 		)
@@ -21748,6 +22405,15 @@
 			)
 		)
 		(property "LCSC" "C165948"
+			(at 349.885 224.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 349.885 224.155 0)
 			(effects
 				(font
@@ -21870,7 +22536,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 33.02 97.79 0)
 			(effects
 				(font
@@ -21889,6 +22555,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 33.02 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 33.02 97.79 0)
 			(effects
 				(font
@@ -21956,6 +22631,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 242.57 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 242.57 69.85 0)
 			(effects
 				(font
@@ -22042,6 +22726,15 @@
 				(justify left)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 251.46 27.305 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
@@ -22105,7 +22798,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 115.57 129.54 0)
 			(effects
 				(font
@@ -22124,6 +22817,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 115.57 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 115.57 129.54 0)
 			(effects
 				(font
@@ -22201,7 +22903,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 165.1 129.54 0)
 			(effects
 				(font
@@ -22220,6 +22922,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 165.1 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 165.1 129.54 0)
 			(effects
 				(font
@@ -22297,7 +23008,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 231.14 73.66 0)
 			(effects
 				(font
@@ -22316,6 +23027,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 231.14 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 231.14 73.66 0)
 			(effects
 				(font
@@ -22383,6 +23103,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 226.06 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 226.06 69.85 0)
 			(effects
 				(font
@@ -22593,6 +23322,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 157.48 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a23a1527-8719-4315-9588-586f3cfcd630")
 		)
@@ -22666,6 +23404,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 340.995 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "086afa9a-7f3f-4507-a742-d073639038c4")
 		)
@@ -22725,6 +23472,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 93.98 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 93.98 93.98 0)
 			(effects
 				(font
@@ -22894,6 +23650,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 255.27 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "04e97e75-524e-4d42-bc14-afc61d141af3")
 		)
@@ -22972,6 +23737,15 @@
 		)
 		(property "LCSC" "C341520"
 			(at 333.375 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 333.375 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23334,6 +24108,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 59.69 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "SandyLP_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
@@ -23397,6 +24180,15 @@
 		)
 		(property "LCSC" "C25905"
 			(at 367.665 216.535 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 367.665 216.535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23757,6 +24549,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 209.55 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "19d97782-5e6a-447a-acbb-3725355e8ba8")
 		)
@@ -23825,6 +24626,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 129.54 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 129.54 118.11 0)
 			(effects
 				(font
@@ -23977,6 +24787,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 246.38 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "27c65a8b-508a-4a8d-8b55-dafdf25f1031")
 		)
@@ -24035,6 +24854,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 231.14 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 231.14 231.14 0)
 			(effects
 				(font
@@ -24335,6 +25163,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 165.735 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3d047c8c-ed07-4fe9-afe3-19419271f85d")
 		)
@@ -24471,6 +25308,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 304.8 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d3dc7299-c837-4d36-86f2-c0135a622bbc")
 		)
@@ -24529,6 +25375,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 304.8 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 304.8 241.3 0)
 			(effects
 				(font
@@ -24670,6 +25525,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 157.48 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc85dc38-1565-477e-bb4b-eb8645e5e6ff")
 		)
@@ -24738,6 +25602,15 @@
 			)
 		)
 		(property "LCSC" "C1525"
+			(at 320.675 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 320.675 51.435 0)
 			(effects
 				(font
@@ -24825,6 +25698,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 217.17 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2995c860-65e0-442e-b4d7-e23bee856864")
 		)
@@ -24896,6 +25778,15 @@
 			)
 		)
 		(property "LCSC" "C130723"
+			(at 367.665 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 367.665 30.48 0)
 			(effects
 				(font
@@ -25050,6 +25941,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 354.965 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c92f976f-3ffb-4a5b-be89-07eb177fcbc0")
 		)
@@ -25120,6 +26020,15 @@
 			)
 		)
 		(property "LCSC" "C1525"
+			(at 255.27 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 255.27 181.61 0)
 			(effects
 				(font
@@ -25199,6 +26108,15 @@
 			)
 		)
 		(property "LCSC" "C307418"
+			(at 399.415 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 399.415 52.07 0)
 			(effects
 				(font
@@ -25343,7 +26261,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C910763"
+		(property "LCSC" ""
+			(at 173.355 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" "C910763"
 			(at 173.355 198.12 0)
 			(effects
 				(font
@@ -25423,6 +26350,15 @@
 			)
 		)
 		(property "LCSC" "C190862"
+			(at 306.07 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 306.07 145.415 0)
 			(effects
 				(font
@@ -25584,6 +26520,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 247.65 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d5046204-3d6a-48e8-bde0-e1bfec5653e6")
 		)
@@ -25651,6 +26596,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 33.02 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 33.02 271.78 0)
 			(effects
 				(font
@@ -25788,6 +26742,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 209.55 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "99795a6d-09d7-4f7a-ab82-28574ebac6dc")
 		)
@@ -25873,6 +26836,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 390.525 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e0703137-26c7-46ac-8ac0-f07558ebd817")
 		)
@@ -25934,6 +26906,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 68.58 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 68.58 271.78 0)
 			(effects
 				(font
@@ -26070,6 +27051,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 110.49 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2b009cf7-fa4a-42b0-aa08-7723902cb2e5")
 		)
@@ -26138,6 +27128,15 @@
 			)
 		)
 		(property "LCSC" "C25100"
+			(at 340.995 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 340.995 105.41 0)
 			(effects
 				(font
@@ -26356,6 +27355,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 372.745 213.995 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b0088e00-801d-4ced-8b5c-db86182595bc")
 		)
@@ -26416,6 +27424,15 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 360.68 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 360.68 22.86 0)
 			(effects
 				(font
@@ -26495,6 +27512,15 @@
 			)
 		)
 		(property "LCSC" "C1525"
+			(at 310.515 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 310.515 51.435 0)
 			(effects
 				(font
@@ -26716,6 +27742,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 351.155 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2f39f9c3-343a-4eaa-a822-1bdf42467d10")
 		)
@@ -26784,6 +27819,15 @@
 			)
 		)
 		(property "LCSC" "C11702"
+			(at 182.88 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 182.88 170.18 0)
 			(effects
 				(font
@@ -26861,6 +27905,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 180.34 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a2bddc83-f44b-4539-9544-a7cfb0b42974")
 		)
@@ -26927,7 +27980,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 132.08 129.54 0)
 			(effects
 				(font
@@ -26946,6 +27999,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 132.08 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 132.08 129.54 0)
 			(effects
 				(font
@@ -27100,6 +28162,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 340.995 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dac89add-dea4-441f-b491-89ea0852b4e1")
 		)
@@ -27161,6 +28232,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 205.74 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 205.74 231.14 0)
 			(effects
 				(font
@@ -27311,6 +28391,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 280.035 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8f6eaa7a-897b-471c-ab15-9fe8fde87f30")
 		)
@@ -27381,6 +28470,15 @@
 			)
 		)
 		(property "LCSC" "C25744"
+			(at 283.21 135.255 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 283.21 135.255 0)
 			(effects
 				(font
@@ -27460,6 +28558,15 @@
 			)
 		)
 		(property "LCSC" "C77090"
+			(at 345.44 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 345.44 25.4 0)
 			(effects
 				(font
@@ -27673,6 +28780,15 @@
 			)
 		)
 		(property "LCSC" "C1525"
+			(at 217.17 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 217.17 181.61 0)
 			(effects
 				(font
@@ -27903,6 +29019,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 281.94 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f61219a4-15d0-471f-a819-7f89b6ac7d58")
 		)
@@ -27979,6 +29104,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 371.475 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c65dad0f-00f5-4c23-a3a9-c54d01caa3a0")
 		)
@@ -28039,6 +29173,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 247.65 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 247.65 165.1 0)
 			(effects
 				(font
@@ -28486,6 +29629,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 290.195 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dbda5778-f652-4d4c-b39e-8ab13495e904")
 		)
@@ -28680,6 +29832,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 241.3 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 241.3 261.62 0)
 			(effects
 				(font
@@ -28888,6 +30049,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 15.24 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
@@ -28941,6 +30111,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 176.53 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 176.53 125.73 0)
 			(effects
 				(font
@@ -29010,6 +30189,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 215.9 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 215.9 251.46 0)
 			(effects
 				(font
@@ -29091,6 +30279,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 203.2 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c97e2f76-4b53-4079-9cf0-ded141c84d75")
 		)
@@ -29151,6 +30348,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 228.6 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 228.6 165.1 0)
 			(effects
 				(font
@@ -29376,6 +30582,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 332.105 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e6fa4719-14ce-4874-9aa3-68425bcfc64e")
 		)
@@ -29588,6 +30803,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 339.725 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "81a14269-ec97-4a49-a4de-adcea38a6f5b")
 		)
@@ -29790,6 +31014,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 254 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "90b750e5-176d-4495-980c-adad2a898462")
 		)
@@ -29932,6 +31165,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 361.315 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c80f7880-20d0-44a3-9350-88cf102f0b71")
 		)
@@ -30009,6 +31251,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 298.45 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b088ce13-8254-4e1e-a9fc-b9e0dff8c773")
 		)
@@ -30070,6 +31321,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 180.34 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 180.34 231.14 0)
 			(effects
 				(font
@@ -30144,7 +31404,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 198.12 201.93 0)
 			(effects
 				(font
@@ -30163,6 +31423,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 198.12 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 198.12 201.93 0)
 			(effects
 				(font
@@ -30372,6 +31641,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 299.72 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d2b9df39-1855-4393-b78d-b96849001855")
 		)
@@ -30472,6 +31750,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 308.61 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ebd80f28-4f8f-45bd-8859-c76d72d24081")
 		)
@@ -30540,6 +31827,15 @@
 			)
 		)
 		(property "LCSC" "C11702"
+			(at 165.735 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 165.735 170.18 0)
 			(effects
 				(font
@@ -30619,6 +31915,15 @@
 			)
 		)
 		(property "LCSC" "C1525"
+			(at 236.22 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 236.22 161.29 0)
 			(effects
 				(font
@@ -30963,6 +32268,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 297.18 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "21c54675-41ef-40e2-b1f4-fad5ed307c53")
 		)
@@ -31235,6 +32549,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 24.13 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "SandyLP_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
@@ -31302,6 +32625,15 @@
 		)
 		(property "LCSC" "C78284"
 			(at 173.99 172.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 173.99 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31449,7 +32781,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C910763"
+		(property "LCSC" ""
+			(at 210.82 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" "C910763"
 			(at 210.82 198.12 0)
 			(effects
 				(font
@@ -31811,6 +33152,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 330.835 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "49c9f952-b0e7-4b57-b23f-ac6fc5bc01dd")
 		)
@@ -31939,6 +33289,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 255.905 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 255.905 137.16 0)
 			(effects
 				(font
@@ -32303,6 +33662,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 280.67 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "85a66d5b-361b-4e2c-b898-9d171a3eacde")
 		)
@@ -32591,6 +33959,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 281.94 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9a194766-81ff-421a-90c0-7bd0506d1794")
 		)
@@ -32726,6 +34103,15 @@
 			)
 		)
 		(property "LCSC" "C1525"
+			(at 236.22 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 236.22 181.61 0)
 			(effects
 				(font
@@ -32937,6 +34323,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 41.91 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "SandyLP_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
@@ -32992,6 +34387,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 220.98 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 220.98 261.62 0)
 			(effects
 				(font
@@ -33481,6 +34885,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 231.14 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a3734e0f-4112-4099-a436-22600fc84b07")
 		)
@@ -33554,6 +34967,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 367.665 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4b7a67bc-1d0c-4b2a-8687-696b4537bd57")
 		)
@@ -33615,6 +35037,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 50.8 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 50.8 271.78 0)
 			(effects
 				(font
@@ -33752,6 +35183,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 256.54 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "abf5ebc0-02fc-4c5c-82b2-e2406f968a9e")
 		)
@@ -33808,6 +35248,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 160.02 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 160.02 125.73 0)
 			(effects
 				(font
@@ -33876,6 +35325,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 228.6 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 228.6 185.42 0)
 			(effects
 				(font
@@ -34045,6 +35503,15 @@
 			)
 		)
 		(property "LCSC" "C2040"
+			(at 368.935 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 368.935 133.35 0)
 			(effects
 				(font
@@ -34285,7 +35752,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C92589"
+		(property "LCSC" ""
+			(at 297.18 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" "C2886897"
 			(at 297.18 102.87 0)
 			(effects
 				(font
@@ -34362,7 +35838,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C92589"
+		(property "LCSC" ""
+			(at 297.18 71.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" "C2886897"
 			(at 297.18 71.755 0)
 			(effects
 				(font
@@ -34440,7 +35925,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C109203"
+		(property "LCSC" "C81598"
 			(at 160.655 201.93 0)
 			(effects
 				(font
@@ -34459,6 +35944,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 160.655 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 160.655 201.93 0)
 			(effects
 				(font
@@ -34528,6 +36022,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 208.28 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 208.28 241.3 0)
 			(effects
 				(font
@@ -34678,6 +36181,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 318.77 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "58fa49f5-1a1a-487e-b359-e4ed6a280e68")
 		)
@@ -34749,6 +36261,15 @@
 			)
 		)
 		(property "LCSC" "C307418"
+			(at 387.985 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
 			(at 387.985 81.28 0)
 			(effects
 				(font

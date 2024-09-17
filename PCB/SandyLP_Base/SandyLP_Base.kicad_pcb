@@ -284,6 +284,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f396644f-c06a-405e-a821-13eadb8ff9a3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-00005f66ba2b")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
@@ -1006,6 +1019,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0766132f-6c54-429f-9559-0506fd9d5c51")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1736,6 +1762,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5df5177-2419-48c5-816c-a452b8cf5bde")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-00005f66584b")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
@@ -2458,6 +2497,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f52997b-4fb0-49e4-bd1a-2823519b4443")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3188,6 +3240,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17a7084b-8de0-45c9-8807-409bb5839752")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-00005f665863")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
@@ -3910,6 +3975,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03eda7a0-f32b-4dad-b513-0b3df6129dc6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4640,6 +4718,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af838b27-11a3-4911-b822-1c5011c7e86d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-00005f66586f")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
@@ -5362,6 +5453,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08e6fc6c-25f2-4cb3-8933-ae8ae9685664")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6092,6 +6196,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "82f8ab6f-66d0-4472-813f-beb0497a1799")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-00005f6658c3")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
@@ -6814,6 +6931,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5d0b638a-175b-4aca-8613-eb4bb8011fe3")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7544,6 +7674,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e08af56a-7113-4050-9406-e8b0bbb60623")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-00005f66ba13")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
@@ -8266,6 +8409,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9818ebbb-8780-4153-9515-412de7cc788f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8996,6 +9152,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a839c69-08a1-4928-9a79-e8ac19ae79ee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-00005f65b387")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
@@ -9718,6 +9887,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe8ef882-2822-444a-bc3e-857b823a7212")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -10448,6 +10630,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "11cfd0c7-31c1-435e-85f4-8274740ae028")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-00005f65b34b")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
@@ -11170,6 +11365,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ee6f137b-78b9-451b-8bc1-c4428532632f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11900,6 +12108,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d0aa2ef-9caf-4c34-9fa1-03acff327931")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-00005f66b9a7")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
@@ -12622,6 +12843,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a124375-d5d2-49f7-a8da-8348b4d2f8f1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13352,6 +13586,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8a2a01fe-befe-443a-9719-41757c143f15")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-00005f6780df")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
@@ -14074,6 +14321,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4a55abc-16c7-48a1-8cc4-10cad981b13d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14804,6 +15064,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ac6a28d7-a936-46df-83f2-1c34ed87c501")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-00006406026a")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
@@ -15526,6 +15799,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8d8e8468-baa0-45dc-b298-6c476e090922")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16256,6 +16542,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b700c465-1b7b-4703-a53f-4b8502761a1b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-00005efede4b")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
@@ -16978,6 +17277,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6c19a1c2-a8e1-4c4c-9880-46341c5d0f9b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17708,6 +18020,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4954fc4b-9508-4d87-b2a0-f103ed2b739a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/00000000-0000-0000-0000-000060b084c7")
 		(sheetname "ルート")
@@ -17857,6 +18182,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0e95c52-e4e4-44a6-a287-6f727e0b416f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -18014,6 +18352,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fddcd38e-938d-4eee-aeac-1c1569a4adee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/00000000-0000-0000-0000-000060b084d3")
 		(sheetname "ルート")
@@ -18163,6 +18514,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c25bb599-dfa7-4e3d-aec9-afd48dc71a4d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -18893,6 +19257,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "61ed3f7c-360c-45b3-a788-177e35cc05e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/00000000-0000-0000-0000-000060f24724")
 		(sheetname "ルート")
@@ -19042,6 +19419,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5304ba3-5607-423b-ace2-4cb5554c5bca")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -19768,6 +20158,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a0cb5a19-818e-4d28-9a74-207dde21cb03")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20911,6 +21314,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "782ee897-a60b-497a-b72a-01deaefeb970")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/425da99e-8037-4ea9-94a2-f9354cb5e32f")
 		(sheetname "ルート")
@@ -21064,6 +21480,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "24ac44dc-4602-48ea-aeba-4ecc72ed983e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/88c8bac8-6f95-4e92-98af-290f62a2b538")
 		(sheetname "ルート")
@@ -21213,6 +21642,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a114434f-4a72-430f-b484-40285a56b6e5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -22140,6 +22582,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9524ff7d-8c5b-4b74-b29e-8f53580683f6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -23127,6 +23582,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa291ec1-e62c-4952-9060-5b9ae7efd3e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/4c4a18ac-ce48-45c4-80a0-48a398d2b3ee")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
@@ -23849,6 +24317,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "428824d5-3626-4a1b-b09d-6ca47ee018e6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -24579,6 +25060,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bb23020e-d4dd-46a4-be9b-5db0c758af9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/8a6bb009-17bc-44bc-a12a-086cafde2f11")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
@@ -25301,6 +25795,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bfef02dc-9cc7-4e65-9e6f-9b9bfa146f2b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -26232,6 +26739,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a33e3cae-a172-47cb-b8a3-ae6531ecf6ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/488ed0aa-702f-4d28-bc67-d3f085bc3341")
 		(sheetname "ルート")
@@ -26380,6 +26900,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b15f0165-a8a4-42e4-a5ac-6e03802beaa7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -26934,6 +27467,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29101025-bca6-48a9-8c1e-88e513a48d5b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -28107,7 +28653,7 @@
 		)
 		(fp_arc
 			(start -0.378178 -1.358526)
-			(mid -0.787709 -1.474533)
+			(mid -0.787708 -1.474533)
 			(end -0.8 -1.9)
 			(stroke
 				(width 0.12)
@@ -28415,6 +28961,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8024a1f4-c857-458d-b852-7b78b93e0a0c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -28979,6 +29538,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c67cda16-1520-4750-b673-18f442a11b08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0968bbd5-25f5-446b-ab3d-df340379ac1b")
 			(effects
 				(font
 					(size 1 1)
@@ -29661,6 +30233,19 @@
 				)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aded5f89-d2e2-439e-b70d-ec0c0032b5b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/ecb0a6c9-e36b-4ce2-bfcd-dbf2bb12bc34")
 		(sheetname "ルート")
@@ -30168,7 +30753,7 @@
 		)
 		(fp_arc
 			(start -0.378178 -1.358526)
-			(mid -0.787709 -1.474533)
+			(mid -0.787708 -1.474533)
 			(end -0.8 -1.9)
 			(stroke
 				(width 0.12)
@@ -30488,6 +31073,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "43c8ea53-55d8-4d80-9a81-38bbca153fcb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-000060e07ee7")
 		(sheetname "ルート")
@@ -30606,6 +31205,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ee34b48a-a806-41ec-9659-e1c13b964ea0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -30734,6 +31347,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9f727391-6dc6-4eff-b163-3b90dea8132c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-000060f795d2")
 		(sheetname "ルート")
@@ -30852,6 +31479,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fbe85c0c-117c-477c-91fa-4a75e0ada920")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -30980,6 +31621,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "df4f7b13-98d6-4ffa-a1cc-66b57718d0b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-000060b78ab4")
 		(sheetname "ルート")
@@ -31098,6 +31753,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c596b644-09b3-44a0-be12-408d7088012d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -31226,6 +31895,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c42831f5-c4b5-46ce-adac-7595c1d6b415")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-000060f4752d")
 		(sheetname "ルート")
@@ -31344,6 +32027,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ebac34c8-79bf-4344-aa62-9552fef47c31")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -31472,6 +32169,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e678c07a-d8e0-4509-83dc-9b9c8b41e7f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-000060ab011a")
 		(sheetname "ルート")
@@ -31595,6 +32306,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "56a4edaa-cef2-442a-947e-a2071d4cda98")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-000060ab0114")
 		(sheetname "ルート")
@@ -31713,6 +32438,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7a856abd-1584-4b02-81b4-f978c355f041")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -31846,6 +32585,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6dc37e1d-5bfd-4534-b63b-cd991cf78933")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "acb49e75-96a8-421e-b6cd-a8b49cf0549a")
 			(effects
 				(font
 					(size 1 1)
@@ -32300,6 +33053,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5321963f-27d4-4ee8-84e3-ec8b281041b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-000060e7fa4e")
 		(sheetname "ルート")
@@ -32423,6 +33190,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "51de0b18-7942-450c-9a9e-9dfe1ae6b00b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-000060a4b967")
 		(sheetname "ルート")
@@ -32541,6 +33322,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b3461017-bce3-4cd4-a26c-7ce90e1d661d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -32694,6 +33489,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "bba426ce-ea4b-4b32-9a54-f31ac023fd27")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bfbf8a57-e0ab-4417-913d-9122c6e4a4f8")
 			(effects
 				(font
 					(size 1 1)
@@ -33007,6 +33816,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c871de52-288a-4813-8bb1-e3e8ec9fb8db")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -33410,6 +34233,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c1eaed41-42d0-4532-80ec-21de5411e289")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-00005f665869")
 		(sheetname "ルート")
@@ -33720,6 +34557,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fc5d369a-5c48-4715-b72e-aa5146eef4e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/fc4f3aaa-12bb-49fa-a729-0c46882a849b")
 		(sheetname "ルート")
@@ -33888,6 +34739,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4c1b55ee-3e07-4d0f-8309-7ed5c79dc9fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cf7fc791-cc41-47a4-b394-736452f45de2")
 			(effects
 				(font
 					(size 1 1)
@@ -34478,6 +35343,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "05855426-359d-4635-bc76-ab0c664e40b7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c48e80ec-f49a-42d2-8e7f-ac3c1ff537fd")
 			(effects
 				(font
 					(size 1 1)
@@ -35236,6 +36115,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "88042f5b-dfa6-4b4f-a533-7bf0c822c605")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/73172898-23f5-4de5-b3ee-29c68429515e")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
@@ -35530,6 +36423,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8687cdf3-f704-47d8-8afa-3e1e7baa53fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "17c649a5-dc7b-4e13-8449-95266c7b7901")
 			(effects
 				(font
 					(size 1 1)
@@ -35851,6 +36758,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "41dd3934-f9a3-45f2-99ed-b3c1ff9be6e4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -36234,6 +37155,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a61d5d80-622c-4ffb-8dc0-ea6b90fcbb87")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3192b931-215e-4f86-ac15-f10fb41a4729")
 		(sheetname "ルート")
@@ -36456,6 +37391,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "898bda29-f7ea-4809-be02-8b0172974fc5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -36763,6 +37712,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6c856109-9e5a-4476-b61b-fe9a0aa4765a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/08aeae5f-1302-462e-b1bd-293f2e8fbbda")
 		(sheetname "ルート")
@@ -36977,6 +37940,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9c204313-5229-4563-a9e4-dcde11d2218e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -37389,6 +38366,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c96583c1-83a3-41cc-b9f9-e9db69d2987d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ced21747-6735-452b-a44a-0157a3975720")
 			(effects
 				(font
 					(size 1 1)
@@ -38046,6 +39037,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d6faa747-4ece-4ea3-9932-6effadb2b3a7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/672d4820-aefc-499d-b2d3-49bc241bb4c4")
 		(sheetname "ルート")
@@ -38279,6 +39284,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "822fd890-358e-4bf2-9c27-86efd8570122")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a47946eb-93c5-4b1b-bb5c-25ba71445119")
 		(sheetname "ルート")
@@ -38496,6 +39515,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9b0ae736-f7fa-4b18-a60e-7ffdc5c7b212")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/262d1cff-a99d-4b9d-8760-bab239fc6182")
 		(sheetname "ルート")
@@ -38645,6 +39678,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "cfc7375c-cde2-4620-8783-182f5d6cd6de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "91b89bc5-7299-495d-90f3-9a1e1dfb984a")
 			(effects
 				(font
 					(size 1 1)
@@ -38878,6 +39925,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4c2adea5-bb67-4d2a-bbcf-325740d92ee0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "12cfddbd-79b1-4edf-9975-edac4acb3d26")
 			(effects
 				(font
 					(size 1 1)
@@ -39130,6 +40191,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a0218e3f-51f6-44b3-8f15-166418674619")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6d69f2c3-ad60-4f42-9304-6c340c66b3d1")
 			(effects
 				(font
 					(size 1 1)
@@ -39685,6 +40760,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bf77efef-3718-4d97-80b3-14b476abf1dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SOT?223*TabPin2*")
 		(path "/96baff21-c39f-4447-b25c-e204a2326d09")
 		(sheetname "ルート")
@@ -40204,6 +41293,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fc1af278-347a-4d0f-b785-c67a2ba1f724")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/5664aaa5-5fa9-4712-9778-f0098c1d52d0")
 		(sheetname "ルート")
@@ -40429,6 +41532,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6df6b1f6-919c-4a98-8b7a-61c31501307f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "89196804-47e1-46ae-b95e-e3015613348d")
 			(effects
 				(font
 					(size 1 1)
@@ -40911,6 +42028,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c7207028-8d11-4d8d-82be-c72373e4622b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-00005f6780d9")
 		(sheetname "ルート")
@@ -41221,6 +42352,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5659dfd4-14dd-4801-bc11-6ba7fada3b3c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/082eab63-1d50-4cd6-92cd-cc44599ab572")
 		(sheetname "ルート")
@@ -41389,6 +42534,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "cd7248af-67c3-4546-970e-3d1ab392f8c4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b2e1ecf3-fe42-480b-8c3b-117e7b20537b")
 			(effects
 				(font
 					(size 1 1)
@@ -41715,6 +42874,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d85836d7-f870-47a7-bd03-9b7801619571")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e19b1d4d-6589-4c8e-87ea-140cf53c3801")
 			(effects
 				(font
 					(size 1 1)
@@ -42178,6 +43351,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "479743d3-c3c7-46c6-a5b0-d5d9428194aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8cad29a1-42a3-4456-b814-9c05476f9b50")
 		(sheetname "ルート")
@@ -42390,6 +43577,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "aced454b-426c-4f14-b884-41d685fe070d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -42758,6 +43959,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cbc92e85-6492-4129-adc6-12ad64fc6d20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/5c1ddacc-07fd-459e-af62-da378289ebe5")
 		(sheetname "ルート")
@@ -42907,6 +44122,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "e2a1eaa1-a7b3-4d27-9a2a-70d45241d722")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8ffad73d-a18e-448f-a3b8-b64b6e54a191")
 			(effects
 				(font
 					(size 1 1)
@@ -43576,12 +44805,26 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C92589"
+		(property "LCSC" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "e8840211-d349-413a-be89-47ffbb3780b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" "C2886897"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8ffc3b60-d712-472a-a4a1-74390141e58f")
 			(effects
 				(font
 					(size 1 1)
@@ -44191,6 +45434,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6df05947-1266-4111-ad92-c4aed1ac50ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6740fb7a-70d3-41c1-af6b-22218fdb2739")
 		(sheetname "ルート")
@@ -44416,6 +45673,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "e336c05e-8c8f-4e00-9f97-dbeb14cd93d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9a684127-d2b3-4129-ada0-76c4d4b3d82e")
 			(effects
 				(font
 					(size 1 1)
@@ -44777,6 +46048,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cd29c094-4ddd-40ec-98e6-52937f2ba762")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-00005f6658c9")
 		(sheetname "ルート")
@@ -45122,6 +46407,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e581b4cb-47bb-48ef-b0cb-16c00909f773")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-00005f66ba25")
 		(sheetname "ルート")
@@ -45435,24 +46734,12 @@
 				(justify mirror)
 			)
 		)
-		(property "text" "SWD"
-			(at -2.5125 -4.3 0)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
 			(unlocked yes)
-			(layer "B.SilkS")
-			(uuid "6bbbfcc2-b104-437c-bd4f-93dc734237f1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "text " "SWCLK"
-			(at -3.5125 -0.9 0)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(uuid "9fbb4085-4c38-452e-8a7d-efc40dc0ff8b")
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "aaed696b-be99-48a6-bbcd-47933fa2fc9f")
 			(effects
 				(font
 					(size 1 1)
@@ -45711,6 +46998,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9fa9d794-d6b9-4a7c-ae36-75bf9fe291ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ff3823f1-f289-4a6b-a475-b77d4e780de6")
 			(effects
 				(font
 					(size 1 1)
@@ -46029,6 +47330,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bf1fdf17-72e8-4903-847d-356ef19f6b6b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/21f0be1d-b94c-456c-9610-b79b26fd5501")
 		(sheetname "ルート")
@@ -46279,6 +47594,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2c8e39f0-4f44-4cca-be55-f53fa0c198cc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "18cf241c-8c35-4901-95d8-bfb014149c91")
 			(effects
 				(font
 					(size 1 1)
@@ -46640,6 +47969,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "96131ba9-3abc-4d8e-bc15-f42b30cab291")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-00005f66ba19")
 		(sheetname "ルート")
@@ -46958,6 +48301,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "14cbb741-2071-4698-8ed8-63cb96333f51")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e17bd688-8ce5-4dc1-ac32-a5f0696b9c79")
 			(effects
 				(font
 					(size 1 1)
@@ -47482,6 +48839,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "81d747d1-0106-4f7e-b6f2-8917132fa505")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -48074,7 +49445,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C910763"
+		(property "LCSC" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -48088,11 +49459,12 @@
 				(justify mirror)
 			)
 		)
-		(property "text" "Audio1"
-			(at -0.1 5.475 0)
+		(property "LCSC-Reserve" "C910763"
+			(at 0 0 0)
 			(unlocked yes)
-			(layer "B.SilkS")
-			(uuid "c2c15cb1-6e40-4c5b-9101-a4ecfeba66d6")
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ba51530a-d459-4bde-9968-b3153d717e53")
 			(effects
 				(font
 					(size 1 1)
@@ -48495,6 +49867,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1c7ddaef-7694-4506-8db3-92022e41ca0f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/ac179968-373f-45f9-9418-1925982c267f")
 		(sheetname "ルート")
@@ -48813,6 +50199,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "432f5408-cf03-48ba-96d2-df203b18153d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cb8c681b-521a-429b-90a9-23861058aa88")
 			(effects
 				(font
 					(size 1 1)
@@ -49160,6 +50560,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "304859e6-ba41-45bd-a85b-1aa881adf0f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/cdc1d4c5-f16e-4c97-a763-a25d984df339")
 		(sheetname "ルート")
@@ -49289,6 +50703,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "bd639c75-465d-46a7-bffb-aa53d715869a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "550bcd34-3e1c-4b27-b4ac-2dbe57964a5d")
 			(effects
 				(font
 					(size 1 1)
@@ -49514,6 +50942,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e67af100-dca1-4ad7-9322-c57f43d8c265")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/f38e3478-ce53-461e-a91f-caed17b4e8a5")
 		(sheetname "ルート")
@@ -49663,6 +51105,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f9a7ef34-2e68-4ec6-9a05-174f06d1246e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c5a04670-4467-4c7b-a275-fa2725df24fa")
 			(effects
 				(font
 					(size 1 1)
@@ -49891,11 +51347,12 @@
 				(justify mirror)
 			)
 		)
-		(property "text" "STLED"
-			(at 3.7 0 -90)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
 			(unlocked yes)
-			(layer "B.SilkS")
-			(uuid "0796b792-8cc0-48e0-b079-b7ea6f9cfd67")
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0ddef519-0857-4b10-979a-6bb72cf775f7")
 			(effects
 				(font
 					(size 1 1)
@@ -50193,6 +51650,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "83dfd521-98e3-45c8-a0cb-09312c7fda45")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/66856e7c-03c7-46e1-acdb-19a712dde68c")
 		(sheetname "ルート")
@@ -50437,6 +51908,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "5ec9c549-d939-4f64-ae6e-2610810623b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c5a98b3c-1df7-442a-9a8c-cd02da0f454c")
 			(effects
 				(font
 					(size 1 1)
@@ -50747,6 +52232,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e59c1327-b9df-4c32-9229-52ec246981f6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -51065,6 +52564,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8c495cd4-6a94-46ef-acae-b19744568f1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b8f8db1a-10d7-4034-8b9a-1685d7815178")
 			(effects
 				(font
 					(size 1 1)
@@ -51399,6 +52912,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "66679d49-fbfa-473a-a3e1-95155ee18640")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9b3ee349-3e5d-45be-bd03-d8400e4edc6b")
 		(sheetname "ルート")
@@ -51624,6 +53151,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6da5d0c8-0eda-426e-8ff3-1276a41d81f4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9d2b25f8-233e-4216-af67-0ca89175fc60")
 			(effects
 				(font
 					(size 1 1)
@@ -52534,6 +54075,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b888c628-83a8-4dc5-9a74-5d0ae3cf5cdd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/1d776457-0e9d-443c-a032-c3142d81a9be")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
@@ -52855,6 +54410,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2f84978f-0603-4139-81e8-e97df4fa4456")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-000062e9da5b")
 		(sheetname "ルート")
@@ -53167,12 +54736,26 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C92589"
+		(property "LCSC" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "1b0257ed-d544-4838-9248-a09993332613")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" "C2886897"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3b5b2799-cd39-46a5-9045-ef06067d1967")
 			(effects
 				(font
 					(size 1 1)
@@ -53902,6 +55485,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7a9c65ee-347b-4627-8238-6a4f94721acc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-00005f66ba3d")
 		(sheetname "ルート")
@@ -54316,7 +55913,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C910763"
+		(property "LCSC" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -54330,11 +55927,12 @@
 				(justify mirror)
 			)
 		)
-		(property "text" "Audio2"
-			(at 0 5.475 0)
+		(property "LCSC-Reserve" "C910763"
+			(at 0 0 0)
 			(unlocked yes)
-			(layer "B.SilkS")
-			(uuid "9907b4c6-b445-4d0a-9938-6995f9905023")
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "80725202-305f-49eb-baaa-1b92d863a6cd")
 			(effects
 				(font
 					(size 1 1)
@@ -54694,6 +56292,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "62cc0ae4-6f9a-4a1c-a63a-709954cebd03")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -55483,6 +57095,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "548d7438-f2a0-4a28-a132-fdc876ca8e64")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/5c14c3ed-dbac-4884-99e4-5e2c1bacd819")
 		(sheetname "ルート")
@@ -55922,6 +57548,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "026812eb-b99e-421d-b852-d2362c62255f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/8a98323f-a98f-4080-a100-256e2b015549")
 		(sheetname "ルート")
@@ -56055,6 +57695,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8adbe6fe-0280-4768-85e8-c13316f17748")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -56338,6 +57992,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "be30610e-9f22-4a0d-b486-08b40b4cc7b0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -56851,6 +58519,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f358859e-30de-4e93-9214-967ce6451001")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/86f5933c-bad6-47c8-acbb-faaf715f9665")
 		(sheetname "ルート")
@@ -57109,6 +58791,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4f340a00-6295-42be-8320-a635553319ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/ff55fe0d-0d62-4210-8dd6-a2d115354aee")
 		(sheetname "ルート")
@@ -57353,6 +59049,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ee6341d1-4c8c-43e8-95c4-a486b6b32579")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3d965be6-a526-4b88-b8e5-5654022ba7ad")
 			(effects
 				(font
 					(size 1 1)
@@ -57706,6 +59416,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0ecaeb9f-b514-4b35-97ac-c28070bd6167")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-00005f65b3bd")
 		(sheetname "ルート")
@@ -58032,6 +59756,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b67e30d3-defc-4fae-8e12-dac0b643d903")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6faf2864-dfcd-450a-993d-d13d0e6bb2d0")
 		(sheetname "ルート")
@@ -58249,6 +59987,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3eef034e-08cf-4faf-a820-1657308b61a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/603b57cc-4c5f-41f2-96ed-06493a03e140")
 		(sheetname "ルート")
@@ -58398,6 +60150,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "cd84cd78-f8d7-49b4-b2bf-94dfa3756342")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1240c136-2c1e-4eaa-a62f-c8d6d32d28a9")
 			(effects
 				(font
 					(size 1 1)
@@ -58675,6 +60441,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ba48e1a9-2336-447d-931f-8f965a641dbc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a6ba1958-6777-4a6b-94fc-2daa4797d0a6")
 			(effects
 				(font
 					(size 1 1)
@@ -59258,6 +61038,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5a785b19-50c5-4ba7-8063-f617332c4ab6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-00005f6658d5")
 		(sheetname "ルート")
@@ -59800,6 +61594,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "04695647-562a-4e01-82c4-95e337c5b40e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Crystal*")
 		(path "/0dcb79ce-cb06-4b56-81db-9082f464fc54")
 		(sheetname "ルート")
@@ -60161,6 +61969,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "db0b818e-9919-4e87-b4ec-2b6a5104272a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-00005f65b35d")
 		(sheetname "ルート")
@@ -60509,6 +62331,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7ad3c820-1db9-48be-a295-6d3be6ac9791")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/fbfa75ab-58db-4545-bf3f-6dbfcd826454")
 		(sheetname "ルート")
@@ -60835,6 +62671,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e6f389ff-7701-4d2d-a4b9-cf0e22fddfde")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/60281bd6-8d47-46de-8e29-6f5005066293")
 		(sheetname "ルート")
@@ -61068,6 +62918,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3f0b31fb-96d6-4dad-b536-d008ab3678ee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/45619bb6-70b5-4f06-a9b8-6094b630b4e8")
 		(sheetname "ルート")
@@ -61293,6 +63157,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "45684824-d201-4733-976d-ba8721fee98e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1f4884d5-1ed9-4e14-b8e9-c4ddcdccffec")
 			(effects
 				(font
 					(size 1 1)
@@ -61545,6 +63423,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "1fed15f4-f8b2-4922-b427-c130443d62e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b4d2bbd2-2916-43ea-9782-c7be6c6e0643")
 			(effects
 				(font
 					(size 1 1)
@@ -62322,6 +64214,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d138ba99-fe6c-4c5c-b09b-5220ae7fe27f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-00005f66b9c5")
 		(sheetname "ルート")
@@ -62749,6 +64655,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8d6ecf92-6b33-4e5f-8fc1-01f3ef807478")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b74f909f-8c4b-4ab0-88b0-d5d862427841")
 		(sheetname "ルート")
@@ -62993,6 +64913,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ee875fa3-1120-457c-937d-49cb8ea84d28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d04b31b2-8f2e-4c79-ba2b-1a66df2aba92")
 			(effects
 				(font
 					(size 1 1)
@@ -63346,6 +65280,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "52399829-0ff4-46a1-9376-d0b8cffa1535")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-00005f10665e")
 		(sheetname "ルート")
@@ -63691,6 +65639,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "89bb417b-258e-45b1-81d9-bc1850c3c39b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-00005f665875")
 		(sheetname "ルート")
@@ -64001,6 +65963,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2cceeeaf-700b-4731-ae6d-7fddf732f41a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/aa3ea5ed-116b-434b-8327-f683600a84ff")
 		(sheetname "ルート")
@@ -64150,6 +66126,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "91728ab8-5eae-4fc2-a2b7-4db6c1faabcc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e6667f49-aa9e-43fc-8273-470a1d8ce294")
 			(effects
 				(font
 					(size 1 1)
@@ -64456,6 +66446,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4e530b75-832d-4eaa-99a8-6e74652ae321")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "37901c95-00a2-451d-94fc-8b2e27431152")
 			(effects
 				(font
 					(size 1 1)
@@ -65233,6 +67237,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2fd7d8da-4f0c-499f-a146-b6d7f5e153e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b7c6af8b-b70d-49a5-a395-cb9e72aad9f6")
 		(sheetname "ルート")
@@ -65466,6 +67484,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d998c26f-4848-410c-9baa-b8860ebb45ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/516be733-dd94-4b09-bcf2-13f2f0ef3bad")
 		(sheetname "ルート")
@@ -65688,6 +67720,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8825692b-2edc-454b-8840-ef2a70d7c07c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "11bec290-e0d8-4bd5-8914-39bc9a8acea1")
 			(effects
 				(font
 					(size 1 1)
@@ -66696,6 +68742,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9f0363d5-bbed-4148-838c-0d4c2aa7414b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-00005f29dc79")
 		(sheetname "ルート")
@@ -67014,6 +69074,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7a214758-da01-422c-ba8c-743f397021c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "09c35885-c9d1-425a-a5b2-f094537d0969")
 			(effects
 				(font
 					(size 1 1)
@@ -67449,6 +69523,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "355e5647-01fc-4cfb-ba10-214fe1b1535a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1d781d9c-e2e4-40cf-8b93-e6c87d5f6d30")
 			(effects
 				(font
 					(size 1 1)
@@ -67931,6 +70019,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "573b3e82-0a32-47d8-8022-6696a8c9e4ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-000064060264")
 		(sheetname "ルート")
@@ -68257,6 +70359,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bd45da8e-718b-4254-8cf1-a70d1353b217")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0d1cb2bb-ef3e-496c-ba6e-d5d0d933d486")
 		(sheetname "ルート")
@@ -68501,6 +70617,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "bcd1e098-2413-4a70-a592-6f569c20574e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a312dc28-edc6-4486-ac0b-19d6e314a56c")
 			(effects
 				(font
 					(size 1 1)
@@ -68846,6 +70976,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4a7a1d4c-3168-476a-9cdd-47f145438be0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5bb2e138-812b-455e-8d91-d6a76c9ed3fd")
 			(effects
 				(font
 					(size 1 1)
@@ -69642,6 +71786,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "56ac9f56-2f54-4add-9b1d-c0799bd406fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-00005f65b38d")
 		(sheetname "ルート")
@@ -69960,6 +72118,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4bd08e4a-6bbe-4cad-945d-0229428e64b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c9c54bfa-f3ad-4fb6-a3cf-a4ff86365f23")
 			(effects
 				(font
 					(size 1 1)
@@ -70422,6 +72594,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f0add5d2-4aae-4fad-af2c-91e2fdc211de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/389b45b1-df9c-4936-9fa8-4effc5fa97ca")
 		(sheetname "ルート")
@@ -70639,6 +72825,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "085f2652-ae6f-4489-9a2c-6527cf3b15e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/28e7c032-6791-4d31-adcf-b7924cd64ac2")
 		(sheetname "ルート")
@@ -70775,6 +72975,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2fc20aa6-5060-443d-b3f4-a052bbb3f108")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -70948,6 +73162,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d83dd6e8-3a4a-47a3-a85e-be48d4b34a11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1eecf65e-4fea-42eb-8ed0-2e042ee1e885")
 			(effects
 				(font
 					(size 1 1)
@@ -71266,6 +73494,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d6839ccc-2a05-4bfc-83a8-153187e1086c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/a21c0f7b-5e4e-4e45-9a55-639ae8f55007")
 		(sheetname "ルート")
@@ -71434,6 +73676,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "492a2f62-bab6-46f0-96a0-3c7660382165")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e5e59420-2b1b-4649-9d29-9524fd70bf68")
 			(effects
 				(font
 					(size 1 1)

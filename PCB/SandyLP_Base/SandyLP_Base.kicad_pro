@@ -558,8 +558,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "Jones.net",
-      "plot": "",
-      "pos_files": "",
+      "plot": "Gerbers/",
+      "pos_files": "Gerbers/SMTA/",
       "specctra_dsn": "",
       "step": "../../../../../tmp/SandyLP_Base.step",
       "svg": "",
@@ -569,7 +569,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "",
+    "bom_export_filename": "Gerbers/SMTA/SandyLP_Base.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -661,6 +661,12 @@
           "label": "説明",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC-Reserve",
+          "name": "LCSC-Reserve",
+          "show": true
         }
       ],
       "filter_string": "",
