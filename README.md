@@ -46,7 +46,7 @@ This covers the lack of optimization to physical key layout in two dimensions th
 ## レイアウト
 
 [![Keyboard Layout Editor: SandyLP](/assets/README/layout.png)  
-Keyboard Layout Editor: SandyLP](http://)
+Keyboard Layout Editor: SandyLP](https://www.keyboard-layout-editor.com/#/gists/29f5da09ffa69ab85efa4c68b556282b)
 
 ### キーの高さ
 
