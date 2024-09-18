@@ -11968,6 +11968,18 @@
 		)
 		(uuid "feb061df-27f9-4f3f-8a3e-b45029456fb2")
 	)
+	(rectangle
+		(start 156.21 83.185)
+		(end 169.545 102.235)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 29d5a23e-dfb6-4649-8d04-7a4b2c637e13)
+	)
 	(text "SCREWS to Mid"
 		(exclude_from_sim no)
 		(at 149.86 223.52 0)
@@ -12006,6 +12018,16 @@
 			(justify left bottom)
 		)
 		(uuid "22fed05c-3ff6-48ae-8a29-8104810f5be0")
+	)
+	(text "No SW\nconnected to\nrow2, col4"
+		(exclude_from_sim no)
+		(at 162.56 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2f54fea1-2ade-4337-9e44-3a83f22cd886")
 	)
 	(text "Connection diagram (Virtual)"
 		(exclude_from_sim no)
