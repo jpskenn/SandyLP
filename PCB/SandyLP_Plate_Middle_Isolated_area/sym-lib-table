@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Sandy-rescue")(type "Legacy")(uri "${KIPRJMOD}/SandyLP_Plate_Middle_Isolated_area-rescue.lib")(options "")(descr ""))
+)
