@@ -22712,7 +22712,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:SandyLP_logo_w60"
+		(property "Footprint" "locallib:SandyLP_logo_LP40_w60"
 			(at 251.46 27.305 0)
 			(effects
 				(font

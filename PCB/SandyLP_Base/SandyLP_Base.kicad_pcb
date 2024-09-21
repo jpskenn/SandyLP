@@ -22599,6 +22599,18 @@
 				)
 			)
 		)
+		(property "text" "RE1"
+			(at 3.45661 0 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "cb0d1ab4-94d0-4b9e-9e89-e69266ce91d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "RotaryEncoder*Switch*")
 		(path "/1dbae128-947e-417a-a746-fa8e5ae0db7b")
 		(sheetname "ルート")
@@ -28653,7 +28665,7 @@
 		)
 		(fp_arc
 			(start -0.378178 -1.358526)
-			(mid -0.787709 -1.474533)
+			(mid -0.787708 -1.474533)
 			(end -0.8 -1.9)
 			(stroke
 				(width 0.12)
@@ -29561,7 +29573,6 @@
 		(path "/00000000-0000-0000-0000-000061cf6e0d")
 		(sheetname "ルート")
 		(sheetfile "SandyLP_Base.kicad_sch")
-		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy 16.861924 -14.163207) (xy 16.972987 -14.124925) (xy 17.048701 -14.071108) (xy 17.074534 -14.028648)
@@ -30981,7 +30992,7 @@
 		)
 		(fp_arc
 			(start -0.378178 -1.358526)
-			(mid -0.787709 -1.474533)
+			(mid -0.787708 -1.474533)
 			(end -0.8 -1.9)
 			(stroke
 				(width 0.12)
@@ -49607,9 +49618,8 @@
 		(descr "Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1")
 		(tags "Murata Buzzer Beeper")
 		(property "Reference" "LS1"
-			(at 0 5.5 0)
+			(at 0 -5.45625 0)
 			(layer "B.SilkS")
-			(hide yes)
 			(uuid "6cde9363-cae5-48e7-8e16-31a19fb6a361")
 			(effects
 				(font
@@ -56075,9 +56085,8 @@
 		(descr "Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1")
 		(tags "Murata Buzzer Beeper")
 		(property "Reference" "LS2"
-			(at 0 5.5 0)
+			(at -0.0875 -5.45625 0)
 			(layer "B.SilkS")
-			(hide yes)
 			(uuid "e65689f9-31fd-4d50-887e-ed241f9ffc1c")
 			(effects
 				(font
