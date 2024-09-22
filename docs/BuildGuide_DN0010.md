@@ -2,7 +2,7 @@
 
 このドキュメントは、SandyLP（DN0010）を組み立てるためのビルドガイドです。
 
-開発番号`DN0010`は、各基板のうら側に記載されています。  
+開発番号の`DN0010`は、各基板のうら側に記載されています。  
 （Mid左右用スイッチプレートには記載がありません。）
 ![開発ナンバー](/assets/BuildGuide_DN0010/develop_number.png)
 
@@ -56,33 +56,33 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
 このキットに同梱されている部品等の内容です。  
 
-| 番号 | 部品名 | 個数 | 備考 |
-| :--: | :-- | :--: | :-- |
-| 1 | ご案内リーフレット | 1 | |
-| 2 | 基板Base | 1 | |
-| 3 | 基板Mid中央 | 1 | |
-| 3 | 基板Mid左右 | 2 | 同一形状の2枚のうち、ひとつをおもて側、もうひとつをうら側にして使用。 |
-| 4 | 基板Top | 1 ||
-| 5 | Base用スイッチプレート | 1 | 捨て基板（左右をつないでいる枠）を切り離して使用。 |
-| 6 | Mid中央用スイッチプレート | 1 ||
-| 6 | Mid左右用スイッチプレート | 2 | 同一形状の2枚のうち、ひとつをおもて側、もうひとつをうら側にして使用。 |
-| 6 | Top用スイッチプレート | 1 ||
-| 7 | ボトムプレート | 1 ||
-| 9 | 短いスペーサー<br>両メネジ M2 3mm | 11 | [ヒロスギ ASB-2003E](https://hirosugi.co.jp/products/B/ASB-E.html#bx3) |
-| 9 | 長いスペーサー<br>両メネジ M2 3.5mm | 6 |  [ヒロスギ ASB-2003.5E](https://hirosugi.co.jp/products/B/ASB-E.html#bx3) |
-| 10 | ナット<br>M2 2種 高さ1.6mm | 35 | 予備1個含む。[ウィルコ FNT-02N-2](https://wilco.jp/products/F/FNT-N-2.html) |
-| 11 | ワッシャー<br>M2 内径2.3mm 外径4.3mm 厚さ0.4mm| 19 | 予備1個含む。[ウィルコ FW-0204-04N](https://wilco.jp/products/F/FW-N.html#page3) |
-| 12 | 短いネジ<br>M2 3mm | 22 | 予備1個含む。[ウィルコ F-0230N-02](https://wilco.jp/products/F/F-N-02.html#page3) |
-| 13 | 長いねじネジ<br>M2 6mm | 19 | 予備1個含む。[ウィルコ F-0260N-02](https://wilco.jp/products/F/F-N-02.html#page3) |
-| 14 | ゴム足（大） | 3 | [〓](〓) |
-| 15 | ゴム足（小） | 5 | [CS-102](https://www.3mcompany.jp/3M/ja_JP/p/d/v000453068/) |
-| 13 | ダイオード<br>1N4148W SOD123 | 20 | 予備3個含む。<br>[高速スイッチング・ダイオード 1N4148W](https://akizukidenshi.com/catalog/g/g107084/) |
-| 16 | LED<br>SK6812MINI-E | 6 | [マイコン内蔵ＲＧＢＬＥＤ　ＳＫ６８１２ＭＩＮＩ－Ｅ](https://akizukidenshi.com/catalog/g/gI-15478/) |
-| 17 | Chocスイッチ用ソケット | 50 | 最下行中央にロータリーエンコーダを取り付けない場合は49個。<br>[Kailh Switch Socket（Kailh Choc ロープロファイル用）](https://shop.yushakobo.jp/products/a01ps?variant=37665172553889) |
-| 13 | 太くて薄いゴムシート（1mm）<br>T=1mm 10mm * 500mm | 1 | [低弾性ゴムシート－ハネナイトＲ－](https://jp.misumi-ec.com/vona2/detail/110300277050/?ProductCode=UNLEA1-10) |
-| 13 | 細くて薄いゴムシート（2mm）<br>T=2mm 5mm * 500mm | 1 | [低弾性ゴムシート－ハネナイトＲ－](https://jp.misumi-ec.com/vona2/detail/110300277050/?ProductCode=UNSEA2-5)
-| 13 | 細くて分厚いゴムシート（3mm）<br>T=3mm 5mm * 500mm | 1 | [低弾性ゴムシート－ハネナイトＲ－](https://jp.misumi-ec.com/vona2/detail/110300277050/?ProductCode=UNSEA3-5) |
-| 13 | プレート用フォーム<br>T=3.5mm | 6 | [Kelowna プレート用静音フォーム（1Ux40）3枚セット](https://talpkeyboard.net/items/65d5c2ad70810903b47c1593) |
+| 部品名 | 個数 | 備考 |
+| :-- | :--: | :-- |
+| ご案内リーフレット | 1 | |
+| 基板Base | 1 | |
+| 基板Mid中央 | 1 | |
+| 基板Mid左右 | 2 | 同一形状の2枚のうち、ひとつをおもて側、もうひとつをうら側にして使用。 |
+| 基板Top | 1 ||
+| Base用スイッチプレート | 1 | 捨て基板（左右をつないでいる枠）を切り離して使用。 |
+| Mid中央用スイッチプレート | 1 ||
+| Mid左右用スイッチプレート | 2 | 同一形状の2枚のうち、ひとつをおもて側、もうひとつをうら側にして使用。 |
+| Top用スイッチプレート | 1 ||
+| ボトムプレート | 1 ||
+| 短いスペーサー<br>両メネジ M2 3mm | 11 | [ヒロスギ ASB-2003E](https://hirosugi.co.jp/products/B/ASB-E.html#bx3) |
+| 長いスペーサー<br>両メネジ M2 3.5mm | 6 |  [ヒロスギ ASB-2003.5E](https://hirosugi.co.jp/products/B/ASB-E.html#bx3) |
+| ナット<br>M2 2種 高さ1.6mm | 35 | 予備1個含む。[ウィルコ FNT-02N-2](https://wilco.jp/products/F/FNT-N-2.html) |
+| ワッシャー<br>M2 内径2.3mm 外径4.3mm 厚さ0.4mm| 19 | 予備1個含む。[ウィルコ FW-0204-04N](https://wilco.jp/products/F/FW-N.html#page3) |
+| 短いネジ<br>M2 3mm | 22 | 予備1個含む。[ウィルコ F-0230N-02](https://wilco.jp/products/F/F-N-02.html#page3) |
+| 長いねじネジ<br>M2 6mm | 19 | 予備1個含む。[ウィルコ F-0260N-02](https://wilco.jp/products/F/F-N-02.html#page3) |
+| ゴム足（大） | 3 | [〓](〓) |
+| ゴム足（小） | 5 | [CS-102](https://www.3mcompany.jp/3M/ja_JP/p/d/v000453068/) |
+| ダイオード<br>1N4148W SOD123 | 20 | 予備3個含む。<br>[高速スイッチング・ダイオード 1N4148W](https://akizukidenshi.com/catalog/g/g107084/) |
+| LED<br>SK6812MINI-E | 6 | [マイコン内蔵ＲＧＢＬＥＤ　ＳＫ６８１２ＭＩＮＩ－Ｅ](https://akizukidenshi.com/catalog/g/gI-15478/) |
+| Chocスイッチ用ソケット | 50 | 最下行中央にロータリーエンコーダを取り付けない場合は49個。<br>[Kailh Switch Socket（Kailh Choc ロープロファイル用）](https://shop.yushakobo.jp/products/a01ps?variant=37665172553889) |
+| 太くて薄いゴムシート（1mm）<br>T=1mm 10mm * 500mm | 1 | [低弾性ゴムシート－ハネナイトＲ－](https://jp.misumi-ec.com/vona2/detail/110300277050/?ProductCode=UNLEA1-10) |
+| 細くて薄いゴムシート（2mm）<br>T=2mm 5mm * 500mm | 1 | [低弾性ゴムシート－ハネナイトＲ－](https://jp.misumi-ec.com/vona2/detail/110300277050/?ProductCode=UNSEA2-5)
+| 細くて分厚いゴムシート（3mm）<br>T=3mm 5mm * 500mm | 1 | [低弾性ゴムシート－ハネナイトＲ－](https://jp.misumi-ec.com/vona2/detail/110300277050/?ProductCode=UNSEA3-5) |
+| プレート用フォーム<br>T=3.5mm | 6 | [Kelowna プレート用静音フォーム（1Ux40）3枚セット](https://talpkeyboard.net/items/65d5c2ad70810903b47c1593) |
 
 〓TODO 頒布するなら、3つあるゴムシートの幅を変えておくか、シリコンにして色を変えるかしておいた方が良い。
 ※出荷時期によって、機能的に同等なものへ変更することがあります。
