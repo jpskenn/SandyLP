@@ -20,37 +20,39 @@ This covers the lack of optimization to physical key layout in two dimensions th
 ## 特徴
 
 - 左右対称のキーレイアウト  
-  [Jones](https://github.com/jpskenn/Jones)と同様の、2行目と3行目にずれのない、左右対称な、シンメトリカル ロースタッガードのレイアウトです。
+  [Jones](https://github.com/jpskenn/Jones)と同様の、2行目と3行目にずれのない、左右対称なシンメトリカル ロースタッガードのレイアウトです。  
   ![左右対称のキーレイアウト](/assets/README/aaa.jpeg)
 
 - キースイッチを立体的に配置  
-  [Sandy](https://github.com/jpskenn/Sandy)と同じく、キースイッチを3段階の高さで立体的に配置しています。
-  平面上のキー配置ではどうしても指か届きにくくなるような箇所を、キーの位置に応じてスイッチを配置する高さを変えることで補っています。  
+  [Sandy](https://github.com/jpskenn/Sandy)と同じく、キースイッチを3段階の高さで立体的に配置しています。  
+  平面上ではキーを配置できる範囲が限られるため、一部のキーはどうしても指が届きにくくなってしまいます。例えば[Jones](https://github.com/jpskenn/Jones)では、右手小指の`P`や`Back Space`、`Enter`などは打鍵しやすくなりましたが、右手人差し指の`Y`は少し遠く感じられます。  
+  このような箇所について、キーの位置に応じてスイッチを配置する高さを変えることで打鍵のしやすさを向上させています。  
   ![キースイッチの高さ](/assets/README/aaa.jpeg)
 
-- ロープロファイルのスイッチに対応
+- ロープロファイルのスイッチに対応  
   `Choc V2`スイッチに対応（※）し、キーボードの高さを低くおさえることができます。  
   パームレストを使わずとも、手首を反らさないポジションで打鍵できます。
   ※`Choc V1`スイッチは、固定ピンを切り取れば使用できます。
 
-- [Remap](https://remap-keys.app)や[VIA](https://www.caniusevia.com)によるキー割り当ての変更  
-  プログラミング等の知識がなくても、キーやロータリーエンコーダの割り当てを、ブラウザやアプリを使って簡単に変更できます。
+- [Remap](https://remap-keys.app)、[Vial]()によるキー割り当ての変更  
+  プログラミング等の知識がなくても、キーやロータリーエンコーダの割り当てを、ブラウザ（Remap）を使って簡単に変更できます。  
+  また、Vial対応のファームウェアも用意しています。
 
 - オプション機能  
-  以下のオプション機能を使用できます。
-
+  以下のオプション機能を使用できます。  
   - ロータリーエンコーダ
   - インジケータLED
   - スピーカー
 
 ## レイアウト
 
+最下行中央にロータリーエンコーダを取り付けることができます。  
 [![Keyboard Layout Editor: SandyLP](/assets/README/layout.png)  
 Keyboard Layout Editor: SandyLP](https://www.keyboard-layout-editor.com/#/gists/29f5da09ffa69ab85efa4c68b556282b)
 
 ### キーの高さ
 
-キーの高さはLow（0mm）, Middle（3.6mm）, High（8.6mm）の3段階で、以下のように配置されます。  
+キーの高さはLow（0mm）, Middle（3.6mm）, High（8.7mm）の3段階で、以下のように配置されます。  
 ![キーの高さ](/assets/README/layout_height_map.png)
 
 ### 推奨キーマッピング
