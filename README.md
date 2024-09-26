@@ -19,50 +19,42 @@ This covers the lack of optimization to physical key layout in two dimensions th
 
 ## 特徴
 
-- 左右対称のキーレイアウト  
-  [Jones](https://github.com/jpskenn/Jones)と同様の、2行目と3行目にずれのない、左右対称なシンメトリカル ロースタッガードのレイアウトです。  
-  ![左右対称のキーレイアウト](/assets/README/aaa.jpeg)
+### 左右対称のキーレイアウト  
 
-- キースイッチを立体的に配置  
-  [Sandy](https://github.com/jpskenn/Sandy)と同じく、キースイッチを3段階の高さで立体的に配置しています。  
-  平面上ではキーを配置できる範囲が限られるため、一部のキーはどうしても指が届きにくくなってしまいます。例えば[Jones](https://github.com/jpskenn/Jones)では、右手小指の`P`や`Back Space`、`Enter`などは打鍵しやすくなりましたが、右手人差し指の`Y`は少し遠く感じられます。  
-  このような箇所について、キーの位置に応じてスイッチを配置する高さを変えることで打鍵のしやすさを向上させています。  
-  ![キースイッチの高さ](/assets/README/aaa.jpeg)
+[Jones](https://github.com/jpskenn/Jones)と同様の、2行目と3行目にずれのない、左右対称なシンメトリカル ロースタッガードのレイアウトです。  
+![左右対称のキーレイアウト](/assets/README/aaa.jpeg)
 
-- ロープロファイルのスイッチに対応  
-  `Choc V2`スイッチに対応（※）し、キーボードの高さを低くおさえることができます。  
-  パームレストを使わずとも、手首を反らさないポジションで打鍵できます。
-  ※`Choc V1`スイッチは、固定ピンを切り取れば使用できます。
+一般的なロースタッガードなレイアウトとの共通性を残しつつ、左右対称で打鍵しやすくなるよう、[SemiErgo Layout](https://github.com/mtei/SemiErgo_Layout)に準ずるキーマッピングで使用することを念頭に設計しています。
 
-- [Remap](https://remap-keys.app)、[Vial]()によるキー割り当ての変更  
-  プログラミング等の知識がなくても、キーやロータリーエンコーダの割り当てを、ブラウザ（Remap）を使って簡単に変更できます。  
-  また、Vial対応のファームウェアも用意しています。
+Z行の左右端にシフトキーを用意していないので、スペースキーを`Space and Shift`として使用するなど、工夫してください。
 
-- オプション機能  
-  以下のオプション機能を使用できます。  
-  - ロータリーエンコーダ
-  - インジケータLED
-  - スピーカー
+### キースイッチを立体的に配置  
 
-## レイアウト
+[Sandy](https://github.com/jpskenn/Sandy)と同じく、キースイッチを3段階の高さで立体的に配置しています。  
+平面上ではキーを配置できる範囲が限られるため、一部のキーはどうしても指が届きにくくなってしまいます。例えば[Jones](https://github.com/jpskenn/Jones)では、右手小指の`P`や`Back Space`、`Enter`などは打鍵しやすくなりましたが、右手人差し指の`Y`は少し遠く感じられます。  
+このような箇所について、キーの位置に応じてスイッチを配置する高さを変えることで打鍵のしやすさを向上させています。  
 
-最下行中央にロータリーエンコーダを取り付けることができます。  
-[![Keyboard Layout Editor: SandyLP](/assets/README/layout.png)  
-Keyboard Layout Editor: SandyLP](https://www.keyboard-layout-editor.com/#/gists/29f5da09ffa69ab85efa4c68b556282b)
-
-### キーの高さ
+![キースイッチの高さ](/assets/README/aaa.jpeg)
 
 キーの高さはLow（0mm）, Middle（3.6mm）, High（8.7mm）の3段階で、以下のように配置されます。  
 ![キーの高さ](/assets/README/layout_height_map.png)
 
-### 推奨キーマッピング
+### ロープロファイルのスイッチに対応  
 
-設計者の私が使用しているキーマッピングは以下のとおりです。  
-[Keyboard Layout Editor: SandyLP](http://)
+`Choc V2`スイッチに対応（※）し、キーボードの高さを低くおさえることができます。  
+パームレストを使わずとも、手首を反らさないポジションで打鍵できます。
+※`Choc V1`スイッチは、固定ピンを切り取れば使用できます。
 
-左右の手の運指を同じにするため、[SemiErgo Layout](https://github.com/mtei/SemiErgo_Layout)に準ずるキーマッピングで使用することを念頭に設計しています。
+### [Remap](https://remap-keys.app)、[Vial]()によるキー割り当ての変更  
 
-また、左右端にシフトキーを用意していないので、スペースキーを`Space and Shift`として使用するなど、工夫してください。
+プログラミング等の知識がなくても、キーやロータリーエンコーダの割り当てを、ブラウザ（Remap）を使って簡単に変更できます。  
+また、Vial対応のファームウェアも用意しています。
+
+### オプション機能  
+
+- ロータリーエンコーダ
+- インジケータLED
+- スピーカー
 
 ## ビルドガイド
 
@@ -86,7 +78,7 @@ Keyboard Layout Editor: SandyLP](https://www.keyboard-layout-editor.com/#/gists/
 
 ## 開発経緯
 
-この`SandyLP`の元となった[Sandy](https://github.com/jpskenn/Sandy)を1年半ほど使い続け、長期ロードテストとして十分な体験・経験からの情報を得ることができた。  
+以前開発した[Sandy](https://github.com/jpskenn/Sandy)を、1年半ほど使い続けてきた。長期ロードテストとして十分な体験・経験からの情報を得ることができた。  
 その情報を実機にフィードバックしたSandyのアップデート版（Sandy DN0040）の開発をおこない、あとは基板の製造をする段階となっていた。  
 しかし、課題のひとつとして挙げていた手首の負荷軽減（＝キーボードを低くする変更）が取り込まれていないことが、様々な思いの中でほんのりと燻っていた。  
 ちょうどその頃`Choc V2`スイッチにとても素性の良い静音タイプのスイッチが追加されたことと、「もしかしたら、自分が好んで使っているMX用のキーキャップも使えるかもしれない。」という思いで、ロープロファイルのスイッチを使用したSandy派生版の開発に踏み切った。  
