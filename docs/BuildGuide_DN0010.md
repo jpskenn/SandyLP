@@ -120,7 +120,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 | :-- | :--: | :-- |
 | ロータリーエンコーダ<br>ALPS EC11, EC12同等品 | 1 | ロータリーエンコーダを使用する場合。<br>プッシュスイッチ付きにも対応。 |
 | ロータリーエンコーダ用ノブ（つまみ） | 1 | ロータリーエンコーダを使用する場合。 |
-| スピーカー<br>Murata PKMCS0909E4000-R1 | 最大2 | 通常は1個のみ使用。2個使用は実験的な機能です。[PKMCS0909E4000-R1](https://www.digikey.jp/ja/products/detail/murata-electronics/PKMCS0909E4000-R1/4878400) |
+| スピーカー<br>Murata PKMCS0909E4000-R1 | 1 | [PKMCS0909E4000-R1](https://www.digikey.jp/ja/products/detail/murata-electronics/PKMCS0909E4000-R1/4878400) |
 
 ## 組み立てに使用する工具
 
@@ -334,11 +334,13 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
     ナット
     ```
 
-    ![基板Mid左右 おもて側ネジ止め箇所](../assets/BuildGuide_DN0010/Mid_screw_hole_front.png)
+    ![基板Mid左右 おもて側ネジ止め箇所](../assets/BuildGuide_DN0010/pcb_mid-iso_R_back_screw.png)
 
-    ![ナットを長いネジで止めた様子](/assets/BuildGuide_DN0010/IMG_5239.jpeg)
+    ![基板Mid左右 おもて側ネジ止め箇所](../assets/BuildGuide_DN0010/pcb_mid-iso_L_back_screw.png)
 
 1. うら側の空いたスペースに`細くて薄いゴムシート`を貼る
+
+    ![貼り付け位置](/assets/BuildGuide_DN0010/〓)
 
 ### 基板Baseの準備
 
@@ -354,21 +356,25 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
     取り付け場所：うら側 `L1` から `L6`
 
+    ![取り付け位置](../assets/BuildGuide_DN0010/pcb_base_back_led.png)
+
+    ![LED取り付けマーキング](../assets/BuildGuide_DN0010/pcb_base_back_led_closeup.png)
+
     基板に描かれた印にLEDの端子の切り欠き部分を合わせ、LED発光部が基板おもて側になるようにはめこみます。  
     220度程度の温度ではんだ付けします。  
     （はんだが溶けにくい場合は、270度程度まで温度を上げ、短時間で作業します。）
-
-    ![LED取り付けマーキング](../assets/BuildGuide_DN0010/LED_marking.png)
 
     PCやMacに接続し、すべてのLEDが白色に点灯することを確認します。
 
     ![インジケータLED点灯確認](/assets/BuildGuide_DN0010/IMG_5274.jpeg)
 
-1. 【該当者のみ】うら側から`スピーカー`を取り付ける（最大2個）
+1. 【該当者のみ】うら側から`スピーカー`を取り付ける
 
     条件：スピーカーを使用する場合
 
-    取り付け場所：うら側 左右の四角い枠
+    取り付け場所：うら側 `LS1`（`LS2`は実験用のため、取り付けしません。）
+
+    ![LED取り付けマーキング](../assets/BuildGuide_DN0010/pcb_base_back_speaker.png)
 
     左右のパッドに合わせて（取り付け方向はどちらでもかまいません）スピーカーを置き、スピーカー側面からはんだ付けします。
 
@@ -382,7 +388,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
     **おもて側**からはめ込んで、うら側からはんだ付けします。  
 
-    ![ロータリーエンコーダの取り付け位置](/assets/BuildGuide_DN0010/encoder_placement.png)
+    ![取り付け位置](/assets/BuildGuide_DN0010/pcb_base_front_encoder.png)
 
 1. おもて側から、`短いスペーサー`を`短いネジ`でとめる（11箇所）
 
@@ -396,7 +402,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
     短いスペーサー（3mm）
     ```
 
-    ![基板Bass おもて側ネジ止め箇所](../assets/BuildGuide_DN0010/Mid_screw_hole_front.png)
+    ![基板Bass おもて側ネジ止め箇所](../assets/BuildGuide_DN0010/pcb_base_front_screw.png)
 
 1. うら側から、`ワッシャー`を挟んだ`ナット`を`長いネジ`でとめる（2箇所）
 
@@ -410,11 +416,13 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
       長いネジ（6mm）  
       ```
 
-    ![基板Baseうら側ネジ止め箇所（長いネジ）](../assets/BuildGuide_DN0010/Mid_screw_hole_back.png)
+    ![基板Baseうら側ネジ止め箇所（長いネジ）](../assets/BuildGuide_DN0010/pcb_base_back_screw.png)
 
 1. うら側から、`細くて分厚いゴムシート`を貼る
 
     パーツが配置されていない基板の中央部分と、基板の外周部分にも貼ります。
+
+    ![貼り付け位置](/assets/BuildGuide_DN0010/〓)
 
 ### 各基板をひとつに組み合わせる
 
