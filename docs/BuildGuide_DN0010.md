@@ -160,8 +160,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
 ### 作業開始前の確認
 
-〓TODO
-輸送時の破損なども考えられるため、組み立てを始める前に基板Baseの動作確認をおこないます。  
+出荷前に基本的な動作確認を実施済みですが、輸送時の破損なども考えられるため、組み立てを始める前に基板Baseの動作確認をおこないます。  
 確認結果に問題がある場合は、リーフレットに記載の連絡先へ相談してください。
 
 1. `基板Base`を、うら側を上にして安定した場所へ置く。
@@ -169,25 +168,26 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 1. `基板Base`のUSBコネクタへケーブルを差し込み、PCやMacに接続する。
 
 1. PCやMacで認識されていることを確認する。
-
-    - Windows  
-    設定 → キーボード  
-    「SandyLP」が表示されていること
+    確認例：
+    - Windows 11  
+    設定 → Bluetoothとデバイス → デバイス → 入力  
+    「sandy_lp」が表示されていること。
 
     - Mac  
     システムレポート → USB  
-    「SandyLP」が表示されていること
+    「sandy_lp」が表示されていること。
 
-1. [Remap](https://remap-keys.app/)を、対応するブラウザ（ChromeやEdgeなど）で開く。
+1. [Remap（https://remap-keys.app/）](https://remap-keys.app/)を、対応するブラウザ（ChromeやEdgeなど）で開く。
 
 1. `CUSTOMIZE YOUR KEYBOARD`ボタンを押す。
 
 1. キーボードをRemapに接続する。
 
-    1. `START REMAP FOR YOUR KEYBOARD`
-    1. `+ KEYBOARD`
-    1. `SandyLP`を選択
-    1. `接続`
+    1. `+ KEYBOARD`を押す。
+    1. ポップアップ画面で`sandy_lp`を選択して、`接続`を押す。
+    1. 次の画面で`Please import your sandy_lp definition file(.json).`というメッセージが表示された場合
+        1. 別途、[SandyLPのVIA用jsonファイル](https://github.com/jpskenn/SandyLP/blob/main/VIA/sandylp_DN0010_via.json)をダウンロードしておく。
+        1. 先ほどの画面で`IMPORT(.JSON)`を押し、ダウンロードしておいた`sandylp_DN0010_via.json`を選択して開く。
 
 1. 画面にキーボードのレイアウトが表示されるまでしばらく待つ。
 
