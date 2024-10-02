@@ -67,7 +67,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 | ダイオード<br>1N4148W SOD123 | 20 | 予備3個含む。<br>[高速スイッチング・ダイオード 1N4148W](https://akizukidenshi.com/catalog/g/g107084/) |
 | LED<br>SK6812MINI-E | 6 | [マイコン内蔵ＲＧＢＬＥＤ　ＳＫ６８１２ＭＩＮＩ－Ｅ](https://akizukidenshi.com/catalog/g/gI-15478/) |
 | Chocスイッチ用ソケット | 50 | 最下行中央にロータリーエンコーダを取り付けない場合は49個。<br>[Kailh Switch Socket（Kailh Choc ロープロファイル用）](https://shop.yushakobo.jp/products/a01ps?variant=37665172553889) |
-| 太くて薄いゴムシート<br>T=1mm 10mm * 500mm | 1 | [低弾性ゴムシート－ハネナイトＲ－](https://jp.misumi-ec.com/vona2/detail/110300277050/?ProductCode=UNLEA1-10) |
+| 太くて薄いゴムシート<br>T=1mm 10mm * 500mm | 1+1/3 | [低弾性ゴムシート－ハネナイトＲ－](https://jp.misumi-ec.com/vona2/detail/110300277050/?ProductCode=UNLEA1-10) |
 | 中くらい幅の薄いゴムシート<br>T=1.5mm 50mm * 10mm | 1 | [イノアック L32-1.550-MT マイクロセルウレタンロールPORON 黒 1.5×50mm×1M巻](https://www.yodobashi.com/product/100000001004002516/) |
 | 細くて薄いゴムシート<br>T=2mm 5mm * 500mm | 1 | [低弾性ゴムシート－ハネナイトＲ－](https://jp.misumi-ec.com/vona2/detail/110300277050/?ProductCode=UNSEA2-5)
 | 細くて分厚いゴムシート<br>T=3mm 5mm * 500mm | 1 | [低弾性ゴムシート－ハネナイトＲ－](https://jp.misumi-ec.com/vona2/detail/110300277050/?ProductCode=UNSEA3-5) |
@@ -240,7 +240,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
     各種パーツやネジ穴に重ならない位置へ、フォームを貼ります。  
     少し曲げたり、一部をカットしてから貼ってもかまいません。
 
-    ![貼り付け位置](/assets/BuildGuide_DN0010/〓)
+    ![貼り付け位置](/assets/BuildGuide_DN0010/pcb_top_back_form.jpeg)
 
 ### 基板Mid中央の準備
 
@@ -292,7 +292,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
     防振と打鍵感向上のため、各種パーツやネジ穴に重ならない位置へ、ゴムシートをはさみなどで切断して貼ります。  
     スイッチとスイッチの間に貼るだけで十分です。全体を埋めるように貼る必要はありません（ゴムシートが足りません）。
 
-    ![貼り付け位置](/assets/BuildGuide_DN0010/〓)
+    ![貼り付け位置](/assets/BuildGuide_DN0010/pcb_mid_back_form.jpeg)
 
 ### 基板Mid左右の準備
 
@@ -330,7 +330,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
     **☠️危険：異なる厚さのゴムシートを貼ると、正しく組み立てられません。**
 
-    ![貼り付け位置](/assets/BuildGuide_DN0010/〓)
+    ![貼り付け位置](/assets/BuildGuide_DN0010/pcb_mid-iso_back_form.jpeg)
 
 ### 基板Baseの準備
 
@@ -421,7 +421,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
     パーツが配置されていない基板の中央部分と、基板の外周部分にも貼ります。
 
-    ![貼り付け位置](/assets/BuildGuide_DN0010/〓)
+    ![貼り付け位置](/assets/BuildGuide_DN0010/pcb_base_back_form.jpeg)
 
 ### スイッチプレートの準備
 
