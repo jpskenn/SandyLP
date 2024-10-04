@@ -174,10 +174,12 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
   ![Back Sideの表記](/assets/BuildGuide_DN0010/〓)
 
-### 基板Baseの動作確認
+### 組み立て前の確認
 
-出荷前に基本的な動作確認を実施済みですが、輸送時の破損なども考えられるため、組み立てを始める前に動作確認をおこないます。
+出荷前に基本的な動作確認を実施済みですが、輸送時の破損なども考えられるため、組み立てを始める前に動作確認をおこないます。  
 確認結果に問題がある場合は、リーフレットに記載の連絡先へ相談してください。
+
+#### 基板BaseがPCやMacで認識されるかを確認する
 
 1. `基板Base`を、うら側を上にして安定した場所へ置く。
 
@@ -185,7 +187,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
 1. 電源LED`STLED1`が緑に点灯することを確認する。
 
-1. PCやMacで、キーボードとして認識されていることを確認する。
+1. PCやMacで、キーボードとして認識されていることを確認する。  
     確認例：
     - Windows 11  
     設定 → Bluetoothとデバイス → デバイス → 入力  
@@ -195,17 +197,18 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
     システムレポート → USB  
     「sandy_lp」が表示されていること。
 
+#### 基板Baseの反応を確認する
+
 1. [Remap（https://remap-keys.app/）](https://remap-keys.app/)を、対応するブラウザ（ChromeやEdgeなど）で開く。
 
 1. `CUSTOMIZE YOUR KEYBOARD`ボタンを押す。
 
-1. キーボードをRemapに接続する。
+1. `+ KEYBOARD`を押す。
 
-    1. `+ KEYBOARD`を押す。
-    1. ポップアップ画面で`sandy_lp`を選択して、`接続`を押す。
-    1. 次の画面で`Please import your sandy_lp definition file(.json).`というメッセージが表示された場合
-        1. 別途、[SandyLPのVIA用jsonファイル](https://github.com/jpskenn/SandyLP/blob/main/VIA/sandylp_DN0010_via.json)をダウンロードしておく。
-        1. 先ほどの画面で`IMPORT(.JSON)`を押し、ダウンロードしておいた`sandylp_DN0010_via.json`を選択して開く。
+1. ポップアップ画面で`sandy_lp`を選択して、`接続`を押す。  
+    次の画面で`Please import your sandy_lp definition file(.json).`というメッセージが表示された場合
+    1. 別途、[SandyLPのVIA用jsonファイル（sandylp_DN0010_via.json）](https://github.com/jpskenn/SandyLP/blob/main/VIA/sandylp_DN0010_via.json)をダウンロードしておく。
+    1. Remapの画面で`IMPORT(.JSON)`を押し、ダウンロードしておいた`sandylp_DN0010_via.json`を選択して開く。
 
 1. 画面にキーボードのレイアウトが表示されるまでしばらく待つ。
 
@@ -216,6 +219,8 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 1. キースイッチの反応を確認する。
 
     `基板Base`うら側のスイッチソケット取り付け用パッド（銀色の四角い端子部分）をピンセットなどでショートさせ、ブラウザ画面上の対応するキーの色が変わることを確認します。
+
+    ![スイッチ取り付け用パッド](/assets/BuildGuide_DN0010/〓)
 
     以下のように色が変われば正常です。  
     ![基板Base確認結果](/assets/BuildGuide_DN0010/〓)
