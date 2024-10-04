@@ -34,7 +34,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
     - [動作確認する](#動作確認する)
     - [ボトムプレートを取り付ける](#ボトムプレートを取り付ける)
     - [キーキャップを取り付ける](#キーキャップを取り付ける)
-  - [ユーザーマニュアル・カスタマイズガイド](#ユーザーマニュアルカスタマイズガイド)
+  - [ユーザーズマニュアル・カスタマイズガイド](#ユーザーズマニュアルカスタマイズガイド)
     - [初期ファームウェアの機能と設定値](#初期ファームウェアの機能と設定値)
     - [SandyLP関連ファイル](#sandylp関連ファイル)
     - [ファームウェアを書き換える](#ファームウェアを書き換える)
@@ -637,7 +637,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 以上で組み立て完了です。
 ![完成](../assets/BuildGuide_DN0010/〓)
 
-## ユーザーマニュアル・カスタマイズガイド
+## ユーザーズマニュアル・カスタマイズガイド
 
 SandyLPの機能や関連情報、また、自分の好みにカスタマイズする方法について説明します。
 
@@ -649,9 +649,10 @@ SandyLPの機能や関連情報、また、自分の好みにカスタマイズ�
 
   0.26.3
 
-- キーマップ書き換えツールのRemapに対応。
+- キーマップ書き換えツールのRemapに対応（VIA有効化）。
 
-- レイヤー構成とレイヤーインジケータLEDの色  
+- レイヤー構成とレイヤーインジケータLEDの色
+
   レイヤー0から7まで、8個のレイヤーが使用できます。  
   LEDは左右とも同じパターンで点灯します。`－`は元のレイヤー色、`×`は消灯を意味します。
 
@@ -683,41 +684,48 @@ SandyLPの機能や関連情報、また、自分の好みにカスタマイズ�
 
   - レイヤーインジケータの表示状態を切り替える
 
-    レイヤーインジケータの表示状態は、表示または非表示に切り替えることができます。
+    レイヤーインジケータの表示状態は、以下の4通りの表示に切り替えることができます。
 
-    表示状態を切り替えるには、`Adjust`レイヤーの`O（オー）`を押します。  
-    なお、表示状態はEEPROMに保存されます。
+    - 左右両方に表示
+    - 左のみ表示
+    - 右のみ表示
+    - インジケータ表示なし
+
+    表示状態は`Adjust`レイヤーの`O（オー）`を押すごとに切り替わり、表示状態はEEPROMに保存されます。
+
+    なお、インジケータ表示がない場所には、QMKの[RGB Lighting](https://docs.qmk.fm/features/rgblight)が表示されます。  
+    LEDを完全に消灯するには、`Adjust`レイヤーの`L`を押して、RGB LightingをOFFにします。
 
   - レイヤーインジケータの明るさを調整する
 
-    レイヤーインジケータの明るさは、RGB Lightingの明るさに合わせるように設定してあります。
+    レイヤーインジケータの明るさは、RGB Lightingの明るさに連動しています。
 
     明るさを調整するには、  
-    `Adjust`レイヤーの`L`を押してから、（一時的にRGB LightingをONにしてから、）  
-    `Adjust`レイヤーの`I`と`K`で明るさを調整し、
-    `Adjust`レイヤーの`L`を押します。（RGB LightingをOFFにします。）
+    （RGB LightingがOFFのときは、`Adjust`レイヤーの`L`を押してONにしてから）
+    `Adjust`レイヤーの`I`または`K`で明るさを調整します。
+
+    調整が終われば、もういちど`Adjust`レイヤーの`L`を押してRGB LightingをOFFにしてもかまいません。
 
 ### SandyLP関連ファイル
 
 このキーボードに関連するファイルです。  
 
-- ビルド済みファームウェア（QMK バージョン 0.26.3）： sandy_DN0010_qmk_0.26.3_via.hex  
-[Sandy_DN0010_files2](https://gist.github.com/jpskenn/16a033668dabca065a8330595d4761a1)（Zipファイルをダウンロードして展開）
+- 〓ビルド済みファームウェア（QMK バージョン 0.26.3）： sandy_DN0010_qmk_0.26.3_via.hex
 
-- ビルド済みファームウェア（Vial [bb7961c](https://github.com/jpskenn/vial-qmk/commit/bb7961c3c27666c154393bca22aef31f8e60f5b9)）： sandy_DN0010_via.hex  
-[Sandy_DN0010_files](https://gist.github.com/jpskenn/916b2abc9b1252dcd62130175d11db3e)（Zipファイルをダウンロードして展開）
+    [Sandy_DN0010_files2](https://gist.github.com/jpskenn/16a033668dabca065a8330595d4761a1)（Zipファイルをダウンロードして展開）
+
+- 〓ビルド済みファームウェア（Vial [bb7961c](https://github.com/jpskenn/vial-qmk/commit/bb7961c3c27666c154393bca22aef31f8e60f5b9)）： sandy_DN0010_via.hex
+
+    [Sandy_DN0010_files](https://gist.github.com/jpskenn/916b2abc9b1252dcd62130175d11db3e)（Zipファイルをダウンロードして展開）
 
 - ファームウェアのソース
 
-    私がQMKからフォークしたリポジトリ[https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、[develop_Sandy](https://github.com/jpskenn/qmk_firmware/tree/develop_Sandy)ブランチ内、`keyboards/sandy/DN0010`に配置しています。  
+    私がQMKからフォークしたリポジトリ[https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、[develop_SandyLP_QMK_0.26.3](https://github.com/jpskenn/qmk_firmware/tree/develop_SandyLP_QMK_0.26.3)ブランチ内、`keyboards/sandy_lp/DN0010`に配置しています。  
 
-    このブランチは、QMKバージョン 0.18.17から派生し、後にQMKバージョン 0.22.14をマージしています。
+- 基板等の設計ファイルやドキュメント、Remapの定義ファイルなど
 
-  - Tags
-    - [Sandy_QMK_0.22.14](https://github.com/jpskenn/qmk_firmware/releases/tag/Sandy_QMK_0.22.14)
-    - [Sandy_QMK_0.18](https://github.com/jpskenn/qmk_firmware/releases/tag/Sandy_QMK_0.18)
-
-- 基板等の設計ファイルやドキュメント、Remapの定義ファイルなどは、[SandyLPリポジトリ](https://github.com/jpskenn/SandyLP)の[DN0010タグ](https://github.com/jpskenn/SandyLP/releases/tag/DN0010)にまとめてあります。
+    [SandyLPリポジトリ](https://github.com/jpskenn/SandyLP)の[DN0010タグ](https://github.com/jpskenn/SandyLP/releases/tag/DN0010)にまとめてあります。
+    〓タグをつけなおす？DN0011はどうするの？
 
 ### ファームウェアを書き換える
 
@@ -745,11 +753,12 @@ EEPROMに記録されているデータを消去し、初期状態に戻す方�
 
 ### 電源LEDを点灯しないようにする
 
-電源LEDは、ファームウェアの動作状況に関わらず、USBコネクタからの電源によって点灯しています。
+`基板Base`うら側の電源LEDは、ファームウェアの動作状況に関わらず、USBコネクタからの電源によって点灯しています。
 
 電源LEDを点灯しないようにするには、次の手順をおこないます。  
-基板Baseうら側、`STLED`がはんだでジャンパされ、2つのパッドがつながった状態になっています。  
-はんだごてを軽く当ててはんだを一部取り除き、つながっていない状態にします。
+
+1. `基板Base`うら側、`STLED`がはんだでジャンパされ、2つのパッドがつながった状態になっています。  
+1. はんだごてを軽く当ててはんだを一部取り除き、つながっていない状態にします。
 
 電源LEDを点灯させる場合は、`STLED`をはんだでジャンパして、つながった状態にします。
 
@@ -779,7 +788,28 @@ SandyLPはそれ自体にキーの段差が組み込まれているため、キ�
 
 ### キーキャップの選び方
 
-〓準備中
+このキーボードで使用するChoc V2スイッチには、十字形状の穴をもつ、いわゆるCherry MXに互換性のあるキーキャップ（以降、MX用キーキャップと言う）を取り付けることができます。  
+
+しかし、ほとんどのMX用キーキャップはChoc V2などのロープロファイルなスイッチに合わせて設計されていないため、押下時にスイッチやスイッチプレートに当たり、干渉してしまうことがあります。  
+また、Choc V2スイッチは販売時期やシリーズによってトップハウジングの形状が異なっているため、干渉を避けるにはキーキャップとスイッチの組み合わせが重要となります。
+
+組み合わせについては、[Kailh x Lofree Shadowシリーズ、Kailh Choc V2(Deep Sea Silent MINI)で使えるキーキャップを調査した](https://74th.hateblo.jp/entry/chocv2-compatible-keycap)が参考になります。
+
+また、私自身が試した組み合わせの結果を以下に記録しておきますので、参考にしてください。（干渉しないことを保証するものではありません）
+
+| 部品名 | 個数 | 備考 |
+| :-- | :--: | :-- |
+| Kailh Lofree FLOW GHOST |  |  |
+| Kailh Lofree FLOW GHOST |  |  |
+| Kailh Lofree FLOW GHOST |  |  |
+| Kailh Lofree FLOW GHOST |  |  |
+| Kailh Deep Sea Silent MINI |  |  |
+| Kailh Deep Sea Silent MINI |  |  |
+| Kailh Deep Sea Silent MINI |  |  |
+| Kailh Deep Sea Silent MINI |  |  |
+| Kailh Deep Sea Silent MINI |  |  |
+
+キースイッチとキースイッチの組み合わせ
 
 ## サービスマニュアル
 
@@ -787,7 +817,7 @@ SandyLPはそれ自体にキーの段差が組み込まれているため、キ�
 
 ### パーツリスト
 
-| 部品名 | 個数 | 備考 |
+| スイッチ | キーキャップ | 結果 |
 | :---- | :-----: | :---- |
 | スイッチ<br>RS-187R05A2-DSMTRT | 2 ||
 
