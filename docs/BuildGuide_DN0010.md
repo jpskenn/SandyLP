@@ -4,7 +4,7 @@
 
 開発番号の`DN0010`は、各基板のうら側に記載されています。  
 （Mid左右用スイッチプレートには記載がありません。）
-![開発ナンバー](../assets/BuildGuide_DN0010/〓)
+![開発ナンバー](../assets/BuildGuide_DN0010/icon_develop_number.png)
 
 SandyLPのコンセプトや特徴、ビルド例などについては、こちらの[README](/README.md)をご覧ください。
 
@@ -80,7 +80,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 | 長いスペーサー<br>両メネジ M2 3.5mm | 6 |  [ヒロスギ ASB-2003.5E](https://hirosugi.co.jp/products/B/ASB-E.html#bx3) |
 | ナット<br>M2 2種 高さ1.6mm | 35 | 予備1個含む。[ウィルコ FNT-02N-2](https://wilco.jp/products/F/FNT-N-2.html) |
 | ワッシャー<br>M2 内径2.3mm 外径4.3mm 厚さ0.4mm| 19 | 予備1個含む。[ウィルコ FW-0204-04N](https://wilco.jp/products/F/FW-N.html#page3) |
-| 短いネジ（2mm）<br>M2 2mm | 11 | 〓品番 |
+| 短いネジ（2mm）<br>M2 2mm | 11 | [十字穴付なべ小ねじ](https://jp.misumi-ec.com/vona2/detail/110302280810/?ProductCode=BKJ2-2) |
 | 短いネジ（3mm）<br>M2 3mm | 22 | 予備1個含む。[ウィルコ F-0230N-02](https://wilco.jp/products/F/F-N-02.html#page3) |
 | 長いねじネジ<br>M2 6mm | 19 | 予備1個含む。[ウィルコ F-0260N-02](https://wilco.jp/products/F/F-N-02.html#page3) |
 | ゴム足（大） | 3 | [〓](〓) |
@@ -624,7 +624,7 @@ Top用スイッチプレート
     短いネジ（3mm）
     ```
 
-    ![ボトムプレートうら側からのネジ止め箇所](../assets/BuildGuide_DN0010/base_to_bottom_screw_hole_front.png)
+    ![ボトムプレートうら側からのネジ止め箇所](../assets/BuildGuide_DN0010/plate_bottom_back_screw.png)
 
 1. ボトムプレートのうら側から、ゴム足を貼る。
 
@@ -637,7 +637,7 @@ Top用スイッチプレート
     条件：ロータリーエンコーダを使用する場合
 
 以上で組み立て完了です。
-![完成](../assets/BuildGuide_DN0010/〓)
+![完成](../assets/BuildGuide_DN0010/finish.jpeg)
 
 ## ユーザーズマニュアル・カスタマイズガイド
 
