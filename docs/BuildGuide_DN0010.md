@@ -171,7 +171,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
 - おもて側とうら側を間違えないよう、基板うら側の「Back Side」の表記を確認しながら作業を進めます。
 
-  ![Back Sideの表記](../assets/BuildGuide_DN0010/〓)
+  ![Back Sideの表記](../assets/BuildGuide_DN0010/icon_back-side.png)
 
 ### 組み立て前の確認
 
@@ -219,10 +219,10 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
     `基板Base`うら側のスイッチソケット取り付け用パッド（銀色の四角い端子部分）をピンセットなどでショートさせ、ブラウザ画面上の対応するキーの色が変わることを確認します。
 
-    ![スイッチ取り付け用パッド](../assets/BuildGuide_DN0010/〓)
+    ![スイッチ取り付け用パッド](../assets/BuildGuide_DN0010/icon_pad.png)
 
-    以下のように色が変われば正常です。  
-    ![基板Base確認結果](../assets/BuildGuide_DN0010/〓)
+    すべてのパッドで実施した後、以下のように色が変われば正常です。  
+    ![基板Base確認結果](../assets/BuildGuide_DN0010/remap_base_test_complete.png)
 
 ### 【こだわり作業】基板とスイッチプレート側面をマジックで塗る
 
@@ -245,7 +245,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
     基板に描かれた枠のうち、短辺が閉じている方向（▲マークが示す先の少し太い線がある方向）にダイオードの印を合わせ、予備はんだしたところへ、ダイオードの端子をはんだ付けします。  
     最後に、もう一方の端子をはんだ付けします。
 
-    ![ダイオードの方向](../assets/BuildGuide_DN0010/〓)
+    ![ダイオードの方向](../assets/BuildGuide_DN0010/icon_diode_direction.png)
     ![取り付け位置](../assets/BuildGuide_DN0010/pcb_top_back_diode.png)
 
 1. `Chocスイッチ用ソケット`を取り付ける。（6個）
@@ -254,7 +254,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
     💡ヒント：Chocスイッチ用ソケットは、取り付ける方向が決まっています。参考：[Kailh Choc ソケットの方向について](https://scrapbox.io/self-made-kbds-ja/Kailh_Choc_ソケットの方向について)
 
-    〓取り付けた図
+    ![ダイオードの方向](../assets/BuildGuide_DN0010/icon_socket_direction.png)
 
     はんだごての温度を270度程度にセットして、はんだ付けします。  
 
@@ -311,8 +311,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
     LED取り付け用パッド（1個のLEDに4個のパッド）のひとつに、予備はんだしておきます。  
     基板に描かれた印にLEDの端子の切り欠き部分を合わせ、LED発光部が基板おもて側になるように置きます。  
 
-    ![LED取り付けマーキング](../assets/BuildGuide_DN0010/pcb_base_back_led_closeup.png)
-    〓マーキングとLEDを置いた状態の2枚載せる
+    ![LED取り付けマーキング](../assets/BuildGuide_DN0010/icon_led_direction.png)
 
     予備はんだした箇所を、220度程度の温度ではんだ付けします。  
     （はんだが溶けにくい場合は、270度程度まで温度を上げ、短時間で作業します。）
@@ -321,8 +320,6 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
     6個すべてのLEDを取り付けたら、USBケーブルでPCやMacに接続し、LEDがすべて白色に点灯することを確認します。  
     （ケーブル接続時に、一瞬だけ赤色に点灯するのは正常な動作です。）
-
-    ![インジケータLED点灯確認](../assets/BuildGuide_DN0010/〓)
 
 1. 【該当者のみ】うら側から`スピーカー`を取り付ける。
 
@@ -796,17 +793,18 @@ SandyLPはそれ自体にキーの段差が組み込まれているため、キ�
 
 また、私自身が試した組み合わせの結果を以下に記録しておきますので、参考にしてください。（干渉しないことを保証するものではありません）
 
-| 部品名 | 個数 | 備考 |
-| :-- | :--: | :-- |
-| Kailh Lofree FLOW GHOST |  |  |
-| Kailh Lofree FLOW GHOST |  |  |
-| Kailh Lofree FLOW GHOST |  |  |
-| Kailh Lofree FLOW GHOST |  |  |
-| Kailh Deep Sea Silent MINI |  |  |
-| Kailh Deep Sea Silent MINI |  |  |
-| Kailh Deep Sea Silent MINI |  |  |
-| Kailh Deep Sea Silent MINI |  |  |
-| Kailh Deep Sea Silent MINI |  |  |
+| スイッチ | キーキャップ | 干渉の有無 | 使用感 |
+| :-- | :-- | :-- | :-- |
+| Kailh Lofree FLOW GHOST | ePBT, Cherry, Less But Better | プレート干渉はほぼなし。スイッチに当たっている感じがある。 | スイッチ自体の底打ち衝撃と干渉の音が若干ズレるような感じがあり、あまり気持ちよくない。 |
+| Kailh Lofree FLOW GHOST | ENJOYPBT DOUBLESHOT ABS, Cherry, Dolch Yellow | プレート干渉あり。スイッチ干渉不明（プレートに先に当たってしまっている？） |  |
+| Kailh Lofree FLOW GHOST | Keyreative, KAT, Space Cadet | プレート干渉なし。スイッチ干渉あり。 | スイッチには干渉しているが、スイッチ自体の底打ちと一体化しており、問題なく使える。ePBT Cherryとは感触が異なる。 |
+| Kailh Lofree FLOW GHOST | Signature Plastics, G20, individual | プレート干渉なし。スイッチ干渉あり。 | スイッチには干渉しているが、スイッチ自体の底打ちと一体化している。使えないこともない。 |
+| Kailh Lofree FLOW GHOST | NuPhy, nSA, BOW | 干渉なし。 |  |
+| Kailh Deep Sea Silent MINI | Signature Plastics, DSS, Solarized Dark | プレートへのクリアランスはぎりぎりで、数個のキーで干渉あり（個体差？）。スイッチ干渉なし。 | 一部気になるところがあるが、基本的には問題なし。 |
+| Kailh Deep Sea Silent MINI | Signature Plastics, G20, individual | プレート干渉なし。スイッチ干渉あり。 | 押下時コツコツという小さい音と感触があり、サイレントではなくなる。 |
+| Kailh Deep Sea Silent MINI |  |  |  |
+| Kailh Deep Sea Silent MINI |  |  |  |
+| Kailh Deep Sea Silent MINI |  |  |  |
 
 キースイッチとキースイッチの組み合わせ
 
