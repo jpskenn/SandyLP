@@ -472,7 +472,17 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 貼り付け位置は、以下のとおりです。
 
 ゴムシート貼り付け位置  
-![貼り付け位置](../assets/BuildGuide_DN0010/〓)
+Base用スイッチプレート  
+![貼り付け位置](../assets/BuildGuide_DN0010/sw-plate_base_back_form.jpeg)
+
+Mid中央用スイッチプレート  
+![貼り付け位置](../assets/BuildGuide_DN0010/sw-plate_mid_back_form.jpeg)
+
+Mid左右用スイッチプレート  
+![貼り付け位置](../assets/BuildGuide_DN0010/sw-plate_mid-iso_back_form.jpeg)
+
+Top用スイッチプレート  
+![貼り付け位置](../assets/BuildGuide_DN0010/sw-plate_top_back_form.jpeg)
 
 ### 基板とスイッチプレートをひとつに組み合わせて、スイッチを取り付ける
 
@@ -492,7 +502,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
     ナット
     ```
 
-    ![基板Bass うら側ナット止め箇所](../assets/BuildGuide_DN0010/〓)
+    ![基板Bass うら側ナット止め箇所](../assets/BuildGuide_DN0010/pcb_base_back_nut_to_mid.png)
 
     `基板Mid中央`のおもて側から、`長いスペーサー`を取り付けます。（2箇所）
 
@@ -504,7 +514,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
     －－ 基板Base －－  
     ```
 
-    ![基板Mid中央 おもて側スペーサー取り付け箇所](../assets/BuildGuide_DN0010/〓)
+    ![基板Mid中央 おもて側スペーサー取り付け箇所](../assets/BuildGuide_DN0010/pcb_mid_front_spacer.png)
 
 1. `基板Base`と`基板Mid左右`を組み合わせる。
 
@@ -520,7 +530,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
     ナット
     ```
 
-    ![基板Bass うら側ナット止め箇所](../assets/BuildGuide_DN0010/〓)
+    ![基板Bass うら側ナット止め箇所](../assets/BuildGuide_DN0010/pcb_base_back_nut_to_mid-iso.png)
 
 1. `Mid中央用スイッチプレート`とスイッチを取り付ける。
 
@@ -542,11 +552,10 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
     ```
 
     スイッチがプレートにぴったりとはまっていることを確認します。  
-    ![スイッチがプレートにぴったりはまっている状態](../assets/BuildGuide_DN0010/〓)
 
     以下の写真はスイッチがプレートにはまっておらず、プレートが押し下げられた不正な状態です。  
     プレートの端を指で持ち上げたりして、スイッチをプレートにぴったりとはめ込みます。  
-    ![スイッチがプレートから浮いている不正な状態](../assets/BuildGuide_DN0010/〓)
+    ![スイッチがプレートから浮いている不正な状態](../assets/BuildGuide_DN0010/switch_install_fail.jpeg)
 
 1. `基板Top`と`基板Mid中央`を組み合わせる。
 
@@ -594,9 +603,6 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
     ↓
     －－ Top基板 －－
     ```
-
-    すべてのスイッチを取り付けた様子  
-    ![すべてのスイッチを取り付けた様子](../assets/BuildGuide_DN0010/〓)
 
 ### 動作確認する
 
