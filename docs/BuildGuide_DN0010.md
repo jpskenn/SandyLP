@@ -83,31 +83,28 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 | 短いネジ（2mm）<br>M2 2mm | 11 | [十字穴付なべ小ねじ](https://jp.misumi-ec.com/vona2/detail/110302280810/?ProductCode=BKJ2-2) |
 | 短いネジ（3mm）<br>M2 3mm | 22 | 予備1個含む。[ウィルコ F-0230N-02](https://wilco.jp/products/F/F-N-02.html#page3) |
 | 長いねじネジ<br>M2 6mm | 19 | 予備1個含む。[ウィルコ F-0260N-02](https://wilco.jp/products/F/F-N-02.html#page3) |
-| ゴム足（大） | 3 | [〓](〓) |
+| ゴム足（大） | 2 | [光 HIKARI KKU-190](https://www.yodobashi.com/product/100000001001980663/) |
 | ゴム足（小） | 5 | [CS-102](https://www.3mcompany.jp/3M/ja_JP/p/d/v000453068/) |
 | ダイオード<br>1N4148W SOD123 | 20 | 予備3個含む。<br>[高速スイッチング・ダイオード 1N4148W](https://akizukidenshi.com/catalog/g/g107084/) |
 | LED<br>SK6812MINI-E | 6 | [マイコン内蔵ＲＧＢＬＥＤ　ＳＫ６８１２ＭＩＮＩ－Ｅ](https://akizukidenshi.com/catalog/g/gI-15478/) |
 | Chocスイッチ用ソケット | 50 | 最下行中央にロータリーエンコーダを取り付けない場合は49個。<br>[Kailh Switch Socket（Kailh Choc ロープロファイル用）](https://shop.yushakobo.jp/products/a01ps?variant=37665172553889) |
 | 太くて薄いゴムシート<br>T=1mm 10mm * 500mm | 1+1/3 | [低弾性ゴムシート－ハネナイトＲ－](https://jp.misumi-ec.com/vona2/detail/110300277050/?ProductCode=UNLEA1-10) |
-| 中くらい幅の薄いゴムシート<br>T=1.5mm 50mm * 10mm | 1 | [イノアック L32-1.550-MT マイクロセルウレタンロールPORON 黒 1.5×50mm×1M巻](https://www.yodobashi.com/product/100000001004002516/) |
+| 小さな薄いゴムシート<br>T=1.5mm 50mm * 10mm | 1 | [イノアック L32-1.550-MT マイクロセルウレタンロールPORON 黒 1.5×50mm×1M巻](https://www.yodobashi.com/product/100000001004002516/) |
 | 細くて薄いゴムシート<br>T=2mm 5mm * 500mm | 1 | [低弾性ゴムシート－ハネナイトＲ－](https://jp.misumi-ec.com/vona2/detail/110300277050/?ProductCode=UNSEA2-5)
 | 細くて分厚いゴムシート<br>T=3mm 5mm * 500mm | 1 | [低弾性ゴムシート－ハネナイトＲ－](https://jp.misumi-ec.com/vona2/detail/110300277050/?ProductCode=UNSEA3-5) |
 
 ※出荷時期によって、機能的に同等なものへ変更することがあります。
 
-![基板](../assets/BuildGuide_DN0010/〓)  
 基板  
-上から順に、基板Top、基板Mid中央、基板Mid左右（2枚のうち1枚）、基板Base。
+左上から時計回りに、基板Top、基板Mid中央、基板Mid左右（2枚）、基板Base。  
+![基板](../assets/BuildGuide_DN0010/parts_pcbs.jpeg)  
 
-![スイッチプレート](../assets/BuildGuide_DN0010/〓)  
-スイッチプレート  
-上から順に、Top用スイッチプレート、Mid中央用スイッチプレート、Mid左右用スイッチプレート（2枚）、Base用スイッチプレート。
+プレート類  
+左上から時計回りに、Top用スイッチプレート、Mid中央用スイッチプレート、Mid左右用スイッチプレート（2枚）、Base用スイッチプレート、ボトムプレート。  
+![プレート類](../assets/BuildGuide_DN0010/parts_plates.jpeg)  
 
-![ボトムプレート](../assets/BuildGuide_DN0010/〓)  
-ボトムプレート
-
+その他部品  
 ![その他部品](../assets/BuildGuide_DN0010/〓)  
-その他部品
 
 ### 別途用意が必要な部品
 
@@ -229,9 +226,6 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 完成時の質感を高めるため、すべての基板とスイッチプレート、ボトムプレートの側面をマジックで塗ります。
 
 💡ヒント：組み立て後は、スイッチを取り外したりネジを外して分解したりしないと塗れなくなる箇所があります。後からやるのは大変なので、この段階でやってしまった方が楽です。
-
-![基板側面を塗った様子](../assets/BuildGuide_DN0010/〓.jpeg)  
-上：基板そのままの色，下：ポスカの白で塗った色
 
 ### 部品のはんだ付け
 
@@ -355,7 +349,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
 #### 基板Topへのゴムシート貼り
 
-1. `基板Top`うら側から、`中くらい幅の薄いゴムシート`を貼る。（6個）
+1. `基板Top`うら側から、`小さな`を貼る。（6個）
 
     各種パーツやネジ穴に重ならない位置へ、フォームを貼ります。  
     少し曲げたり、一部をカットしてから貼ってもかまいません。
