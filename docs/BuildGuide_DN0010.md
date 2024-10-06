@@ -733,11 +733,7 @@ SandyLPの機能や関連情報、また、自分の好みにカスタマイズ�
 
 - ビルド済みファームウェア（QMK バージョン 0.26.3）： [sandy_lp_remap.uf2](../Firmware/sandy_lp_remap.uf2)
 
-    [Sandy_DN0010_files2](https://gist.github.com/jpskenn/16a033668dabca065a8330595d4761a1)（Zipファイルをダウンロードして展開）
-
-- ビルド済みファームウェア（Vial [bb7961c](https://github.com/jpskenn/vial-qmk/commit/bb7961c3c27666c154393bca22aef31f8e60f5b9)）： [sandy_lp_vial.uf2](../Firmware/sandy_lp_vial.uf2)
-
-    [Sandy_DN0010_files](https://gist.github.com/jpskenn/916b2abc9b1252dcd62130175d11db3e)（Zipファイルをダウンロードして展開）
+- ビルド済みファームウェア（Vial bb7961c）： [sandy_lp_vial.uf2](../Firmware/sandy_lp_vial.uf2)
 
 - ファームウェアのソース
 
