@@ -27,7 +27,10 @@ This covers the lack of optimization to physical key layout in two dimensions th
 一般的なロースタッガードなレイアウトとの共通性を残しつつ、左右対称で打鍵しやすくなるよう、[SemiErgo Layout](https://github.com/mtei/SemiErgo_Layout)に準ずるキーマッピングで使用することを念頭に設計しています。  
 Z行の左右端にシフトキーを用意していないので、スペースキーを「Space and Shift」として使うと便利です。
 
-各種キーキャップセットのうち「Base Kit」と呼ばれる基本的なキットですべてを埋めることができます。また、104キーの英語キーキャップセットでも十分実用が可能です。
+`T`と`Y`、`G`と`H`の間の2キーは実際のところそれほど使用することはありませんが、ここに2キー分の間隔があいてることで左右の手を広げることになり、肩を疲れにくくします。  
+また、この間隔がゼロになると左右の親指が当たってしまい親指を有効に使えなくなるので、あえて2キー分の間隔をあけています。
+
+このレイアウトは、各種キーキャップセットのうち「Base Kit」と呼ばれる基本的なキットですべてを埋めることができます。また、104キーの英語キーキャップセットでも十分実用が可能です。
 ![左右対称のキーレイアウト](./assets/Readme/layout_for_base_kit.png)
 
 詳しくは、[Keyboard Layout Editor: SandyLP](https://www.keyboard-layout-editor.com/#/gists/29f5da09ffa69ab85efa4c68b556282b)を参照してください。
