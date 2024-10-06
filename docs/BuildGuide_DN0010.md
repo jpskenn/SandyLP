@@ -91,6 +91,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 | 小さな薄いゴムシート<br>T=1.5mm 50mm * 10mm | 1 | [イノアック L32-1.550-MT マイクロセルウレタンロールPORON 黒 1.5×50mm×1M巻](https://www.yodobashi.com/product/100000001004002516/) |
 | 細くて薄いゴムシート<br>T=2mm 5mm * 500mm | 1 | [低弾性ゴムシート－ハネナイトＲ－](https://jp.misumi-ec.com/vona2/detail/110300277050/?ProductCode=UNSEA2-5)
 | 細くて分厚いゴムシート<br>T=3mm 5mm * 500mm | 1 | [低弾性ゴムシート－ハネナイトＲ－](https://jp.misumi-ec.com/vona2/detail/110300277050/?ProductCode=UNSEA3-5) |
+| プラ板（乳白色）<br>T=0.3mm 約15m * 約20mm | 1 | LEDディフューザーとして使用。<br>[プラバン 0.3mm厚 B4サイズ （5枚入）](https://www.tamiya.com/japan/products/70122/index.html) |
 
 ※出荷時期によって、機能的に同等なものへ変更することがあります。
 
@@ -126,6 +127,7 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 | ロータリーエンコーダ<br>ALPS EC11, EC12同等品 | 1 | ロータリーエンコーダを使用する場合。<br>プッシュスイッチ付きにも対応。 |
 | ロータリーエンコーダ用ノブ（つまみ） | 1 | ロータリーエンコーダを使用する場合。 |
 | スピーカー<br>Murata PKMCS0909E4000-R1 | 1 | [PKMCS0909E4000-R1](https://www.digikey.jp/ja/products/detail/murata-electronics/PKMCS0909E4000-R1/4878400) |
+| 両面テープ | 適量 | LEDディフューザーを取り付ける場合。 |
 
 ## 組み立てに使用する工具
 
@@ -479,6 +481,8 @@ Mid左右用スイッチプレート
 
 Top用スイッチプレート  
 ![貼り付け位置](../assets/BuildGuide_DN0010/sw-plate_top_back_form.jpeg)
+
+【こだわり作業】`Base用スイッチプレート`うら側のLED穴へ、`プラ板（乳白）`を両面テープで貼り付けます。
 
 ### 基板とスイッチプレートをひとつに組み合わせて、スイッチを取り付ける
 
