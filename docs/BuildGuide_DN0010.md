@@ -205,8 +205,8 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
 1. ポップアップ画面で`sandy_lp`を選択して、`接続`を押す。  
     次の画面で`Please import your sandy_lp definition file(.json).`というメッセージが表示された場合
-    1. 別途、[SandyLPのVIA用jsonファイル（sandylp_DN0010_via.json）](https://github.com/jpskenn/SandyLP/blob/main/VIA/sandylp_DN0010_via.json)をダウンロードしておく。
-    1. Remapの画面で`IMPORT(.JSON)`を押し、ダウンロードしておいた`sandylp_DN0010_via.json`を選択して開く。
+    1. 別途、[SandyLPのVIA用jsonファイル（sandylp_via.json）](https://github.com/jpskenn/SandyLP/blob/main/VIA/sandylp_via.json)をダウンロードしておく。
+    1. Remapの画面で`IMPORT(.JSON)`を押し、ダウンロードしておいた`sandylp_via.json`を選択して開く。
 
 1. 画面にキーボードのレイアウトが表示されるまでしばらく待つ。
 
