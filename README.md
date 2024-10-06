@@ -1,6 +1,6 @@
 # SandyLP（サンディ エルピー）
 
-![SandyLP keyboard](/assets/README/aaa.jpeg)  
+![SandyLP keyboard](/assets/Readme/DSCF5282.jpeg)  
 
 `SandyLP` is a 40% keyboard with symmetrical row staggered layout and key height optimization.
 
@@ -22,11 +22,15 @@ This covers the lack of optimization to physical key layout in two dimensions th
 ### 左右対称のキーレイアウト  
 
 [Jones](https://github.com/jpskenn/Jones)と同様の、2行目と3行目にずれのない、左右対称なシンメトリカル ロースタッガードのレイアウトです。  
-![左右対称のキーレイアウト](/assets/README/aaa.jpeg)
+![左右対称のキーレイアウト](/assets/Readme/DSCF5300.jpeg)
 
-一般的なロースタッガードなレイアウトとの共通性を残しつつ、左右対称で打鍵しやすくなるよう、[SemiErgo Layout](https://github.com/mtei/SemiErgo_Layout)に準ずるキーマッピングで使用することを念頭に設計しています。
+一般的なロースタッガードなレイアウトとの共通性を残しつつ、左右対称で打鍵しやすくなるよう、[SemiErgo Layout](https://github.com/mtei/SemiErgo_Layout)に準ずるキーマッピングで使用することを念頭に設計しています。  
+Z行の左右端にシフトキーを用意していないので、スペースキーを「Space and Shift」として使うと便利です。
 
-Z行の左右端にシフトキーを用意していないので、スペースキーを`Space and Shift`として使用するなど、工夫してください。
+各種キーキャップセットのうち「Base Kit」と呼ばれる基本的なキットですべてを埋めることができます。また、104キーの英語キーキャップセットでも十分実用が可能です。
+![左右対称のキーレイアウト](/assets/Readme/layout_for_base_kit.png)
+
+詳しくは、[Keyboard Layout Editor: SandyLP](https://www.keyboard-layout-editor.com/#/gists/29f5da09ffa69ab85efa4c68b556282b)を参照してください。
 
 ### キースイッチを立体的に配置  
 
@@ -34,7 +38,9 @@ Z行の左右端にシフトキーを用意していないので、スペース�
 平面上ではキーを配置できる範囲が限られるため、一部のキーはどうしても指が届きにくくなってしまいます。例えば[Jones](https://github.com/jpskenn/Jones)では、右手小指の`P`や`Back Space`、`Enter`などは打鍵しやすくなりましたが、右手人差し指の`Y`は少し遠く感じられます。  
 このような箇所について、キーの位置に応じてスイッチを配置する高さを変えることで打鍵のしやすさを向上させています。  
 
-![キースイッチの高さ](/assets/README/aaa.jpeg)
+![キースイッチの高さ](/assets/Readme/DSCF5294.jpeg)
+![キースイッチの高さ](/assets/Readme/DSCF5284.jpeg)
+![キースイッチの高さ](/assets/Readme/DSCF5296.jpeg)
 
 キーの高さはLow（0mm）, Middle（3.6mm）, High（8.7mm）の3段階で、以下のように配置されます。  
 ![キーの高さ](/assets/README/layout_height_map.png)
@@ -45,10 +51,9 @@ Z行の左右端にシフトキーを用意していないので、スペース�
 パームレストを使わずとも、手首を反らさないポジションで打鍵できます。
 ※`Choc V1`スイッチは、固定ピンを切り取れば使用できます。
 
-### [Remap](https://remap-keys.app)、[Vial]()によるキー割り当ての変更  
+### Remap、Vialによるキー割り当ての変更  
 
-プログラミング等の知識がなくても、キーやロータリーエンコーダの割り当てを、ブラウザ（Remap）を使って簡単に変更できます。  
-また、Vial対応のファームウェアも用意しています。
+プログラミング等の知識がなくても、キーやロータリーエンコーダの割り当てを、ブラウザ等を使って簡単に変更できます。  
 
 ### オプション機能  
 
@@ -67,21 +72,22 @@ Z行の左右端にシフトキーを用意していないので、スペース�
 
 ## ギャラリー
 
-準備中
+![SandyLP keyboard](/assets/Readme/DSCF5282.jpeg)  
+w/ NuPhy nSA BOW
 
 ## 参考事例
 
-準備中
-
-- おおやけハジメさん
-- Sparrow
+- [TreK Lagoon](https://zenn.dev/digitarhythm/articles/a559b4b19fc959) by おおやけハジメ さん
+- [Sparrow62](https://github.com/74th/sparrow62-buildguide/blob/master/sparrow62_v2.md) by 74th さん
 
 ## 開発経緯
 
-以前開発した[Sandy](https://github.com/jpskenn/Sandy)を、1年半ほど使い続けてきた。長期ロードテストとして十分な体験・経験からの情報を得ることができた。  
-その情報を実機にフィードバックしたSandyのアップデート版（Sandy DN0040）の開発をおこない、あとは基板の製造をする段階となっていた。  
-しかし、課題のひとつとして挙げていた手首の負荷軽減（＝キーボードを低くする変更）が取り込まれていないことが、様々な思いの中でほんのりと燻っていた。  
-ちょうどその頃`Choc V2`スイッチにとても素性の良い静音タイプのスイッチが追加されたことと、「もしかしたら、自分が好んで使っているMX用のキーキャップも使えるかもしれない。」という思いで、ロープロファイルのスイッチを使用したSandy派生版の開発に踏み切った。  
+以前開発した[Sandy](https://github.com/jpskenn/Sandy)を1年半ほど使い続け、日常使いの長期ロードテストとして十分な情報を得ることができた。  
+その情報を元にSandyのアップデート版（Sandy DN0040）の開発をおこない、あとは基板製造の発注をする段階となっていたが、Sandyの課題のひとつとして挙げていた手首の負荷軽減、つまりキーボードを低くする変更を取り込まなかったことが様々な思いの中でほんのりと燻っていた。
 
-また、使用するスイッチの変更でそこそこの量の設計変更が見込まれることから、ついでにキーレイアウトも変更することにした。  
-これまでの`Jones`や`Sandy`では頒布・販売することを念頭に、想定するユーザーの最大公約数的なところへ歩み寄ったレイアウトだったが、今回は自分の使用スタイルを最優先し、自分にとって不要な数字行や左右端のシフトキーなどを取り除いた、少し尖ったレイアウトへと変更した。
+ちょうどその頃、Choc V2スイッチのラインナップに大変素性の良い静音タイプが追加され、自分が好んで使っているMX用のキーキャップもChoc V2で使えそうな情報を得られたことから、ロープロファイルのスイッチを使用したSandyの派生版開発に踏み切った。  
+
+使用するスイッチの変更により、派生版の開発ではそこそこの量の設計変更が見込まれることから、ついでにキーレイアウトも変更することにした。  
+これまでの`Jones`や`Sandy`では頒布・販売することを念頭に、想定するユーザーの最大公約数的なところへ歩み寄ったレイアウトだったが、今回は自分の使用スタイルを最優先し、自分にとって不要な数字行や左右端のシフトキーなどを取り除き、少し尖ったレイアウトへと変更した。
+
+こうして、SandyLPが誕生することとなった。
