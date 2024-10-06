@@ -1,6 +1,6 @@
 # SandyLP（サンディ エルピー）
 
-![SandyLP keyboard](/assets/Readme/DSCF5282.jpeg)  
+![SandyLP keyboard](./assets/Readme/DSCF5282.jpeg)  
 
 `SandyLP` is a 40% keyboard with symmetrical row staggered layout and key height optimization.
 
@@ -22,13 +22,13 @@ This covers the lack of optimization to physical key layout in two dimensions th
 ### 左右対称のキーレイアウト  
 
 [Jones](https://github.com/jpskenn/Jones)と同様の、2行目と3行目にずれのない、左右対称なシンメトリカル ロースタッガードのレイアウトです。  
-![左右対称のキーレイアウト](/assets/Readme/DSCF5300.jpeg)
+![左右対称のキーレイアウト](./assets/Readme/DSCF5300.jpeg)
 
 一般的なロースタッガードなレイアウトとの共通性を残しつつ、左右対称で打鍵しやすくなるよう、[SemiErgo Layout](https://github.com/mtei/SemiErgo_Layout)に準ずるキーマッピングで使用することを念頭に設計しています。  
 Z行の左右端にシフトキーを用意していないので、スペースキーを「Space and Shift」として使うと便利です。
 
 各種キーキャップセットのうち「Base Kit」と呼ばれる基本的なキットですべてを埋めることができます。また、104キーの英語キーキャップセットでも十分実用が可能です。
-![左右対称のキーレイアウト](/assets/Readme/layout_for_base_kit.png)
+![左右対称のキーレイアウト](./assets/Readme/layout_for_base_kit.png)
 
 詳しくは、[Keyboard Layout Editor: SandyLP](https://www.keyboard-layout-editor.com/#/gists/29f5da09ffa69ab85efa4c68b556282b)を参照してください。
 
@@ -38,11 +38,11 @@ Z行の左右端にシフトキーを用意していないので、スペース�
 平面上ではキーを配置できる範囲が限られるため、一部のキーはどうしても指が届きにくくなってしまいます。例えば、[Jones](https://github.com/jpskenn/Jones)では左右対称のレイアウトを採用することで、右手小指の`P`や`Back Space`、`Enter`などは打鍵しやすくなりましたが、右手人差し指の`Y`は少し遠く感じられました。  
 このような箇所について、キーの配置を高くすることで打鍵のしやすさを向上させています。  
 
-![キースイッチの高さ（中央部分）](/assets/Readme/DSCF5294.jpeg)
-![キースイッチの高さ（横から）](/assets/Readme/DSCF5296.jpeg)
+![キースイッチの高さ（中央部分）](./assets/Readme/DSCF5294.jpeg)
+![キースイッチの高さ（横から）](./assets/Readme/DSCF5296.jpeg)
 
 キーの高さはLow（基準高＝0mm）, Middle（3.6mm）, High（8.7mm）の3段階で、以下のように配置されます。  
-![キーの高さ](/assets/README/layout_height_map.png)
+![キーの高さ](./assets/Readme/layout_height_map.png)
 
 ### キーボード自体が低い（薄い）  
 
@@ -50,7 +50,7 @@ Z行の左右端にシフトキーを用意していないので、スペース�
 前機種のSandyからは7.2mm（※1）低くなり、パームレストを使わずとも、手首をあまり反らさないポジションで打鍵できます。
 <small>※1 ボトムプレートから1段目のスイッチ軸の天面までの高さを比較。なお、Sandyは理論上あと0.8mm低くすることが可能。</small>
 
-![キースイッチの高さ](/assets/Readme/DSCF5284.jpeg)
+![キースイッチの高さ](./assets/Readme/DSCF5284.jpeg)
 
 ### RP2040を採用した構成により、多機能なファームウェアを使用可能
 
@@ -79,7 +79,7 @@ RP2040を採用した構成により、キーボード向けのファームウ�
 
 ## ギャラリー
 
-![SandyLP keyboard](/assets/Readme/DSCF5282.jpeg)  
+![SandyLP keyboard](./assets/Readme/DSCF5282.jpeg)  
 w/ NuPhy nSA BOW
 
 ## 参考事例
