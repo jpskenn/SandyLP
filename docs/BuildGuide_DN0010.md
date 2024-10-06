@@ -731,17 +731,19 @@ SandyLPの機能や関連情報、また、自分の好みにカスタマイズ�
 
 このキーボードに関連するファイルです。  
 
-- 〓ビルド済みファームウェア（QMK バージョン 0.26.3）： sandy_DN0010_qmk_0.26.3_via.hex
+- ビルド済みファームウェア（QMK バージョン 0.26.3）： [sandy_lp_remap.uf2](../Firmware/sandy_lp_remap.uf2)
 
     [Sandy_DN0010_files2](https://gist.github.com/jpskenn/16a033668dabca065a8330595d4761a1)（Zipファイルをダウンロードして展開）
 
-- 〓ビルド済みファームウェア（Vial [bb7961c](https://github.com/jpskenn/vial-qmk/commit/bb7961c3c27666c154393bca22aef31f8e60f5b9)）： sandy_DN0010_via.hex
+- ビルド済みファームウェア（Vial [bb7961c](https://github.com/jpskenn/vial-qmk/commit/bb7961c3c27666c154393bca22aef31f8e60f5b9)）： [sandy_lp_vial.uf2](../Firmware/sandy_lp_vial.uf2)
 
     [Sandy_DN0010_files](https://gist.github.com/jpskenn/916b2abc9b1252dcd62130175d11db3e)（Zipファイルをダウンロードして展開）
 
 - ファームウェアのソース
 
-    私がQMKからフォークしたリポジトリ[https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、[develop_SandyLP_QMK_0.26.3](https://github.com/jpskenn/qmk_firmware/tree/develop_SandyLP_QMK_0.26.3)ブランチ内、`keyboards/sandy_lp/DN0010`に配置しています。  
+    私がQMKからフォークしたリポジトリ[https://github.com/jpskenn/qmk_firmware](https://github.com/jpskenn/qmk_firmware)の、[develop_SandyLP_QMK_0.26.3](https://github.com/jpskenn/qmk_firmware/tree/develop_SandyLP_QMK_0.26.3)ブランチ内、`keyboards/sandy_lp/`に配置しています。  
+
+    また、Vial版については、私がvial-qmkからフォークしたリポジトリ[https://github.com/jpskenn/vial-qmk/](https://github.com/jpskenn/vial-qmk/)の、[develop_local](https://github.com/jpskenn/vial-qmk/tree/develop_local)ブランチ内、`keyboards/sandy_lp/`に配置しています。
 
 - 基板等の設計ファイルやドキュメント、Remapの定義ファイルなど
 
