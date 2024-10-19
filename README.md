@@ -1,6 +1,6 @@
 # SandyLP（サンディ エルピー）
 
-![SandyLP keyboard](./assets/Readme/DSCF5282.jpeg)  
+![SandyLP keyboard](./assets/Readme/DSC_8161.jpeg)  
 
 `SandyLP` is a 40% keyboard with symmetrical row staggered layout and key height optimization.
 
@@ -85,6 +85,12 @@ RP2040を採用した構成により、キーボード向けのファームウ�
 
 ![SandyLP keyboard](./assets/Readme/DSCF5282.jpeg)  
 w/ NuPhy nSA BOW
+
+![SandyLP keyboard](./assets/Readme/DSC_8161.jpeg)  
+w/ Signature Plastics DSS Solarized Dark
+
+![SandyLP keyboard](./assets/Readme/DSC_8154.jpeg)  
+w/ Keyreative KAT Space Cadet, DN0011 Switch Plate
 
 ## 参考事例
 
