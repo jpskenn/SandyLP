@@ -15,7 +15,7 @@ SandyLPは、スイッチの配置を立体的にして高さ方向への最適�
 
 前機種の[Sandy](https://github.com/jpskenn/Sandy)を元に、ロープロファイルスイッチへの対応と、レイアウトの調整をおこなっています。
 
-名前の由来は、立体的、つまり3Dという意味を込めたSandyの`ロープロファイル版 = Low Profile version`ということで`LP`をつけました。
+名前の由来は、立体的、つまり3Dという意味を込めたSandyに、ロープロファイル版（＝ Low Profile version）を意味するLPを追加しました。
 
 ## 特徴
 
