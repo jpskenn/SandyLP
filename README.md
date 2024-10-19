@@ -2,20 +2,20 @@
 
 ![SandyLP keyboard](./assets/Readme/DSC_8161.jpeg)  
 
-`SandyLP` is a 40% keyboard with symmetrical row staggered layout and key height optimization.
+SandyLP is a 40% keyboard with symmetrical row staggered layout and key height optimization.
 
 Layered PCB will make height differences for each key.
 This covers the lack of optimization to physical key layout in two dimensions that only adjust x-y plane.
 
 ---
 
-`SandyLP`は、スイッチの配置を立体的にして高さ方向への最適化を加えた、左右対称ロースタッガード配列の40%キーボードです。  
+SandyLPは、スイッチの配置を立体的にして高さ方向への最適化を加えた、左右対称ロースタッガード配列の40%キーボードです。  
 
 平面上のキーレイアウトだけでは最適化しきれない部分を、キーの位置に応じてスイッチを配置する高さを変えることで補っています。
 
 前機種の[Sandy](https://github.com/jpskenn/Sandy)を元に、ロープロファイルスイッチへの対応と、レイアウトの調整をおこなっています。
 
-名前の由来は、立体的、つまり3Dという意味を込めたSandyの`ロープロファイル版 = Low Profile version`ということで`LP`をつけました。
+名前の由来は、立体的、つまり3Dという意味を込めたSandyに、ロープロファイル版（＝ Low Profile version）を意味するLPを追加しました。
 
 ## 特徴
 
@@ -28,9 +28,9 @@ This covers the lack of optimization to physical key layout in two dimensions th
 Z行の左右端にシフトキーを用意していないので、スペースキーを「Space and Shift」として使うと便利です。
 
 `T`と`Y`、`G`と`H`の間の2キーは実際のところそれほど使用することはありませんが、ここに2キー分の間隔があいてることで左右の手を広げることになり、肩を疲れにくくします。  
-また、この間隔がゼロになると左右の親指が当たってしまい親指を有効に使えなくなるので、あえて2キー分の間隔をあけています。
+また、この間隔がゼロになると左右の親指が当たって動きを妨げてしまうため、あえて間隔をあけています。
 
-このレイアウトは、各種キーキャップセットのうち「Base Kit」と呼ばれる基本的なキットですべてを埋めることができます。また、104キーの英語キーキャップセットでも十分実用が可能です。
+このレイアウトは、市販の各種キーキャップセットのうち「Base Kit」と呼ばれる基本的なキットですべてを埋めることができます。また、104キーの英語キーキャップセットでも十分実用が可能です。
 ![左右対称のキーレイアウト](./assets/Readme/layout_for_base_kit.png)
 
 詳しくは、[Keyboard Layout Editor: SandyLP](https://www.keyboard-layout-editor.com/#/gists/29f5da09ffa69ab85efa4c68b556282b)を参照してください。
