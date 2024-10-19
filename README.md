@@ -2,14 +2,14 @@
 
 ![SandyLP keyboard](./assets/Readme/DSC_8161.jpeg)  
 
-`SandyLP` is a 40% keyboard with symmetrical row staggered layout and key height optimization.
+SandyLP is a 40% keyboard with symmetrical row staggered layout and key height optimization.
 
 Layered PCB will make height differences for each key.
 This covers the lack of optimization to physical key layout in two dimensions that only adjust x-y plane.
 
 ---
 
-`SandyLP`は、スイッチの配置を立体的にして高さ方向への最適化を加えた、左右対称ロースタッガード配列の40%キーボードです。  
+SandyLPは、スイッチの配置を立体的にして高さ方向への最適化を加えた、左右対称ロースタッガード配列の40%キーボードです。  
 
 平面上のキーレイアウトだけでは最適化しきれない部分を、キーの位置に応じてスイッチを配置する高さを変えることで補っています。
 
