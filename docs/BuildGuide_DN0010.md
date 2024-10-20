@@ -113,8 +113,8 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
 | 部品名 | 個数 | 備考 |
 | :-- | :--: | :-- |
-| Choc V2スイッチ | 50 | ロータリーエンコーダを取り付ける場合は49個。<br>Choc V1スイッチは、固定ピンがないもの、または取り外したものであれば取り付け可能。 |
-| キーキャップ<br>Choc V2スイッチ用 | 必要数 | MXスイッチ用のキーキャップは、スイッチプレートに干渉することがあります。<br>GMK等のいわゆるBase Kitを使用すると、良い具合に仕上げることができます。<br>詳しくは[キーキャップの選び方](#キーキャップの選び方)をご覧ください。 |
+| Choc V2スイッチ | 50 | ロータリーエンコーダを取り付ける場合は49個。<br>Choc V1スイッチは、固定ピンがないもの、または固定ピンを取り外したものであれば取り付け可能。<br>ピン折れなどの保険用に5個くらい多めに買っておくとよい。 |
+| キーキャップ<br>Choc V2スイッチ用 | 必要数 | GMKやePBT等のいわゆるBase Kitを使用すると、良い具合に仕上げることが可能。<br>一部のMXスイッチ用のキーキャップは、組み合わせによってはスイッチプレートやスイッチに干渉する場合あり。<br>詳しくは[キーキャップの選び方](#キーキャップの選び方)を参照。 |
 | USBケーブル （Type-C） | 1 | Base基板に取り付けられているコネクタはType-Cです。 |
 
 ### オプション部品
@@ -791,25 +791,32 @@ EEPROMに記録されているデータを消去し、初期状態に戻す方�
 
 このキーボードで使用するChoc V2スイッチには、十字形状の穴をもつ、いわゆるCherry MXに互換性のあるキーキャップ（以降、MX用キーキャップと言う）を取り付けることができます。  
 
-しかし、ほとんどのMX用キーキャップはChoc V2などのロープロファイルなスイッチに合わせて設計されていないため、押下時にスイッチやスイッチプレートに当たり、干渉してしまうことがあります。  
+#### キーキャップセット
+
+GMKやePBT等のいわゆるBase Kitを使用すると、見た目的にも質感的にも良い具合に仕上げることが可能です。  
+また、英語104キーのセットでもそれなりに使える感じに仕上がります。
+
+![キーキャップガイド](../assets/BuildGuide_DN0010/keycaps_guide.png)
+
+#### キーキャップとスイッチの組み合わせ
+
+Choc V2などのロープロファイルなスイッチに合わせて設計されていないMX用キーキャップは、押下時にスイッチやスイッチプレートに当たり、干渉してしまうことがあります。  
 また、Choc V2スイッチは販売時期やシリーズによってトップハウジングの形状が異なっているため、干渉を避けるにはキーキャップとスイッチの組み合わせが重要となります。
 
-組み合わせについては、[Kailh x Lofree Shadowシリーズ、Kailh Choc V2(Deep Sea Silent MINI)で使えるキーキャップを調査した](https://74th.hateblo.jp/entry/chocv2-compatible-keycap)が参考になります。
+組み合わせについては、74thさんの「[Kailh x Lofree Shadowシリーズ、Kailh Choc V2(Deep Sea Silent MINI)で使えるキーキャップを調査した](https://74th.hateblo.jp/entry/chocv2-compatible-keycap)」や、以下の私自身が実際に試した結果を参考にしてください。（干渉しないことを保証するものではありません）
 
-また、私自身が試した組み合わせの結果を以下に記録しておきますので、参考にしてください。（干渉しないことを保証するものではありません）
+私が試した組み合わせ結果
 
 | スイッチ | キーキャップ | 干渉の有無 | 使用感 |
 | :-- | :-- | :-- | :-- |
 | Kailh Lofree FLOW GHOST | ePBT, Cherry, Less But Better | プレート干渉はほぼなし。スイッチに当たっている感じがある。 | スイッチ自体の底打ち衝撃と干渉の音が若干ズレるような感じがあり、あまり気持ちよくない。 |
-| Kailh Lofree FLOW GHOST | ENJOYPBT DOUBLESHOT ABS, Cherry, Dolch Yellow | プレート干渉あり。スイッチ干渉不明（プレートに先に当たってしまっている？） |  |
-| Kailh Lofree FLOW GHOST | Keyreative, KAT, Space Cadet | プレート干渉なし。スイッチ干渉あり。 | スイッチには干渉しているが、スイッチ自体の底打ちと一体化しており、問題なく使える。ePBT Cherryとは感触が異なる。 |
+| Kailh Lofree FLOW GHOST | ENJOYPBT DOUBLESHOT ABS, Cherry, Dolch Yellow | プレート干渉あり。スイッチ干渉不明（スイッチに当たる前にプレートに当たっている） |  |
+| Kailh Lofree FLOW GHOST | Keyreative, KAT, Space Cadet | プレート干渉なし。スイッチ干渉あり。 | スイッチには干渉しているが、スイッチ自体の底打ち衝撃と干渉の音が一体化しているためあまり気にならず、普通に使える。ePBT Cherryとは感触が異なる。 |
 | Kailh Lofree FLOW GHOST | Signature Plastics, G20, individual | プレート干渉なし。スイッチ干渉あり。 | スイッチには干渉しているが、スイッチ自体の底打ちと一体化している。使えないこともない。 |
 | Kailh Lofree FLOW GHOST | NuPhy, nSA, BOW | 干渉なし。 |  |
-| Kailh Deep Sea Silent MINI | Signature Plastics, DSS, Solarized Dark | プレートへのクリアランスはぎりぎりで、数個のキーで干渉あり（個体差？）。スイッチ干渉なし。 | 一部気になるところがあるが、基本的には問題なし。 |
+| Kailh Deep Sea Silent MINI | Signature Plastics, DSS, Solarized Dark | プレートへのクリアランスはぎりぎりで、数個のキーで干渉あり（個体差？）。スイッチ干渉なし。 | 一部気になるところがあるが、基本的には問題なし。日常的に使用中。 |
 | Kailh Deep Sea Silent MINI | Signature Plastics, G20, individual | プレート干渉なし。スイッチ干渉あり。 | 押下時コツコツという小さい音と感触があり、サイレントではなくなる。 |
-| Kailh Deep Sea Silent MINI |  |  |  |
-| Kailh Deep Sea Silent MINI |  |  |  |
-| Kailh Deep Sea Silent MINI |  |  |  |
+| Kailh Deep Sea Silent MINI | ePBT, Cherry, EPBT x Openkey Less but better | 干渉なし。 | 50個に1個くらいの割合でキーキャップと干渉するスイッチがある（内部のダンパーがずれている？）ので、スイッチを5個くらい多めに買っておいて選別するとよい。日常的に使用中。 |
 
 キースイッチとキースイッチの組み合わせ
 
