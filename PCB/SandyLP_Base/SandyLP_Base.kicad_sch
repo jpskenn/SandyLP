@@ -7958,6 +7958,12 @@
 		(uuid "044549f0-8e95-497d-b3de-19c2c1439658")
 	)
 	(junction
+		(at 302.26 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08bcf966-cab8-4297-9ef3-04caad729d22")
+	)
+	(junction
 		(at 121.92 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8414,6 +8420,12 @@
 		(uuid "a11ea8d7-8cd4-422c-ab57-0f0b5a3e0f80")
 	)
 	(junction
+		(at 302.26 106.045)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a3c6183a-9de1-464b-a139-499afe370711")
+	)
+	(junction
 		(at 181.61 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8734,6 +8746,16 @@
 			(type default)
 		)
 		(uuid "008885e1-d8e9-4401-94c0-4aa402ee9b84")
+	)
+	(wire
+		(pts
+			(xy 292.1 102.87) (xy 292.1 106.045)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0096bc26-ab19-4b2a-9037-398af5afa9a5")
 	)
 	(wire
 		(pts
@@ -9884,6 +9906,16 @@
 			(type default)
 		)
 		(uuid "5c5abdea-bfdf-4969-b67e-65c66a8a3e76")
+	)
+	(wire
+		(pts
+			(xy 292.1 69.215) (xy 292.1 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cf61131-09f0-4c20-9291-ced12f094515")
 	)
 	(wire
 		(pts
@@ -11107,6 +11139,16 @@
 	)
 	(wire
 		(pts
+			(xy 302.26 69.215) (xy 302.26 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba975543-f03f-4265-bae5-e5efa9a9682b")
+	)
+	(wire
+		(pts
 			(xy 217.17 190.5) (xy 236.22 190.5)
 		)
 		(stroke
@@ -11584,6 +11626,16 @@
 			(type default)
 		)
 		(uuid "e07fc275-b54b-445c-b10c-03203beca732")
+	)
+	(wire
+		(pts
+			(xy 302.26 102.87) (xy 302.26 106.045)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0e2fd18-129a-4f3d-a246-a13c973b4d2f")
 	)
 	(wire
 		(pts
@@ -12986,7 +13038,7 @@
 	)
 	(global_label "USB_BOOT"
 		(shape input)
-		(at 290.83 85.725 180)
+		(at 290.83 88.265 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12996,7 +13048,7 @@
 		)
 		(uuid "3866d986-cc31-4139-9e17-c6f534bd644d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 278.7407 85.6456 0)
+			(at 278.7407 88.1856 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14342,7 +14394,7 @@
 	)
 	(global_label "USB_BOOT"
 		(shape input)
-		(at 292.1 71.755 180)
+		(at 292.1 69.215 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14352,7 +14404,7 @@
 		)
 		(uuid "8a4a191f-6926-421a-a6f8-001bbbc1d027")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 280.0107 71.6756 0)
+			(at 280.0107 69.1356 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16020,7 +16072,7 @@
 	)
 	(global_label "RESET"
 		(shape input)
-		(at 290.83 88.265 180)
+		(at 290.83 85.725 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16030,7 +16082,7 @@
 		)
 		(uuid "f3aa653d-c43d-4cfd-b273-4bde3fc63c1e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 282.6717 88.1856 0)
+			(at 282.6717 85.6456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23281,6 +23333,92 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 297.18 72.39 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "060ee1cc-d046-4421-924d-9ea8e4a7fd42")
+		(property "Reference" "SW3"
+			(at 297.18 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BOOT_ALT"
+			(at 297.18 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
+			(at 297.18 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 297.18 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 297.18 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 297.18 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" "C116501"
+			(at 297.18 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5364c1ce-da16-4631-af50-c7588e0a1176")
+		)
+		(pin "2"
+			(uuid "00d4ccc6-bbf0-471a-af57-66c459340834")
+		)
+		(instances
+			(project "SandyLP_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "SW3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_2")
 		(lib_id "power:GND")
 		(at 387.985 83.82 0)
@@ -25829,7 +25967,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 367.665 30.48 90)
 			(effects
 				(font
@@ -25856,7 +25994,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C130723"
+		(property "LCSC" ""
 			(at 367.665 30.48 0)
 			(effects
 				(font
@@ -29441,6 +29579,91 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 297.18 106.045 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "75703cfc-d4ca-4b7a-b819-050665c4de3f")
+		(property "Reference" "#SW4"
+			(at 297.18 98.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "RESET_ALT"
+			(at 297.18 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
+			(at 297.18 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 297.18 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 297.18 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 297.18 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" "C116501"
+			(at 297.18 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "89cd2593-aa81-4319-ba1f-7be8bcb1f3b4")
+		)
+		(pin "2"
+			(uuid "962c1342-764b-4852-b0a3-7d20043d7732")
+		)
+		(instances
+			(project "SandyLP_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "#SW4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_2")
 		(lib_id "power:GND")
 		(at 401.32 19.05 0)
@@ -30007,7 +30230,7 @@
 	(symbol
 		(lib_name "GND_2")
 		(lib_id "power:GND")
-		(at 302.26 102.87 0)
+		(at 302.26 106.045 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -30016,7 +30239,7 @@
 		(fields_autoplaced yes)
 		(uuid "87c23033-057b-40a2-8589-4c7d5ec126bd")
 		(property "Reference" "#PWR039"
-			(at 302.26 109.22 0)
+			(at 302.26 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30025,7 +30248,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 302.26 107.0031 0)
+			(at 302.26 110.1781 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30033,7 +30256,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 302.26 102.87 0)
+			(at 302.26 106.045 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30042,7 +30265,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 302.26 102.87 0)
+			(at 302.26 106.045 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30051,7 +30274,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 302.26 102.87 0)
+			(at 302.26 106.045 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31411,7 +31634,7 @@
 	(symbol
 		(lib_name "GND_2")
 		(lib_id "power:GND")
-		(at 302.26 71.755 0)
+		(at 302.26 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31420,7 +31643,7 @@
 		(fields_autoplaced yes)
 		(uuid "b0331ccd-26ac-47a5-839f-d8c430f50edc")
 		(property "Reference" "#PWR050"
-			(at 302.26 78.105 0)
+			(at 302.26 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31429,7 +31652,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 302.26 75.8881 0)
+			(at 302.26 76.5231 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31437,7 +31660,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 302.26 71.755 0)
+			(at 302.26 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31446,7 +31669,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 302.26 71.755 0)
+			(at 302.26 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31455,7 +31678,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 302.26 71.755 0)
+			(at 302.26 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32756,7 +32979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb71b3f4-94c7-474e-bbb9-ac883e981abc")
-		(property "Reference" "#J11"
+		(property "Reference" "J3"
 			(at 297.18 80.3105 0)
 			(effects
 				(font
@@ -32772,7 +32995,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x02_P2.00mm_Vertical"
+		(property "Footprint" "locallib:PinHeader_2x02_P2.00mm_Vertical_2pair"
 			(at 295.91 85.725 0)
 			(effects
 				(font
@@ -32814,7 +33037,7 @@
 		(instances
 			(project ""
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "#J11")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -35508,7 +35731,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fa7e1efc-eb87-4769-a08e-fd0026dfa360")
-		(property "Reference" "SW2"
+		(property "Reference" "#SW2"
 			(at 297.18 95.25 0)
 			(effects
 				(font
@@ -35578,7 +35801,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW2")
+					(reference "#SW2")
 					(unit 1)
 				)
 			)
@@ -35586,7 +35809,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 297.18 71.755 0)
+		(at 297.18 69.215 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35595,7 +35818,7 @@
 		(fields_autoplaced yes)
 		(uuid "fb05dfc9-e24f-46ee-a8a6-3713ab04ce9d")
 		(property "Reference" "SW1"
-			(at 297.18 64.135 0)
+			(at 297.18 61.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35603,7 +35826,7 @@
 			)
 		)
 		(property "Value" "BOOT"
-			(at 297.18 66.675 0)
+			(at 297.18 64.135 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35611,7 +35834,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
-			(at 297.18 66.675 0)
+			(at 297.18 64.135 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35620,7 +35843,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 297.18 66.675 0)
+			(at 297.18 64.135 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35629,7 +35852,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 297.18 71.755 0)
+			(at 297.18 69.215 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35638,7 +35861,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 297.18 71.755 0)
+			(at 297.18 69.215 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35647,7 +35870,7 @@
 			)
 		)
 		(property "LCSC-Reserve" "C2886897"
-			(at 297.18 71.755 0)
+			(at 297.18 69.215 0)
 			(effects
 				(font
 					(size 1.27 1.27)
