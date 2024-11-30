@@ -7205,7 +7205,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:Kailh_socket_ChocV2_for_Reverse"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2_for_Reverse_narrow_#2pad"
 			(at 43.18 40.005 0)
 			(effects
 				(font
