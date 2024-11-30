@@ -8338,7 +8338,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:Kailh_socket_ChocV2"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2_narrow_#2pad"
 			(at 175.26 103.505 0)
 			(effects
 				(font
@@ -9727,7 +9727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:Kailh_socket_ChocV2"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2_narrow_#2pad"
 			(at 142.24 103.505 0)
 			(effects
 				(font
