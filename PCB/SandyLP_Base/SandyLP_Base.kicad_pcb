@@ -28642,7 +28642,7 @@
 		)
 		(fp_arc
 			(start -0.378178 -1.358526)
-			(mid -0.787708 -1.474533)
+			(mid -0.787709 -1.474533)
 			(end -0.8 -1.9)
 			(stroke
 				(width 0.12)
@@ -30969,7 +30969,7 @@
 		)
 		(fp_arc
 			(start -0.378178 -1.358526)
-			(mid -0.787708 -1.474533)
+			(mid -0.787709 -1.474533)
 			(end -0.8 -1.9)
 			(stroke
 				(width 0.12)
@@ -31909,7 +31909,7 @@
 		(descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
 		(tags "test point THT pad")
 		(property "Reference" "T_R3"
-			(at 0 1.998 0)
+			(at 3.071872 0 0)
 			(layer "B.SilkS")
 			(uuid "be43ea42-d3cf-477f-9223-f6678ca87d79")
 			(effects
@@ -49966,7 +49966,7 @@
 		(descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
 		(tags "test point THT pad")
 		(property "Reference" "T_R7"
-			(at 0 1.998 0)
+			(at 3.071872 0 0)
 			(layer "B.SilkS")
 			(uuid "7a3805fa-575f-496a-a818-83683617dbfa")
 			(effects
@@ -73399,6 +73399,17 @@
 		(uuid "117b86bc-c7ba-4c06-9387-caeccb191b46")
 	)
 	(gr_rect
+		(start 283.258438 92.297169)
+		(end 292.858438 93.997169)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "B.SilkS")
+		(uuid "192d8b7b-70dc-4f08-a880-e300ca174dda")
+	)
+	(gr_rect
 		(start 163.308438 66.147169)
 		(end 195.808438 70.147169)
 		(stroke
@@ -73433,7 +73444,7 @@
 	)
 	(gr_rect
 		(start 293.558438 77.747169)
-		(end 295.258438 98.747169)
+		(end 295.258438 93.997169)
 		(stroke
 			(width 0.5)
 			(type default)
@@ -73441,6 +73452,17 @@
 		(fill none)
 		(layer "B.SilkS")
 		(uuid "3aaaa33f-bec9-4ac1-94fe-2fc99d8fe16d")
+	)
+	(gr_rect
+		(start 24.858438 92.447169)
+		(end 34.458438 94.147169)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "B.SilkS")
+		(uuid "3bc8aad2-401e-49cc-8657-4c680b0f4a7e")
 	)
 	(gr_rect
 		(start 262.808438 35.647169)
@@ -73583,7 +73605,7 @@
 	)
 	(gr_rect
 		(start 22.558438 67.547169)
-		(end 24.258438 98.747169)
+		(end 24.258438 94.147169)
 		(stroke
 			(width 0.5)
 			(type default)
