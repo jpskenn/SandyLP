@@ -491,7 +491,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "1428779e-4ad8-456a-9b18-c0ca7df77544")
-		(at 154.321126 86.132889)
+		(at 149.409345 92.387032)
 		(property "Reference" "REF**"
 			(at 0 0.5 0)
 			(layer "Cmts.User")
@@ -706,7 +706,7 @@
 		)
 		(fp_arc
 			(start 2.475824 -5.107131)
-			(mid 1.399999 -5.299999)
+			(mid 1.4 -5.3)
 			(end 0.555319 -5.993622)
 			(stroke
 				(width 0.12)
@@ -5076,7 +5076,7 @@
 		)
 		(fp_arc
 			(start 95.805 -16.764254)
-			(mid 96.390776 -18.178462)
+			(mid 96.39077 -18.178497)
 			(end 97.805 -18.764254)
 			(stroke
 				(width 0.3)
@@ -5098,7 +5098,7 @@
 		)
 		(fp_arc
 			(start 140.485 -18.764254)
-			(mid 141.899233 -18.178471)
+			(mid 141.899197 -18.178465)
 			(end 142.485 -16.764254)
 			(stroke
 				(width 0.3)
@@ -5109,7 +5109,7 @@
 		)
 		(fp_arc
 			(start 142.475 -2.628468)
-			(mid 141.889208 -1.21424)
+			(mid 141.889202 -1.214275)
 			(end 140.475 -0.628468)
 			(stroke
 				(width 0.3)
@@ -5317,7 +5317,7 @@
 		)
 		(fp_arc
 			(start 27.975 35.520746)
-			(mid 27.389212 36.934959)
+			(mid 27.389211 36.934956)
 			(end 25.975 37.520746)
 			(stroke
 				(width 0.3)
@@ -8968,7 +8968,7 @@
 		)
 		(fp_arc
 			(start 2.475824 -5.107131)
-			(mid 1.399999 -5.299999)
+			(mid 1.4 -5.3)
 			(end 0.555319 -5.993622)
 			(stroke
 				(width 0.12)
@@ -9743,7 +9743,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "a11bd2ad-ef46-47ad-a8ac-367f1baff5d5")
-		(at 173.371126 86.132889)
+		(at 168.409345 92.387032)
 		(property "Reference" "REF**"
 			(at 0 0.5 0)
 			(layer "Cmts.User")
@@ -9958,7 +9958,7 @@
 		)
 		(fp_arc
 			(start 2.475824 -5.107131)
-			(mid 1.399999 -5.299999)
+			(mid 1.4 -5.3)
 			(end 0.555319 -5.993622)
 			(stroke
 				(width 0.12)
@@ -10283,7 +10283,7 @@
 		)
 		(fp_arc
 			(start -1.308116 0.190917)
-			(mid 0.050001 -0.05)
+			(mid 0.05 -0.05)
 			(end 0.743353 1.142386)
 			(stroke
 				(width 0.2)
@@ -10782,7 +10782,7 @@
 		)
 		(fp_arc
 			(start 2.475824 -5.107131)
-			(mid 1.399999 -5.299999)
+			(mid 1.4 -5.3)
 			(end 0.555319 -5.993622)
 			(stroke
 				(width 0.12)
@@ -12498,7 +12498,7 @@
 		)
 		(fp_arc
 			(start 2.475824 -5.107131)
-			(mid 1.399999 -5.299999)
+			(mid 1.4 -5.3)
 			(end 0.555319 -5.993622)
 			(stroke
 				(width 0.12)
@@ -12606,7 +12606,7 @@
 		)
 		(fp_arc
 			(start -1.308116 0.190917)
-			(mid 0.050001 -0.05)
+			(mid 0.05 -0.05)
 			(end 0.743353 1.142386)
 			(stroke
 				(width 0.2)
@@ -12835,7 +12835,7 @@
 		)
 		(fp_arc
 			(start 2.475824 -5.107131)
-			(mid 1.399999 -5.299999)
+			(mid 1.4 -5.3)
 			(end 0.555319 -5.993622)
 			(stroke
 				(width 0.12)
@@ -13075,7 +13075,7 @@
 		)
 		(fp_arc
 			(start 2.475824 -5.107131)
-			(mid 1.399999 -5.299999)
+			(mid 1.4 -5.3)
 			(end 0.555319 -5.993622)
 			(stroke
 				(width 0.12)
@@ -13315,7 +13315,7 @@
 		)
 		(fp_arc
 			(start 2.475824 -5.107131)
-			(mid 1.399999 -5.299999)
+			(mid 1.4 -5.3)
 			(end 0.555319 -5.993622)
 			(stroke
 				(width 0.12)
@@ -13544,7 +13544,7 @@
 		(locked yes)
 		(layer "B.Cu")
 		(uuid "0ea1de2f-0c00-4200-9f50-eeb837ea2198")
-		(at 133.085027 55.8479)
+		(at 133.428777 56.607275)
 		(property "Reference" "REF**"
 			(at 0 -0.5 0)
 			(layer "Cmts.User")
@@ -13784,7 +13784,7 @@
 		)
 		(fp_arc
 			(start 0.325 1.05)
-			(mid -0.050511 2.285659)
+			(mid -0.050511 2.285658)
 			(end -1.332701 2.440097)
 			(stroke
 				(width 0.12)
@@ -14660,7 +14660,7 @@
 		)
 		(fp_arc
 			(start 0.325 1.05)
-			(mid -0.050511 2.285659)
+			(mid -0.050511 2.285658)
 			(end -1.332701 2.440097)
 			(stroke
 				(width 0.12)
@@ -15844,7 +15844,7 @@
 		(descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
 		(tags "test point THT pad")
 		(property "Reference" "EXT_MR6"
-			(at 0 1.998 0)
+			(at 4.8125 -0.08125 0)
 			(layer "B.SilkS")
 			(uuid "a5a2daf5-61e8-42bc-a03f-a393406d7e1f")
 			(effects
@@ -16894,7 +16894,7 @@
 		)
 		(fp_arc
 			(start 0.325 1.05)
-			(mid -0.050511 2.285659)
+			(mid -0.050511 2.285658)
 			(end -1.332701 2.440097)
 			(stroke
 				(width 0.12)
@@ -17159,7 +17159,7 @@
 		)
 		(fp_arc
 			(start 0.325 1.05)
-			(mid -0.050511 2.285659)
+			(mid -0.050511 2.285658)
 			(end -1.332701 2.440097)
 			(stroke
 				(width 0.12)
@@ -17184,7 +17184,7 @@
 		(locked yes)
 		(layer "B.Cu")
 		(uuid "84e166ee-44af-4778-bf38-7bb1e1b80207")
-		(at 154.321126 80.851025)
+		(at 151.378777 86.907275)
 		(property "Reference" "REF**"
 			(at 0 -0.5 0)
 			(layer "Cmts.User")
@@ -17424,7 +17424,7 @@
 		)
 		(fp_arc
 			(start 0.325 1.05)
-			(mid -0.050511 2.285659)
+			(mid -0.050511 2.285658)
 			(end -1.332701 2.440097)
 			(stroke
 				(width 0.12)
@@ -18124,7 +18124,7 @@
 		(descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
 		(tags "test point THT pad")
 		(property "Reference" "EXT_MR5"
-			(at 0 1.998 0)
+			(at -4.78125 0.025 0)
 			(layer "B.SilkS")
 			(uuid "7870895f-0464-4878-81c0-6a4bb2a7fcfa")
 			(effects
@@ -18244,7 +18244,7 @@
 		(locked yes)
 		(layer "B.Cu")
 		(uuid "972194a0-a0eb-4423-b133-be638e36ac54")
-		(at 173.566277 80.851025)
+		(at 170.378777 86.907275)
 		(property "Reference" "REF**"
 			(at 0 -0.5 0)
 			(layer "Cmts.User")
@@ -18484,7 +18484,7 @@
 		)
 		(fp_arc
 			(start 0.325 1.05)
-			(mid -0.050511 2.285659)
+			(mid -0.050511 2.285658)
 			(end -1.332701 2.440097)
 			(stroke
 				(width 0.12)
@@ -19013,7 +19013,7 @@
 		)
 		(fp_arc
 			(start 0.325 1.05)
-			(mid -0.050511 2.285659)
+			(mid -0.050511 2.285658)
 			(end -1.332701 2.440097)
 			(stroke
 				(width 0.12)
@@ -19305,7 +19305,7 @@
 		(descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
 		(tags "test point THT pad")
 		(property "Reference" "EXT_MR2"
-			(at 0 1.998 0)
+			(at -4.7375 0.01875 0)
 			(layer "B.SilkS")
 			(uuid "90d6c58c-343e-42cc-ba32-5f001b2a8d4c")
 			(effects
@@ -19869,7 +19869,7 @@
 		)
 		(fp_arc
 			(start 0.325 1.05)
-			(mid -0.050512 2.285659)
+			(mid -0.050511 2.285659)
 			(end -1.332701 2.440097)
 			(stroke
 				(width 0.12)
@@ -20481,8 +20481,135 @@
 			(uuid "caff72e1-acc2-4c20-847c-301bdb38b28a")
 		)
 	)
+	(gr_line
+		(start 172.370935 69.51903)
+		(end 172.320935 76.91903)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "10d261c1-d398-4959-a61c-89580560233b")
+	)
+	(gr_rect
+		(start 125.320935 52.21903)
+		(end 201.570935 56.46903)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "B.SilkS")
+		(uuid "14f0be47-6f66-43f2-92b3-8e13e6a0c873")
+	)
+	(gr_line
+		(start 176.620935 69.51903)
+		(end 172.370935 69.51903)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "594011a9-f706-4bae-b69d-4fef2b17fde3")
+	)
+	(gr_rect
+		(start 216.570935 45.71903)
+		(end 219.820935 57.21903)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "B.SilkS")
+		(uuid "5c17ed9b-7ad8-42e8-a276-bfc76b9c6524")
+	)
+	(gr_rect
+		(start 168.995935 64.46903)
+		(end 182.445935 68.71903)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "B.SilkS")
+		(uuid "5d1cbce8-ca80-460b-ad9e-2c49335e5254")
+	)
+	(gr_line
+		(start 176.620935 84.76903)
+		(end 176.620935 69.51903)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "5eb7324d-b325-4797-a7be-6c18d6c21cbd")
+	)
+	(gr_rect
+		(start 144.620935 64.46903)
+		(end 158.070935 68.71903)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "B.SilkS")
+		(uuid "5fdb0f6a-7593-4b81-a355-a01823a11e39")
+	)
+	(gr_line
+		(start 172.370935 79.51903)
+		(end 172.370935 84.76903)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "60cc9993-56ef-4bef-a770-ffd62d7ac6e7")
+	)
+	(gr_rect
+		(start 116.220935 39.11903)
+		(end 123.070935 43.36903)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "B.SilkS")
+		(uuid "88887d62-6ba9-4735-a3b3-1781b9ca73c9")
+	)
+	(gr_line
+		(start 172.370935 84.76903)
+		(end 176.620935 84.76903)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "c32881da-adae-445c-a97f-e88ec72505e4")
+	)
+	(gr_rect
+		(start 148.420935 69.46903)
+		(end 152.670935 84.71903)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "B.SilkS")
+		(uuid "e8745943-74fd-4e60-92ad-ef8cab6bc6d1")
+	)
+	(gr_rect
+		(start 147.570935 39.21903)
+		(end 180.320935 43.96903)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "B.SilkS")
+		(uuid "f96b37ca-0273-46d7-8ea4-2a9526da1b39")
+	)
 	(gr_text "Back Side"
-		(at 163.933435 44.86278 0)
+		(at 163.933435 41.71903 0)
 		(layer "B.SilkS" knockout)
 		(uuid "c8dc92ad-5785-4a3b-838b-b5cf25503481")
 		(effects
@@ -20494,8 +20621,8 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "#SandyLP_kbd DN0010\nMid by @jpskenn"
-		(at 179.41156 73.85028 0)
+	(gr_text "#SandyLP_kbd DN0010 Mid by @jpskenn"
+		(at 163.920935 54.41903 0)
 		(layer "B.SilkS")
 		(uuid "f9c8c7b0-199c-475b-b458-de1a85834646")
 		(effects
@@ -20503,7 +20630,7 @@
 				(size 1.8 1.8)
 				(thickness 0.2)
 			)
-			(justify left mirror)
+			(justify mirror)
 		)
 	)
 	(segment
