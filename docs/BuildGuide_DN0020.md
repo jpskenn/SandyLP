@@ -78,10 +78,9 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 | Mid左右用スイッチプレート | 2 | 同一形状の2枚のうち、ひとつをおもて側、もうひとつをうら側にして使用。 |
 | Top用スイッチプレート | 1 | |
 | ボトムプレート | 1 ||
-| 短いスペーサー<br>両メネジ M2 3mm | 11 | [ヒロスギ ASB-2003E](https://hirosugi.co.jp/products/B/ASB-E.html#bx3) |
-| 長いスペーサー<br>両メネジ M2 3.5mm | 6 |  [ヒロスギ ASB-2003.5E](https://hirosugi.co.jp/products/B/ASB-E.html#bx3) |
+| スペーサー<br>両メネジ M2 3mm | 17 | [ヒロスギ ASB-2003E](https://hirosugi.co.jp/products/B/ASB-E.html#bx3) |
 | ナット<br>M2 2種 高さ1.6mm | 35 | 予備1個含む。[ウィルコ FNT-02N-2](https://wilco.jp/products/F/FNT-N-2.html) |
-| ワッシャー<br>M2 内径2.3mm 外径4.3mm 厚さ0.4mm| 19 | 予備1個含む。[ウィルコ FW-0204-04N](https://wilco.jp/products/F/FW-N.html#page3) |
+| ワッシャー<br>M2 内径2.3mm 外径4.3mm 厚さ0.4mm| 25 | 予備1個含む。[ウィルコ FW-0204-04N](https://wilco.jp/products/F/FW-N.html#page3) |
 | 短いネジ（2mm）<br>M2 2mm | 11 | [十字穴付なべ小ねじ](https://jp.misumi-ec.com/vona2/detail/110302280810/?ProductCode=BKJ2-2) |
 | 短いネジ（3mm）<br>M2 3mm | 22 | 予備1個含む。[ウィルコ F-0230N-02](https://wilco.jp/products/F/F-N-02.html#page3) |
 | 長いねじネジ<br>M2 6mm | 19 | 予備1個含む。[ウィルコ F-0260N-02](https://wilco.jp/products/F/F-N-02.html#page3) |
@@ -365,10 +364,12 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
 #### 基板Mid中央へのネジ止めとゴムシート貼り
 
-1. `基板Mid中央`のうら側から、`長いスペーサー`を`短いネジ（3mm）`でとめる。（4箇所）
+1. `基板Mid中央`のうら側から、`ワッシャー`を挟んだ`スペーサー`を`短いネジ（3mm）`でとめる。（4箇所）
 
     ```text
-    長いスペーサー（3.5mm）
+    スペーサー
+    ↑
+    ワッシャー  
     ↑
     －－ 基板Mid中央 －－
     ↑
@@ -430,16 +431,16 @@ SandyLPのコンセプトや特徴、ビルド例などについては、こち�
 
 #### 基板Baseへのネジ止めとゴムシート貼り
 
-1. `基板Base`のおもて側から、`短いスペーサー`を`短いネジ（2mm）`でとめる。11箇所）
+1. `基板Base`のおもて側から、`スペーサー`を`短いネジ（2mm）`でとめる。11箇所）
 
     **☠️危険：この手順のみ`短いネジ（2mm）`を使用します。**
 
     ```text
     短いネジ（2mm）
     ↓  
-    －－ 基板Mid左右 －－  
+    －－ 基板Base －－  
     ↓  
-    短いスペーサー（3mm）
+    スペーサー
     ```
 
     ![基板Bass おもて側ネジ止め箇所](../assets/BuildGuide_DN0020/pcb_base_front_screw.png)
@@ -508,10 +509,10 @@ Top用スイッチプレート
 
     ![基板Bass うら側ナット止め箇所](../assets/BuildGuide_DN0020/pcb_base_back_nut_to_mid.png)
 
-    `基板Mid中央`のおもて側から、`長いスペーサー`を取り付けます。（2箇所）
+    `基板Mid中央`のおもて側から、`スペーサー`を取り付けます。（2箇所）
 
     ```text
-    長いスペーサー(3.5mm)
+    スペーサー
     ↓
     －－ 基板Mid中央 －－  
     ↑  
